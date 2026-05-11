@@ -1,6 +1,6 @@
 """
-topic-engine: Daily research pipeline that surfaces high-opportunity AI/productivity
-video topics where SEARCH DEMAND is high but EXISTING CONTENT is weak.
+topic-engine: YouTube Auto-Suggest Scraper & Analyzer
+Surfaces high-search-volume, low-competition video topics.
 """
 
 from __future__ import annotations
@@ -8,11 +8,12 @@ from __future__ import annotations
 import datetime as dt
 import json
 import os
-import re
+import string
 import sys
 import time
 from dataclasses import dataclass, field
 from pathlib import Path
+from urllib.parse import quote_plus
 
 import requests
 import yaml
@@ -26,16 +27,10 @@ CONFIG_FILE = ROOT / "config.yaml"
 
 # ----------------------------- config + state -----------------------------
 
-def load_config() -> dict:
-    if not CONFIG_FILE.exists():
-        return {}
-    with CONFIG_FILE.open() as f:
-        return yaml.safe_load(f) or {}
-
 def load_state() -> dict:
     if STATE_FILE.exists():
         return json.loads(STATE_FILE.read_text())
-    return {"surfaced_topics": []}  # keep recent so we don't resurface same topic
+    return {"surfaced_topics": []}
 
 def save_state(state: dict) -> None:
     STATE_FILE.write_text(json.dumps(state, indent=2))
@@ -43,204 +38,69 @@ def save_state(state: dict) -> None:
 # ----------------------------- data model -----------------------------
 
 @dataclass
-class Candidate:
-    title: str
-    url: str
-    subreddit: str
-    upvotes: int
-    num_comments: int
-    age_days: float
-    body_snippet: str = ""
-    inferred_query: str = ""
-    demand_score: float = 0.0
+class QueryCandidate:
+    query: str
     supply_score: float = 0.0
     opportunity_score: float = 0.0
     yt_competitors: list[dict] = field(default_factory=list)
-    notes: list[str] = field(default_factory=list)
 
-# ----------------------------- demand: reddit harvest -----------------------------
+# ----------------------------- demand: youtube autosuggest -----------------------------
 
-PAIN_PATTERNS = re.compile(
-    r"\b("
-    r"how (?:do|can|to) (?:i|you)|"
-    r"what(?:'s| is) the best|"
-    r"is there an? (?:ai|tool|way)|"
-    r"i (?:can't|cant|cannot|am struggl|am stuck|need help|need a)|"
-    r"recommend(?:ation)?s? for|"
-    r"alternatives? to|"
-    r"better than chatgpt|"
-    r"workflow for|"
-    r"prompt(?:s)? for|"
-    r"automate"
-    r")\b",
-    re.I,
-)
-
-NEGATIVE_PATTERNS = re.compile(
-    r"\b("
-    r"meme|joke|funny|drama|controvers|"
-    r"banned|hate|lol|wtf|"
-    r"sam altman|elon musk|" 
-    r"benchmark|leaderboard|"
-    r"announced|launches|releases|just dropped" 
-    r")\b",
-    re.I,
-)
-
-DEFAULT_SUBREDDITS = [
-    "ChatGPT",
-    "ClaudeAI",
-    "OpenAI",
-    "ArtificialInteligence",
-    "ArtificialIntelligence",
-    "LocalLLaMA",
-    "PromptEngineering",
-    "Productivity",
-    "GetStudying",
-    "Notion",
-    "automation",
-    "selfhosted",
-    "Entrepreneur",
+BASE_SEEDS = [
+    "how to use ai to ",
+    "how to use ai for ",
+    "best ai tool for ",
+    "ai workflow for ",
+    "how to automate ",
+    "chatgpt for ",
 ]
 
-def fetch_reddit(subreddit: str, period: str = "week", limit: int = 50) -> list[Candidate]:
-    out: list[Candidate] = []
+def fetch_autosuggest(query: str) -> list[str]:
+    """Hits YouTube's internal autosuggest API (no key needed)."""
+    url = f"http://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q={quote_plus(query)}"
     try:
-        # IMPROVEMENT 1: Browser disguise to bypass 403 Forbidden
         resp = requests.get(
-            f"https://www.reddit.com/r/{subreddit}/top.json?t={period}&limit={limit}",
-            headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"},
-            timeout=20,
+            url, 
+            headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0.0.0"},
+            timeout=10
         )
-        if resp.status_code != 200:
-            print(f"[warn] reddit r/{subreddit}: HTTP {resp.status_code}", file=sys.stderr)
-            return out
-        
-        # IMPROVEMENT 2: Safe JSON parsing
-        try:
+        if resp.status_code == 200:
+            # Firefox format returns: ["search term", ["suggestion1", "suggestion2"]]
             data = resp.json()
-        except ValueError:
-            print(f"[warn] reddit r/{subreddit}: Failed to parse JSON response", file=sys.stderr)
-            return out
-
-        now = dt.datetime.now(dt.timezone.utc).timestamp()
-        for post in data.get("data", {}).get("children", []):
-            d = post.get("data", {})
-            title = (d.get("title") or "").strip()
-            body = (d.get("selftext") or "")[:1500]
-            if not title:
-                continue
-            combined = title + " " + body
-            if NEGATIVE_PATTERNS.search(combined):
-                continue
-            
-            has_pattern = bool(PAIN_PATTERNS.search(combined))
-            upvotes = int(d.get("score", 0))
-            comments = int(d.get("num_comments", 0))
-            
-            if not has_pattern and not (upvotes > 200 and comments > 30):
-                continue
-                
-            created = d.get("created_utc", now)
-            age_days = max(0.0, (now - created) / 86400.0)
-            out.append(Candidate(
-                title=title,
-                url=f"https://reddit.com{d.get('permalink', '')}",
-                subreddit=subreddit,
-                upvotes=upvotes,
-                num_comments=comments,
-                age_days=age_days,
-                body_snippet=body[:800],
-            ))
+            if len(data) > 1 and isinstance(data[1], list):
+                return data[1]
     except Exception as e:
-        print(f"[warn] reddit r/{subreddit} fetch: {e}", file=sys.stderr)
-    return out
+        print(f"[warn] autosuggest failed for '{query}': {e}", file=sys.stderr)
+    return []
 
-def gather_candidates(cfg: dict) -> list[Candidate]:
-    subs = cfg.get("subreddits", DEFAULT_SUBREDDITS)
-    cands: list[Candidate] = []
-    for sub in subs:
-        cands += fetch_reddit(sub, period="week", limit=50)
-        # IMPROVEMENT 3: Longer sleep to respect Reddit limits on GitHub IPs
-        time.sleep(2) 
+def gather_search_queries() -> list[str]:
+    """Uses the 'alphabet soup' method to find long-tail search queries."""
+    all_queries = set()
+    
+    for seed in BASE_SEEDS:
+        # First get the base suggestions
+        suggestions = fetch_autosuggest(seed)
+        all_queries.update(suggestions)
+        time.sleep(0.5)
         
-    seen: set[str] = set()
-    deduped: list[Candidate] = []
-    for c in cands:
-        key = " ".join(c.title.lower().split()[:8])
-        if key in seen:
-            continue
-        seen.add(key)
-        deduped.append(c)
-    return deduped
+        # Then append a-z to dig into long-tail specific problems
+        for letter in string.ascii_lowercase:
+            deep_seed = f"{seed}{letter}"
+            deep_suggestions = fetch_autosuggest(deep_seed)
+            all_queries.update(deep_suggestions)
+            time.sleep(0.5) # Gentle on the API
+            
+    # Filter out very short or generic queries
+    clean_queries = [q.lower().strip() for q in all_queries if len(q.split()) >= 4]
+    return list(set(clean_queries))
 
-# ----------------------------- demand scoring -----------------------------
-
-def compute_demand_score(c: Candidate) -> float:
-    recency_factor = max(0.3, 1.0 - (c.age_days / 30.0))
-    base = c.upvotes + 5 * c.num_comments 
-    return base * recency_factor
-
-# ----------------------------- query inference -----------------------------
-
-QUERY_INFER_PROMPT = """For each Reddit post below, infer the SHORT YouTube search query a viewer would type to find a video that solves the post's underlying problem.
-
-Rules:
-  - 3-7 words, lowercase, no punctuation
-  - Use action words: "how to", "best ai for", "fix", "automate"
-  - Generalize from the specific complaint to the searchable need
-  - If the post is venting/news/opinion (not a how-to), return an empty string
-
-Examples:
-  Post: "I keep losing track of all my AI tool subscriptions, is there an automated way to track them?"
-  Query: "how to track ai subscriptions"
-
-  Post: "ChatGPT can't remember anything between sessions. I tried memories but it forgets. What do you all do?"
-  Query: "how to make chatgpt remember between chats"
-
-  Post: "Why is Anthropic releasing Claude 4.7 already lol"
-  Query: ""
-
-Return STRICT JSON:
-{"queries": ["<query for post 0>", "<query for post 1>", ...]}
-
-Posts (index | title | body snippet):
-{posts}
-"""
-
-def infer_queries(candidates: list[Candidate], client: genai.Client) -> None:
-    BATCH = 25
-    for i in range(0, len(candidates), BATCH):
-        batch = candidates[i:i + BATCH]
-        lines = []
-        for j, c in enumerate(batch):
-            snippet = c.body_snippet[:200].replace("\n", " ")
-            lines.append(f"{j} | {c.title} | {snippet}")
-        prompt = QUERY_INFER_PROMPT.format(posts="\n".join(lines))
-        try:
-            resp = client.models.generate_content(
-                model="gemini-2.5-flash",
-                contents=prompt,
-                config=genai_types.GenerateContentConfig(
-                    response_mime_type="application/json",
-                    temperature=0.3,
-                ),
-            )
-            data = json.loads(resp.text)
-            queries = data.get("queries", [])
-        except Exception as e:
-            print(f"[warn] gemini query infer batch {i}: {e}", file=sys.stderr)
-            queries = ["" for _ in batch]
-        for c, q in zip(batch, queries):
-            c.inferred_query = (q or "").strip().lower()
-        time.sleep(2) 
-
-# ----------------------------- supply: YouTube competition lookup -----------------------------
+# ----------------------------- supply: youtube data api -----------------------------
 
 YT_SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
 YT_VIDEOS_URL = "https://www.googleapis.com/youtube/v3/videos"
 
-def youtube_competition(query: str, api_key: str, max_results: int = 8) -> list[dict]:
+def youtube_competition(query: str, api_key: str, max_results: int = 5) -> list[dict]:
+    """Return list of top YT results with view count + age + title."""
     try:
         params = {
             "part": "snippet",
@@ -285,9 +145,7 @@ def youtube_competition(query: str, api_key: str, max_results: int = 8) -> list[
                 "title": snip.get("title", ""),
                 "channel": snip.get("channelTitle", ""),
                 "views": int(stats.get("viewCount", 0)),
-                "likes": int(stats.get("likeCount", 0)),
                 "age_days": age_days,
-                "published": published[:10],
                 "url": f"https://youtu.be/{v['id']}",
             })
         return out
@@ -296,79 +154,57 @@ def youtube_competition(query: str, api_key: str, max_results: int = 8) -> list[
         return []
 
 def compute_supply_score(competitors: list[dict]) -> float:
+    """Supply score: lower = weaker competition = better opportunity."""
     if not competitors:
-        return 0.5 
+        return 0.1 # Absolute goldmine
+    
     top3 = competitors[:3]
     avg_views = sum(c["views"] for c in top3) / max(1, len(top3))
     avg_age = sum(c["age_days"] for c in top3) / max(1, len(top3))
-    count = len(competitors)
-
+    
     import math
-    views_factor = math.log10(max(1, avg_views)) / 6.0 
+    # Views: punishing if they have millions of views, easy if under 10k
+    views_factor = min(1.0, math.log10(max(1, avg_views)) / 6.0) 
+    # Age: 0 if older than 1yr (stale), 1 if today (fresh and hard to beat)
     age_factor = max(0.0, 1.0 - (avg_age / 365.0)) 
-    count_factor = min(1.0, count / 8.0)
 
-    supply = (views_factor + age_factor + count_factor) / 3.0
-    return supply
-
-# ----------------------------- opportunity ranking -----------------------------
-
-def compute_opportunity(candidates: list[Candidate]) -> None:
-    if not candidates:
-        return
-    max_demand = max((c.demand_score for c in candidates), default=1.0) or 1.0
-    for c in candidates:
-        norm_demand = c.demand_score / max_demand
-        c.opportunity_score = norm_demand * (1.0 - c.supply_score)
+    # Supply is mostly based on views, slightly weighted by how fresh the videos are
+    return (views_factor * 0.7) + (age_factor * 0.3)
 
 # ----------------------------- brief generation -----------------------------
 
-BRIEF_PROMPT = """You are writing a one-page video brief for a YouTube creator in the AI/productivity niche.
+BRIEF_PROMPT = """You are an expert YouTube strategist. I have found a highly-searched, low-competition keyword for an AI/Productivity channel.
 
-Topic context:
-  - Source pain point (Reddit): {title}
-  - Body snippet: {body}
-  - Inferred search query: "{query}"
-  - Demand signals: {upvotes} upvotes, {comments} comments, {age_days:.0f} days old, from r/{subreddit}
+Target Search Query: "{query}"
 
-Existing YouTube competition for this query:
+Existing YouTube competition for this query (Notice how weak/old/irrelevant they are):
 {competition}
 
-Write a STRICT JSON brief:
+Write a STRICT JSON video brief helping the creator dominate this specific search query:
 {{
-  "headline": "<the video title the creator should use, written for high CTR and clear value, <=70 chars>",
-  "thesis": "<one sentence on what unique angle this video should take that the existing competition misses>",
-  "pain_summary": "<2-3 sentences on what people are actually struggling with, in plain language>",
-  "what_competition_misses": "<2-3 sentences on what existing videos fail at: e.g. outdated, too theoretical, missing real workflow, no comparison>",
+  "headline": "<the perfect video title, written for high CTR, keeping the target query in mind, <=70 chars>",
+  "thesis": "<one sentence on what unique angle this video should take to easily beat the existing competition>",
+  "what_competition_misses": "<2 sentences on what the current ranking videos fail at (e.g., outdated UI, too theoretical, bad audio)>",
   "outline": [
-    "<section 1: hook + the specific problem (30s)>",
-    "<section 2: ...>",
-    "<section 3: ...>",
-    "<section 4: ...>",
-    "<section 5: closing CTA / what to try next (30s)>"
+    "<section 1: hook + address the search intent (30s)>",
+    "<section 2: step-by-step workflow...>",
+    "<section 3: real world example...>",
+    "<section 4: closing CTA (30s)>"
   ],
-  "tools_to_test": ["<3-5 specific AI tools or workflows the creator should actually try on camera>"],
-  "estimated_video_length_minutes": <int 5-10>,
-  "affiliate_opportunity": "<short note: which tools likely pay affiliate commission for signups>"
+  "tools_to_demo": ["<2-3 specific AI tools to screen-record for this>"]
 }}
 """
 
-def write_brief(c: Candidate, client: genai.Client) -> dict:
+def write_brief(c: QueryCandidate, client: genai.Client) -> dict:
     comp_lines = []
-    for v in c.yt_competitors[:5]:
+    for v in c.yt_competitors[:3]:
         comp_lines.append(
-            f"- {v['title']} ({v['channel']}, {v['views']:,} views, "
-            f"{v['age_days']:.0f}d old) — {v['url']}"
+            f"- {v['title']} ({v['channel']}, {v['views']:,} views, {v['age_days']:.0f}d old)"
         )
-    competition = "\n".join(comp_lines) if comp_lines else "(no significant competition found)"
+    competition = "\n".join(comp_lines) if comp_lines else "(No relevant competition found!)"
+    
     prompt = BRIEF_PROMPT.format(
-        title=c.title,
-        body=c.body_snippet[:600],
-        query=c.inferred_query,
-        upvotes=c.upvotes,
-        comments=c.num_comments,
-        age_days=c.age_days,
-        subreddit=c.subreddit,
+        query=c.query,
         competition=competition,
     )
     try:
@@ -382,66 +218,46 @@ def write_brief(c: Candidate, client: genai.Client) -> dict:
         )
         return json.loads(resp.text)
     except Exception as e:
-        print(f"[warn] brief gen failed for '{c.inferred_query}': {e}", file=sys.stderr)
+        print(f"[warn] brief gen failed for '{c.query}': {e}", file=sys.stderr)
         return {}
 
 # ----------------------------- report rendering -----------------------------
 
-def render_report(date_str: str, top_candidates: list[tuple[Candidate, dict]]) -> str:
+def render_report(date_str: str, top_candidates: list[tuple[QueryCandidate, dict]]) -> str:
     lines = [
-        f"# Topic Report — {date_str}",
+        f"# Search Opportunity Report — {date_str}",
         "",
-        f"Top {len(top_candidates)} video opportunities ranked by **opportunity score**",
-        "(high search demand × low existing supply). Pick one and film it.",
+        "These are highly searched YouTube queries with weak, old, or low-view competition.",
         "",
         "---",
         "",
     ]
     for rank, (c, brief) in enumerate(top_candidates, 1):
-        headline = brief.get("headline", c.inferred_query or c.title)
+        headline = brief.get("headline", c.query.title())
         lines.append(f"## #{rank}: {headline}")
         lines.append("")
-        lines.append(f"**Search query**: `{c.inferred_query}`")
+        lines.append(f"**Target Search Query**: `{c.query}`")
         lines.append("")
-        lines.append(
-            f"**Opportunity**: {c.opportunity_score:.3f} "
-            f"(demand {c.demand_score:.0f}, supply {c.supply_score:.2f})"
-        )
+        lines.append(f"**Competition Score**: {c.supply_score:.2f}/1.00 *(Lower is better)*")
         lines.append("")
         if brief.get("thesis"):
-            lines.append(f"**The angle**: {brief['thesis']}")
-            lines.append("")
-        if brief.get("pain_summary"):
-            lines.append(f"**The pain**: {brief['pain_summary']}")
+            lines.append(f"**The Angle**: {brief['thesis']}")
             lines.append("")
         if brief.get("what_competition_misses"):
-            lines.append(f"**What existing videos miss**: {brief['what_competition_misses']}")
+            lines.append(f"**Why we will win**: {brief['what_competition_misses']}")
             lines.append("")
         if brief.get("outline"):
-            lines.append("**Suggested outline**:")
+            lines.append("**Suggested Outline**:")
             for step in brief["outline"]:
                 lines.append(f"  - {step}")
             lines.append("")
-        if brief.get("tools_to_test"):
-            lines.append(f"**Tools to test on camera**: {', '.join(brief['tools_to_test'])}")
+        if brief.get("tools_to_demo"):
+            lines.append(f"**Tools to Demo**: {', '.join(brief['tools_to_demo'])}")
             lines.append("")
-        est = brief.get("estimated_video_length_minutes")
-        if est:
-            lines.append(f"**Target length**: {est} minutes")
-            lines.append("")
-        if brief.get("affiliate_opportunity"):
-            lines.append(f"**Affiliate angle**: {brief['affiliate_opportunity']}")
-            lines.append("")
-        lines.append(f"**Source post**: [{c.title}]({c.url}) — r/{c.subreddit}, "
-                     f"{c.upvotes}↑ {c.num_comments}💬, {c.age_days:.0f}d old")
-        lines.append("")
         if c.yt_competitors:
-            lines.append("**Top YouTube competition**:")
-            for v in c.yt_competitors[:5]:
-                lines.append(
-                    f"  - [{v['title']}]({v['url']}) — {v['channel']}, "
-                    f"{v['views']:,} views, {v['age_days']:.0f}d old"
-                )
+            lines.append("**Current Top Ranking Videos**:")
+            for v in c.yt_competitors[:3]:
+                lines.append(f"  - [{v['title']}]({v['url']}) — {v['views']:,} views, {v['age_days']:.0f}d old")
             lines.append("")
         lines.append("---")
         lines.append("")
@@ -451,87 +267,67 @@ def render_report(date_str: str, top_candidates: list[tuple[Candidate, dict]]) -
 
 def main() -> int:
     REPORTS_DIR.mkdir(exist_ok=True)
-    cfg = load_config()
     state = load_state()
-
     surfaced = set(state.get("surfaced_topics", []))
 
     yt_api_key = os.environ.get("YT_API_KEY")
     gemini_api_key = os.environ.get("GEMINI_API_KEY")
     
     if not yt_api_key or not gemini_api_key:
-        print("[error] Missing required environment variables (YT_API_KEY or GEMINI_API_KEY).", file=sys.stderr)
+        print("[error] Missing required API keys.", file=sys.stderr)
         return 1
 
     gemini_client = genai.Client(api_key=gemini_api_key)
 
-    # 1. gather
-    print("[1/6] Gathering Reddit pain-point candidates...")
-    candidates = gather_candidates(cfg)
-    print(f"      {len(candidates)} candidates after dedup + filters")
-    if not candidates:
-        print("[error] no candidates found", file=sys.stderr)
+    # 1. Gather Search Queries directly from YouTube
+    print("[1/4] Scraping YouTube Auto-Suggest for high-demand queries...")
+    raw_queries = gather_search_queries()
+    # Filter out ones we've already done
+    new_queries = [q for q in raw_queries if q not in surfaced]
+    print(f"      Found {len(new_queries)} fresh, high-volume search queries.")
+
+    if not new_queries:
+        print("[error] No new queries found.", file=sys.stderr)
         return 1
 
-    # 2. demand scoring
-    print("[2/6] Scoring demand (engagement x recency)...")
-    for c in candidates:
-        c.demand_score = compute_demand_score(c)
-    top_by_demand = sorted(candidates, key=lambda c: c.demand_score, reverse=True)
-    cap = int(cfg.get("max_candidates_for_supply_check", 40))
-    top_by_demand = top_by_demand[:cap]
-    print(f"      keeping top {len(top_by_demand)} by demand for supply analysis")
+    # 2. YouTube Competition Lookup
+    # We only check a random sample of 30 to save API quota, since autosuggest gives us hundreds
+    import random
+    sample_queries = random.sample(new_queries, min(30, len(new_queries)))
+    
+    print(f"[2/4] Checking competition metrics for {len(sample_queries)} queries...")
+    candidates = []
+    for i, q in enumerate(sample_queries):
+        comp = youtube_competition(q, yt_api_key)
+        score = compute_supply_score(comp)
+        candidates.append(QueryCandidate(query=q, supply_score=score, yt_competitors=comp))
+        time.sleep(0.2)
+        if (i + 1) % 10 == 0:
+            print(f"      ...checked {i+1}/{len(sample_queries)}")
 
-    # 3. infer queries
-    print("[3/6] Inferring YouTube search queries via Gemini...")
-    infer_queries(top_by_demand, gemini_client)
-    top_by_demand = [c for c in top_by_demand if c.inferred_query]
-    top_by_demand = [c for c in top_by_demand if c.inferred_query not in surfaced]
-    print(f"      {len(top_by_demand)} have actionable queries (not seen before)")
+    # 3. Opportunity Ranking (Lowest supply score wins, because demand is guaranteed by Autosuggest)
+    print("[3/4] Ranking opportunities...")
+    ranked = sorted(candidates, key=lambda c: c.supply_score)
+    finalists = ranked[:5]
 
-    if not top_by_demand:
-        print("[error] no actionable queries remained after Gemini inference", file=sys.stderr)
-        return 1
-
-    # 4. YouTube supply lookup
-    print("[4/6] Probing YouTube competition for each query...")
-    for i, c in enumerate(top_by_demand):
-        c.yt_competitors = youtube_competition(c.inferred_query, yt_api_key)
-        c.supply_score = compute_supply_score(c.yt_competitors)
-        if (i + 1) % 5 == 0:
-            print(f"      ...probed {i+1}/{len(top_by_demand)}")
-        time.sleep(0.3) 
-
-    # 5. opportunity ranking
-    print("[5/6] Computing opportunity scores (demand / supply)...")
-    compute_opportunity(top_by_demand)
-    ranked = sorted(top_by_demand, key=lambda c: c.opportunity_score, reverse=True)
-    top_n = int(cfg.get("daily_topic_count", 5))
-    finalists = ranked[:top_n]
-    print(f"      finalists: {len(finalists)}")
-
-    # 6. briefs + report
-    print("[6/6] Writing briefs for finalists...")
-    enriched: list[tuple[Candidate, dict]] = []
+    # 4. Briefs + Report
+    print("[4/4] Generating video strategies with Gemini...")
+    enriched = []
     for c in finalists:
         brief = write_brief(c, gemini_client)
         enriched.append((c, brief))
-        time.sleep(2)
+        surfaced.add(c.query)
 
     date_str = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
     md = render_report(date_str, enriched)
     report_path = REPORTS_DIR / f"{date_str}.md"
     report_path.write_text(md, encoding="utf-8")
     (REPORTS_DIR / "LATEST.md").write_text(md, encoding="utf-8")
-    print(f"      wrote {report_path.relative_to(ROOT)}")
-
-    # update state
-    for c, _ in enriched:
-        surfaced.add(c.inferred_query)
+    
     state["surfaced_topics"] = list(surfaced)[-500:]
     save_state(state)
 
-    print("[done]")
+    print(f"[done] Wrote report to {report_path.relative_to(ROOT)}")
     return 0
 
 if __name__ == "__main__":
