@@ -4,67 +4,79 @@ These are highly searched YouTube queries with weak, old, or low-view competitio
 
 ---
 
-## #1: How To Automate Robinhood Trading
+## #1: How To Automate A Shopify Store
 
-**Target Search Query**: `how to automate robinhood trading`
+**Target Search Query**: `how to automate a shopify store`
 
-**Competition Score**: 0.37/1.00 *(Lower is better)*
+**Competition Score**: 0.43/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How To Automate Robinhood Trading (Full Guide)](https://youtu.be/0Ua_dH00ABk) — 495 views, 223d old
-  - [How To Set Up Automatic Investing On Robinhood For Beginners (FULL Step By Step Tutorial)](https://youtu.be/ss0xkvUdjUA) — 3,715 views, 960d old
-  - [How to Automate Trading on Robinhood 2025?](https://youtu.be/jaZZtwfFySY) — 634 views, 448d old
+  - [Shopify Automations Tutorial for Beginners — How to Use Shopify Automations (2025 Step-by-Step)](https://youtu.be/cd93Atsl4VQ) — 288 views, 199d old
+  - [How to build a Shopify store: Marketing Automation Tools](https://youtu.be/sn4rQWzAarQ) — 6,144 views, 332d old
+  - [5 Tools To Build An Automated Shopify Store (2 hour work week)](https://youtu.be/2ziKWY2Mc0Y) — 9,214 views, 916d old
 
 ---
 
-## #2: How To Automate Google Reviews
+## #2: How To Use Ai To Write A Resume
 
-**Target Search Query**: `how to automate google reviews`
+**Target Search Query**: `how to use ai to write a resume`
 
-**Competition Score**: 0.38/1.00 *(Lower is better)*
+**Competition Score**: 0.50/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How To Automate Getting More Google Reviews](https://youtu.be/ICGZiTmKGBU) — 739 views, 443d old
-  - [How To Fully Automate Google Reviews With GoHighLevel](https://youtu.be/ltdnuG9fAxE) — 3,755 views, 157d old
-  - [How To Automate Google Reviews With GoHighLevel (Correctly) | Step-By-Step Tutorial](https://youtu.be/URmdR2J3o-w) — 826 views, 759d old
+  - [How to Use AI to Write a Resume](https://youtu.be/09Ri1LkZXwA) — 21,727 views, 346d old
+  - [How Recruiters Can Tell Your Resume Came From ChatGPT - #resume #ai #artificialintelligence](https://youtu.be/ZcmFycVILwQ) — 16,336 views, 1026d old
+  - [How to get your resume past an AI hiring filter](https://youtu.be/7-CM0DF0nZE) — 15,773 views, 360d old
 
 ---
 
-## #3: How To Use Ai For Instructional Design
+## #3: Best Ai Tool For Social Media Marketing
 
-**Target Search Query**: `how to use ai for instructional design`
+**Target Search Query**: `best ai tool for social media marketing`
 
-**Competition Score**: 0.45/1.00 *(Lower is better)*
+**Competition Score**: 0.51/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [5 Essential AI Skills for Instructional Designers](https://youtu.be/dWJPVAMwlAE) — 10,551 views, 475d old
-  - [Introduction to Artificial Intelligence for Instructional Designers](https://youtu.be/YOZGxd6ZC3A) — 8,542 views, 489d old
-  - [Research: How Instructional Designers Use Artificial Intelligence](https://youtu.be/pWR-sIslPgs) — 726 views, 245d old
+  - [Best AI Tools for Social Media Marketing in 2026 (Beginner-Friendly AI Tools)](https://youtu.be/P7iTtorsno0) — 2,893 views, 76d old
+  - [Top 5 AI tools for Social Media Marketing | 2026](https://youtu.be/_7hlU73cTNw) — 6,042 views, 207d old
+  - [5 Best New Ai Social Media Marketing Tools | Small Business](https://youtu.be/ULwrCf09Czo) — 29,433 views, 698d old
 
 ---
 
-## #4: Chatgpt For Construction Project Management
+## #4: How To Automate Vanguard Investing
 
-**Target Search Query**: `chatgpt for construction project management`
-
-**Competition Score**: 0.48/1.00 *(Lower is better)*
-
-**Current Top Ranking Videos**:
-  - [Contractor Hacks For ChatGPT That 10x Your Productivity](https://youtu.be/TLyJayxy9r8) — 27,528 views, 1052d old
-  - [How to use ChatGPT 5 in construction](https://youtu.be/WZhKkP_lSzM) — 842 views, 271d old
-  - [6 ChatGPT Prompts for Project Managers | 5 Minute Friday](https://youtu.be/GZZiPlqIi0I) — 11,623 views, 990d old
-
----
-
-## #5: How To Automate Wither Killing Skyfactory 3
-
-**Target Search Query**: `how to automate wither killing skyfactory 3`
+**Target Search Query**: `how to automate vanguard investing`
 
 **Competition Score**: 0.52/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [Ep 47 / Automate Wither Killing / Sky Factory 3.0 / FTB / Minecraft / Tutorial](https://youtu.be/rNu4gFifWWs) — 4,828 views, 3341d old
-  - [[TUTORIAL]Sky Factory 3 - Significantly improved FULLY automated Wither Farm!](https://youtu.be/ADyQa4-M1o0) — 73,844 views, 3406d old
-  - [Skyfactory 3 - Achievement Guide - Ep 31 - Automated Wither Killing](https://youtu.be/piht-MN5grI) — 3,202 views, 2667d old
+  - [How to Setup Automatic Investments with Vanguard ETFs](https://youtu.be/xTEyjgolwdI) — 20,841 views, 558d old
+  - [How to Set Up Automatic Investments on Vanguard](https://youtu.be/NzNM8ugPL5o) — 62,575 views, 2021d old
+  - [How To Automate Vanguard Investing](https://youtu.be/Phj18wLNLbw) — 1,451 views, 1061d old
+
+---
+
+## #5: Automate Filters in Ableton: Master Dynamic Sound (AI Workflow)
+
+**Target Search Query**: `how to automate filter in ableton`
+
+**Competition Score**: 0.52/1.00 *(Lower is better)*
+
+**The Angle**: This video will provide a modern, step-by-step, and highly efficient workflow for automating filters in Ableton Live, focusing on practical applications and time-saving techniques relevant to today's producers.
+
+**Why we will win**: Existing videos suffer from outdated Ableton interfaces and often present theoretical concepts without practical, modern workflow applications. They also fail to demonstrate efficient techniques, leaving viewers with a fragmented understanding of filter automation's true potential.
+
+**Suggested Outline**:
+  - Hook: Instantly grab attention by showcasing a dramatic filter sweep and promising to reveal the easiest way to achieve dynamic sound in Ableton (30s).
+  - Step-by-step workflow: Clearly demonstrate how to select parameters, add automation envelopes, use different drawing tools, and refine automation curves for precision. Emphasize efficient shortcuts and modern Ableton UI features.
+  - Real-world examples: Apply filter automation to diverse elements like synth pads, drums, and basslines, demonstrating creative uses such as buildups, breakdowns, texture creation, and subtle sonic evolution within a track.
+  - Closing & CTA: Briefly recap the power of filter automation for professional mixes, encourage viewers to experiment, and prompt them to like, subscribe, and comment on their favorite Ableton automation trick (30s).
+
+**Tools to Demo**: ChatGPT (or similar LLM) for brainstorming creative filter automation ideas and common techniques., iZotope Neutron's Track Assistant to demonstrate how AI can suggest initial EQ/filter settings, providing a smart starting point for manual automation in Ableton.
+
+**Current Top Ranking Videos**:
+  - [Filter Automation In Ableton | How To Make Filter Sweeps And Effects With Simple Automation](https://youtu.be/RH3FsKn3cEs) — 19,604 views, 1999d old
+  - [Volume Automation Sucks, Use Filters In Ableton Live 11!](https://youtu.be/scBQh7bqvmI) — 54,015 views, 1215d old
+  - [How to use Filter Automation 🎚 #ableton #abletonlive](https://youtu.be/Ajwe7Agj3Ac) — 12,218 views, 1379d old
 
 ---
