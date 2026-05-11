@@ -1,0 +1,26 @@
+# topic-engine config
+
+# How many topics to surface per daily report
+daily_topic_count: 5
+
+# Cap on how many candidates we send to YouTube API for supply scoring.
+# YouTube Data API free quota = 10,000 units/day. Each search = 100 units,
+# each video lookup = 1 unit. 40 candidates ~= 40*(100+1) = 4040 units. Safe.
+max_candidates_for_supply_check: 40
+
+# Subreddits to scan for pain points. The pipeline filters to "how do I" /
+# "what's the best AI for" / "is there an AI" patterns automatically.
+subreddits:
+  - ChatGPT
+  - ClaudeAI
+  - OpenAI
+  - ArtificialIntelligence
+  - LocalLLaMA
+  - PromptEngineering
+  - Productivity
+  - Notion
+  - automation
+  - selfhosted
+  - Entrepreneur
+  - smallbusiness
+  - sidehustle
