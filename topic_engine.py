@@ -440,4 +440,99 @@ def render_report(date_str: str, top_candidates: list[tuple[Candidate, dict]]) -
             for v in c.yt_competitors[:5]:
                 lines.append(
                     f"  - [{v['title']}]({v['url']}) — {v['channel']}, "
-                    f"{v['views']:,} views, {v['age_days']:.0f}d old
+                    f"{v['views']:,} views, {v['age_days']:.0f}d old"
+                )
+            lines.append("")
+        lines.append("---")
+        lines.append("")
+    return "\n".join(lines)
+
+# ----------------------------- driver -----------------------------
+
+def main() -> int:
+    REPORTS_DIR.mkdir(exist_ok=True)
+    cfg = load_config()
+    state = load_state()
+
+    surfaced = set(state.get("surfaced_topics", []))
+
+    yt_api_key = os.environ.get("YT_API_KEY")
+    gemini_api_key = os.environ.get("GEMINI_API_KEY")
+    
+    if not yt_api_key or not gemini_api_key:
+        print("[error] Missing required environment variables (YT_API_KEY or GEMINI_API_KEY).", file=sys.stderr)
+        return 1
+
+    gemini_client = genai.Client(api_key=gemini_api_key)
+
+    # 1. gather
+    print("[1/6] Gathering Reddit pain-point candidates...")
+    candidates = gather_candidates(cfg)
+    print(f"      {len(candidates)} candidates after dedup + filters")
+    if not candidates:
+        print("[error] no candidates found", file=sys.stderr)
+        return 1
+
+    # 2. demand scoring
+    print("[2/6] Scoring demand (engagement x recency)...")
+    for c in candidates:
+        c.demand_score = compute_demand_score(c)
+    top_by_demand = sorted(candidates, key=lambda c: c.demand_score, reverse=True)
+    cap = int(cfg.get("max_candidates_for_supply_check", 40))
+    top_by_demand = top_by_demand[:cap]
+    print(f"      keeping top {len(top_by_demand)} by demand for supply analysis")
+
+    # 3. infer queries
+    print("[3/6] Inferring YouTube search queries via Gemini...")
+    infer_queries(top_by_demand, gemini_client)
+    top_by_demand = [c for c in top_by_demand if c.inferred_query]
+    top_by_demand = [c for c in top_by_demand if c.inferred_query not in surfaced]
+    print(f"      {len(top_by_demand)} have actionable queries (not seen before)")
+
+    if not top_by_demand:
+        print("[error] no actionable queries remained after Gemini inference", file=sys.stderr)
+        return 1
+
+    # 4. YouTube supply lookup
+    print("[4/6] Probing YouTube competition for each query...")
+    for i, c in enumerate(top_by_demand):
+        c.yt_competitors = youtube_competition(c.inferred_query, yt_api_key)
+        c.supply_score = compute_supply_score(c.yt_competitors)
+        if (i + 1) % 5 == 0:
+            print(f"      ...probed {i+1}/{len(top_by_demand)}")
+        time.sleep(0.3) 
+
+    # 5. opportunity ranking
+    print("[5/6] Computing opportunity scores (demand / supply)...")
+    compute_opportunity(top_by_demand)
+    ranked = sorted(top_by_demand, key=lambda c: c.opportunity_score, reverse=True)
+    top_n = int(cfg.get("daily_topic_count", 5))
+    finalists = ranked[:top_n]
+    print(f"      finalists: {len(finalists)}")
+
+    # 6. briefs + report
+    print("[6/6] Writing briefs for finalists...")
+    enriched: list[tuple[Candidate, dict]] = []
+    for c in finalists:
+        brief = write_brief(c, gemini_client)
+        enriched.append((c, brief))
+        time.sleep(2)
+
+    date_str = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
+    md = render_report(date_str, enriched)
+    report_path = REPORTS_DIR / f"{date_str}.md"
+    report_path.write_text(md, encoding="utf-8")
+    (REPORTS_DIR / "LATEST.md").write_text(md, encoding="utf-8")
+    print(f"      wrote {report_path.relative_to(ROOT)}")
+
+    # update state
+    for c, _ in enriched:
+        surfaced.add(c.inferred_query)
+    state["surfaced_topics"] = list(surfaced)[-500:]
+    save_state(state)
+
+    print("[done]")
+    return 0
+
+if __name__ == "__main__":
+    sys.exit(main())
