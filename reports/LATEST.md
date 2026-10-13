@@ -1,118 +1,118 @@
-# Search Opportunity Report — 2026-10-12
+# Search Opportunity Report — 2026-10-13
 
 These are highly searched YouTube queries with weak, old, or low-view competition.
 
 ---
 
-## #1: Automate Workflows with AI: Real Examples & Tools (Step-by-Step)
+## #1: How To Automate Linkedin Posts
 
-**Target Search Query**: `how to automate workflows using ai`
+**Target Search Query**: `how to automate linkedin posts`
 
-**Competition Score**: 0.48/1.00 *(Lower is better)*
-
-**The Angle**: This video will provide a current, practical, step-by-step guide demonstrating how to build and implement AI-powered workflows using modern tools, focusing on immediate, tangible productivity gains.
-
-**Why we will win**: The existing competition often features outdated interfaces and tools, making their "how-to" guides irrelevant for today's AI landscape. Furthermore, many videos are either too theoretical or focus on future possibilities rather than providing immediate, actionable, step-by-step demonstrations with current, accessible tools.
-
-**Suggested Outline**:
-  - Hook: The power of AI automation & what you'll learn (30s)
-  - Step-by-step guide to identifying tasks, planning your workflow, and connecting AI tools.
-  - Real-world example: Building an AI workflow from scratch (e.g., content repurposing or data extraction automation).
-  - Recap, future possibilities, and call to action (30s)
-
-**Tools to Demo**: Make.com, ChatGPT, Bardeen.ai
+**Competition Score**: 0.51/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How To Use AI Workflows to Automate ANYTHING (Beginner Friendly Method)](https://youtu.be/OA4UP4O1hz0) — 10,021 views, 428d old
-  - [AI Automation is EASY (Build a REAL workflow in 5 minutes)](https://youtu.be/aTMvMSY4CZc) — 18,520 views, 1189d old
-  - [How to Use AI Agents to Automate Your Entire Workflow in 2026](https://youtu.be/3_BbMHwNLzc) — 14,495 views, 147d old
+  - [Automate LinkedIn Posts in 5 Minutes with Make.com](https://youtu.be/VyY9ciZOpW4) — 9,382 views, 555d old
+  - [Authentic LinkedIn Automation: How I Post Daily with n8n (Copy my workflows)](https://youtu.be/PSxo2nzO1tg) — 9,060 views, 326d old
+  - [How I Fully Automated My LinkedIn Posts! (Claude Code)](https://youtu.be/1q0RmehD8SU) — 30,605 views, 157d old
 
 ---
 
-## #2: How to Use AI for Facebook Marketplace: Sell 10X Faster!
+## #2: Automate Emails with AI: The Ultimate Productivity Hack
 
-**Target Search Query**: `how to use ai for facebook marketplace`
-
-**Competition Score**: 0.54/1.00 *(Lower is better)*
-
-**The Angle**: This video will provide a modern, step-by-step, visual workflow demonstrating how to leverage multiple AI tools to optimize listings, price items, and streamline communication for significantly faster sales on Facebook Marketplace.
-
-**Why we will win**: The existing competition either uses outdated AI tools and UIs, or provides overly theoretical advice without practical, screen-recorded demonstrations. They fail to offer a cohesive, multi-AI tool workflow that covers the entire selling process from listing creation to negotiation.
-
-**Suggested Outline**:
-  - Hook + Address Search Intent (30s): "Unlock the secret to selling ANYTHING faster on Facebook Marketplace using AI. Tired of listings sitting for weeks? In this video, I'll show you a step-by-step AI workflow to create irresistible listings, price perfectly, and close deals quicker than ever."
-  - AI-Powered Listing Creation Workflow: Live demo covering brainstorming & keyword research with ChatGPT, crafting irresistible titles & descriptions using ChatGPT/Claude, and optimizing product images with Canva AI (background removal, enhancement).
-  - Smart Pricing & Negotiation with AI: Demonstrate using ChatGPT to analyze market trends for competitive pricing and generate effective, time-saving negotiation scripts for common buyer questions and offers.
-  - Closing CTA (30s): "Implement these AI strategies and watch your Facebook Marketplace sales explode! Like this video if you're ready to sell smarter, subscribe for more AI productivity hacks, and comment below what you're listing first!"
-
-**Tools to Demo**: ChatGPT, Claude, Canva AI
-
-**Current Top Ranking Videos**:
-  - [I Used Zuck’s $250M AI To Flip on Facebook Marketplace](https://youtu.be/GRCrnXouCzE) — 16,776 views, 428d old
-  - [How AI Makes Facebook Marketplace a Gold Mine](https://youtu.be/CVlZdvDthOM) — 104,923 views, 201d old
-  - [How to Sell FAST on FaceBook Marketplace With ChatGPT](https://youtu.be/rqBorUK2TPs) — 4,784 views, 1309d old
-
----
-
-## #3: Automate TikTok with AI (2024): Go Viral on Autopilot!
-
-**Target Search Query**: `how to automate tiktok with ai`
+**Target Search Query**: `how to automate emails`
 
 **Competition Score**: 0.55/1.00 *(Lower is better)*
 
-**The Angle**: This video will provide a complete, step-by-step, hands-on tutorial using the latest AI tools to build a fully automated TikTok content pipeline from idea to post, making it genuinely actionable for any creator.
+**The Angle**: This video will demonstrate how to easily set up powerful, cross-platform email automation using modern AI tools, saving hours and boosting productivity for diverse use cases.
 
-**Why we will win**: The existing videos are severely outdated, often showcasing deprecated AI tools or complex, theoretical workflows that are no longer practical for today's creators. They also lack a truly comprehensive, screen-recorded, end-to-end demonstration of the entire automation process.
+**Why we will win**: Existing videos are largely outdated, focusing on basic Outlook rules or offering theoretical AI concepts without clear, actionable, step-by-step workflows for modern users. They fail to showcase how current AI tools can automate diverse email tasks across multiple platforms, missing the opportunity to deliver a truly comprehensive and practical guide.
 
 **Suggested Outline**:
-  - Hook: Imagine TikTok content created and posted while you sleep. I'll show you exactly how to automate TikTok with AI, turning hours of manual work into minutes, so you can scale your presence effortlessly (30s).
-  - Step-by-step Workflow: A practical guide covering content idea generation with AI, script writing and refinement, realistic voiceover creation, turning text into engaging video clips (including stock footage and captions), and finally, connecting it all with automation tools like Zapier or Make for scheduled posting.
-  - Real-World Example: Let's build an automated 'daily AI news' TikTok channel from scratch. I'll demonstrate creating one full video from concept to scheduled post, highlighting key settings and common pitfalls to avoid.
-  - Closing CTA: Recap the power of AI automation for TikTok and how it frees up your time. Encourage viewers to subscribe for more AI productivity hacks, comment with their favorite automation tools, and check out resources in the description (30s).
+  - Hook: "Tired of repetitive emails? Imagine automating them!" (30s) - Introduce the pain point and immediately promise a modern AI solution to automate emails, setting the stage for significant time savings.
+  - Step-by-step Workflow: Demonstrate setting up a common automation (e.g., auto-reply with personalized AI response or follow-up email) using Zapier to connect Gmail with ChatGPT. Show triggers, actions, and how to craft effective AI prompts.
+  - Real-World Example: Apply the workflow to a practical scenario like automating sales lead follow-ups or customer service FAQs. Show the automation running end-to-end, highlighting the efficiency and personalization achieved.
+  - Closing CTA (30s): Recap the benefits of AI email automation, encourage viewers to implement these strategies, and prompt them to like, subscribe, and share their own automation ideas in the comments.
 
-**Tools to Demo**: ChatGPT, ElevenLabs, Pictory AI
+**Tools to Demo**: Zapier, ChatGPT, Gmail (via Zapier integration)
 
 **Current Top Ranking Videos**:
-  - [The World's Shortest TikTok Automation Guide You'll Ever Need](https://youtu.be/7vfWZt2DDww) — 58,992 views, 578d old
-  - [Building An Automated Viral TikTok Account With AI](https://youtu.be/VdpBgNJ5GaM) — 37,085 views, 367d old
-  - [How This AI Automation Creates 100 Viral TikTok Videos Daily!](https://youtu.be/Jsx-rImkdQk) — 52,380 views, 354d old
+  - [How to Automate Regular Emails in Microsoft Outlook](https://youtu.be/HfMzxamFNUk) — 132,467 views, 825d old
+  - [Stop Writing Emails. How to Automate Them With AI?](https://youtu.be/bPBOyjJe274) — 8,857 views, 288d old
+  - [How to Automate Emails with Outlook Rules](https://youtu.be/ikxCzw5miCo) — 9,652 views, 226d old
 
 ---
 
-## #4: ChatGPT for House Design: Plan Your Dream Home (Step-by-Step Guide)
+## #3: How to Use AI for Email Marketing: My 1-Hour System (2024)
 
-**Target Search Query**: `chatgpt for house design`
+**Target Search Query**: `how to use ai for email marketing`
 
-**Competition Score**: 0.57/1.00 *(Lower is better)*
+**Competition Score**: 0.60/1.00 *(Lower is better)*
 
-**The Angle**: This video will offer a highly practical, step-by-step workflow demonstrating how anyone can use ChatGPT and integrated AI tools to generate realistic, actionable house designs and interior concepts.
+**The Angle**: This video will provide a complete, step-by-step, screen-recorded workflow demonstrating how to leverage specific AI tools to craft high-converting email marketing campaigns from scratch in under an hour.
 
-**Why we will win**: The existing competition is largely outdated, featuring old ChatGPT UIs and theoretical discussions rather than practical, modern, step-by-step guides. They also often miss integrating ChatGPT with visual AI tools to create actual design concepts, focusing instead on generic decorating tips.
+**Why we will win**: Existing videos are often too theoretical or showcase outdated AI interfaces, failing to provide a cohesive, start-to-finish workflow that viewers can immediately replicate. They lack a practical, screen-recorded demonstration of how to integrate multiple AI tools into a seamless, efficient email marketing process.
 
 **Suggested Outline**:
-  - Hook: Imagine designing your dream home with AI – it's easier than you think. In this video, I'll show you the exact process to use ChatGPT for house design, from concept to visualization. (30s)
-  - Step-by-Step Workflow: How to use ChatGPT to define your vision, generate floor plan ideas, brainstorm interior styles, and create detailed prompts for visual AI tools. We'll cover refining your design with iterative prompts.
-  - Real-World Example: A full walkthrough of designing a specific room or small house section from scratch. We'll input initial ideas into ChatGPT, use its outputs to generate visual renders, and iterate until a compelling design emerges.
-  - Closing CTA: Summarize the power of AI for personal design projects. Encourage viewers to try these tools themselves, like the video, subscribe for more AI productivity tips, and check the description for all tool links. (30s)
+  - Hook: The email marketing struggle is real, but AI can transform it. Today, I'll reveal my exact 1-hour system to use AI for email marketing, dramatically boosting your opens and sales. (30s)
+  - Step-by-step Workflow: From audience analysis and content strategy with AI, to crafting compelling subject lines, body copy, and CTAs, then optimizing for personalization and A/B testing ideas. We'll build each component using specific AI tools.
+  - Real-World Example: Let's apply this system to a live scenario. I'll demonstrate building a 3-part welcome email sequence for a fictional SaaS product, showing the entire process from prompt to polished draft.
+  - Closing CTA: Recap the power of AI for email marketing, encourage viewers to implement this system, subscribe for more AI productivity tips, and share their biggest email marketing wins in the comments. (30s)
 
-**Tools to Demo**: ChatGPT (GPT-4 for advanced prompting and DALL-E 3 integration), Midjourney (for high-quality interior/exterior renders from ChatGPT prompts), RoomGPT (for generating basic floor plans or room layouts from text descriptions)
+**Tools to Demo**: ChatGPT (for strategy, outlining, initial draft generation), Claude (for refining copy, tone adjustments, generating variations), Mailchimp/ConvertKit (briefly show how to paste and format AI-generated content)
 
 **Current Top Ranking Videos**:
-  - [Elevate Your ENTIRE Home Using ChatGPT | How I Made My House Look Professionally Designed for FREE](https://youtu.be/XGQpxvKqKM4) — 97,573 views, 457d old
-  - [ChatGPT Just Changed Everything for Architects & Interior Designers 🤯 Useful or Overhyped?](https://youtu.be/I3bk37zTUBE) — 41,719 views, 463d old
-  - [How to Decorate Your Home Using AI (Step by Step Guide)](https://youtu.be/-GqV72Q86Jk) — 48,606 views, 127d old
+  - [How I Use AI To Make Email Marketing EASY!](https://youtu.be/M-KXUlo_tOU) — 7,415 views, 428d old
+  - [I Built a Complete AI Email Marketing System in 16 Minutes (Prompts Included)](https://youtu.be/UA8QQv5sepU) — 4,921 views, 84d old
+  - [How to Master AI Email Marketing Better Than 99% of People](https://youtu.be/XNRr8LhmLlQ) — 12,845 views, 49d old
 
 ---
 
-## #5: Best Ai Tool For Youtube Channel
+## #4: BEST AI Tool for Instagram Reels (Make 100 Reels in 10 Mins!)
 
-**Target Search Query**: `best ai tool for youtube channel`
+**Target Search Query**: `best ai tool for instagram reels`
 
-**Competition Score**: 0.58/1.00 *(Lower is better)*
+**Competition Score**: 0.61/1.00 *(Lower is better)*
+
+**The Angle**: This video will reveal a single, powerful AI tool that simplifies the entire Instagram Reels creation process, from script to video, focusing on high-quality, engaging content rather than just quantity.
+
+**Why we will win**: The existing videos are either outdated, focus on theoretical strategies without practical demonstrations, or showcase tools that are no longer optimal for modern Instagram content. They often fail to provide a clear, step-by-step workflow for creating *engaging* reels using the latest AI capabilities.
+
+**Suggested Outline**:
+  - Hook: 'Tired of spending hours on Instagram Reels? What if I told you an AI could do it for you in minutes?' Address intent: 'You're looking for the best AI tool for Instagram Reels, and today, I'm revealing the one that will change your workflow forever.' (30s)
+  - Step-by-step workflow: Introduce the chosen AI tool. Demonstrate the entire process from idea generation (prompting) to script/caption creation, video generation, basic editing/refinement within the tool, and export. Emphasize ease, speed, and quality.
+  - Real-world example: Take a specific niche or product (e.g., fitness tips, tech reviews). Fully demonstrate creating a complete, high-quality Instagram Reel from scratch using the AI tool, showcasing its features and the final output.
+  - Closing CTA: Recap the key benefits of using the tool. Encourage viewers to try it out and share their experiences. Call to action: subscribe, like, comment, and check the description for direct links and a potential discount. (30s)
+
+**Tools to Demo**: InVideo AI, Pictory AI
 
 **Current Top Ranking Videos**:
-  - [The Best AI Tool for Making YouTube Videos (2026)](https://youtu.be/x7ne4LqKCl0) — 74,165 views, 91d old
-  - [Top 8 AI Tools To Create KILLER YouTube Videos](https://youtu.be/hUoYR9b3lzA) — 181,640 views, 861d old
-  - [6 Best AI Tools For YouTube Content Creators](https://youtu.be/usll4p9ziRw) — 10,199 views, 341d old
+  - [📱 TOP 5 Best AI Tools to Create Instagram Reels in 2026 | The best AI Reel Makers](https://youtu.be/Madce1pecEc) — 7,050 views, 289d old
+  - [I Made 60 Instagram Reels in 60 Min With Just 2 AI Tools](https://youtu.be/NiwIFDxHaJE) — 436,921 views, 1149d old
+  - [How to Use AI to Make $20k/month Through Faceless Instagram Reels](https://youtu.be/g7l5Fath6Rg) — 71,116 views, 502d old
+
+---
+
+## #5: How to Use AI for Pictures: Create Stunning Images FAST & FREE!
+
+**Target Search Query**: `how to use ai for pictures`
+
+**Competition Score**: 0.62/1.00 *(Lower is better)*
+
+**The Angle**: This video will demonstrate a practical, step-by-step workflow for using the best current AI image generators to create high-quality pictures for various real-world applications, moving beyond basic text prompts.
+
+**Why we will win**: The existing competition largely relies on outdated AI tools like early ChatGPT image generation or niche phone apps, failing to showcase the power and versatility of modern AI image generators. They also lack practical, step-by-step workflows for diverse use cases, leaving viewers without a clear understanding of how to apply AI picture generation effectively in real-world scenarios.
+
+**Suggested Outline**:
+  - Hook: Start with a captivating AI-generated image and ask viewers if they want to create similar visuals effortlessly, then immediately state the video's purpose: a comprehensive guide to using AI for pictures (30s).
+  - Step-by-step workflow: Introduce 2-3 top AI image generators. Demonstrate basic prompt engineering, iterating on prompts, using negative prompts, and exploring style variations within each tool.
+  - Real-world example: Pick a common scenario (e.g., creating social media graphics, blog post headers, or product mockups). Walk through the entire process from concept to a polished, ready-to-use AI-generated image.
+  - Closing CTA: Recap the power of AI for pictures, encourage viewers to experiment, and provide a clear call to action to subscribe, like, and comment with their favorite AI tool or use case (30s).
+
+**Tools to Demo**: Midjourney, DALL-E 3 (via ChatGPT Plus), Leonardo.ai
+
+**Current Top Ranking Videos**:
+  - [How To Use AI App For Pictures - Full Guide](https://youtu.be/li1sXGU5bN8) — 7,216 views, 518d old
+  - [How to Make & Edit Images with ChatGPT for Beginners](https://youtu.be/JKQCWSVqNYc) — 481,723 views, 566d old
+  - [How to Make Images with ChatGPT for Beginners](https://youtu.be/bocO2GIPAdc) — 145,024 views, 534d old
 
 ---
