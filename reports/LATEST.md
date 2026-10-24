@@ -1,130 +1,132 @@
-# Search Opportunity Report — 2026-10-23
+# Search Opportunity Report — 2026-10-24
 
 These are highly searched YouTube queries with weak, old, or low-view competition.
 
 ---
 
-## #1: How to Use AI in Quantity Surveying: Boost Accuracy & Save Time
+## #1: AI Automation: How to Eliminate Repetitive Tasks (2024 Guide)
 
-**Target Search Query**: `how to use ai in quantity surveying`
+**Target Search Query**: `how to automate repetitive task quanzhi`
 
-**Competition Score**: 0.42/1.00 *(Lower is better)*
+**Competition Score**: 0.49/1.00 *(Lower is better)*
 
-**The Angle**: This video will provide a practical, step-by-step guide demonstrating how quantity surveyors can integrate cutting-edge AI tools into their daily workflows with real-world examples, unlike the outdated and theoretical approaches of current videos.
+**The Angle**: This video will provide a current, practical, step-by-step guide to automating repetitive tasks using modern AI tools, far surpassing the outdated and generic advice of existing competition.
 
-**Why we will win**: The existing videos are severely outdated, often showcasing old UI or generic tool lists without practical application. They fail to demonstrate *how* to actually integrate AI into specific quantity surveying tasks, making them theoretical rather than actionable.
+**Why we will win**: The current top-ranking videos are severely outdated, failing to showcase the power of modern AI tools for automation. They often offer generic productivity tips or complex theoretical concepts without practical, step-by-step implementation for common repetitive tasks.
 
 **Suggested Outline**:
-  - Hook: Immediately address the searcher's intent by showcasing a 'before & after' of a common QS task (e.g., tender analysis) to highlight AI's efficiency gains, promising a practical guide to mastering these tools (30s).
-  - Step-by-step Workflow: Demonstrate a specific, common QS task (e.g., extracting key data from a tender document or Bill of Quantities) and walk through its AI-powered workflow, showing screen-recorded examples of tool usage and prompt engineering.
-  - Real-World Example & Analysis: Present a full case study, taking raw data (e.g., a PDF drawing or specification) and processing it through the AI tools to achieve a specific QS output (e.g., preliminary cost estimate or risk report), highlighting efficiency and accuracy improvements.
-  - Closing & Future Outlook: Recap the key benefits of AI in quantity surveying, encourage viewers to try the demonstrated tools, and prompt them to subscribe or leave comments for future AI-powered QS topics (30s).
+  - Hook: Are you drowning in repetitive tasks? Discover how AI can instantly free up your time, making old methods obsolete. (30s)
+  - Step-by-Step Workflow: Break down a common repetitive task (e.g., email summarization, data extraction, content repurposing) into automatable steps, demonstrating specific AI tools for each stage with clear screen recordings.
+  - Real-World Example: Showcase a full automation build from scratch, like 'Automate your daily social media content creation' or 'Summarize meeting notes and send follow-ups automatically'.
+  - Closing CTA: Recap the power of AI automation, encourage viewers to implement these strategies, and ask them to like, subscribe, and comment on what they'll automate first. (30s)
 
-**Tools to Demo**: ChatGPT-4 (or a custom GPT for QS tasks), Nanonets (or similar AI-powered OCR for document data extraction), Bard/Gemini (for quick research, cross-referencing, and generating alternative perspectives)
+**Tools to Demo**: ChatGPT (or Claude/Gemini), Zapier (or Make.com), Bardeen.ai
 
 **Current Top Ranking Videos**:
-  - [14 Best AI Tools for Quantity Surveyors](https://youtu.be/KaHs6DlAPqw) — 4,729 views, 555d old
-  - [4 Ways You Can Use AI as a Quantity Surveyor](https://youtu.be/Ox7GVvbXegE) — 3,987 views, 562d old
-  - [14 Best AI Tools for Quantity Surveyors](https://youtu.be/FcW4VjwSUx0) — 2,196 views, 548d old
+  - [How to Automate Repetitive Tasks with Simple Tech Tools | quanzi](https://youtu.be/x6QSoXMo_0Y) — 8,850 views, 425d old
+  - [Build AI Agents in Minutes (Automate Any Task)](https://youtu.be/nO3frWOMpok) — 33,357 views, 553d old
+  - [Automate Repetitive Tasks - Every PRODUCTIVITY HACK Explained in 8 minutes #explained #science](https://youtu.be/jIqfCO9rXIc) — 3,261 views, 851d old
 
 ---
 
-## #2: How to Use AI on Vivo X200 FE: Unlock Productivity (Beyond Built-in!)
+## #2: How to Use AI in XAUUSD Trading: My 3-Step Profit System
 
-**Target Search Query**: `how to use ai in vivo x200 fe`
+**Target Search Query**: `how to use ai in xauusd trading`
 
-**Competition Score**: 0.53/1.00 *(Lower is better)*
+**Competition Score**: 0.51/1.00 *(Lower is better)*
 
-**The Angle**: This video will demonstrate how to seamlessly integrate powerful, external AI tools with your Vivo X200 FE to achieve significant productivity gains, going far beyond the phone's native AI features.
+**The Angle**: This video will provide a practical, up-to-date, and comprehensive workflow demonstrating exactly how to integrate modern AI tools into XAUUSD trading, focusing on actionable insights and live application.
 
-**Why we will win**: The existing videos primarily showcase outdated, built-in AI features that offer limited real-world productivity benefits and often use generic, unengaging demonstrations. They completely miss demonstrating how to effectively leverage powerful, external AI tools directly on the Vivo X200 FE for actual workflow improvements.
+**Why we will win**: The existing videos often feature outdated interfaces, theoretical discussions without practical application, and lack clear, actionable step-by-step workflows. They also fail to demo current, powerful AI tools or provide compelling, real-world examples that viewers can replicate, leaving them with more questions than answers.
 
 **Suggested Outline**:
-  - Hook: Are you struggling to make your Vivo X200 FE truly smart? This video will show you exactly how to transform it into an AI productivity powerhouse, going beyond basic features and directly addressing the 'how to use ai in vivo x200 fe' query.
-  - Step-by-step guide on installing and effectively using top AI productivity apps and web services directly on your Vivo X200 FE, focusing on seamless integration with the phone's interface.
-  - Demonstration of a practical, real-world productivity workflow (e.g., summarizing a long document, generating quick content ideas, or smart scheduling) using the AI tools on the Vivo X200 FE, showcasing tangible benefits.
-  - Recap key takeaways, encourage viewers to try the methods, and prompt for comments/likes/subscribes for more AI productivity content tailored for mobile users.
+  - Hook + address search intent (30s): Welcome! You're searching 'how to use AI in XAUUSD trading,' and in this video, I'll show you a practical, step-by-step system to integrate AI into your gold trading strategy, moving beyond the hype to real results.
+  - Step-by-step workflow: From using AI for data collection and analysis to generating actionable XAUUSD trading signals, demonstrating each stage with screen recordings of the tools in action.
+  - Real-world example: Walk through a recent XAUUSD trade using the AI-generated insights, showcasing how to interpret signals, understand risk, and make informed decisions based on the system.
+  - Closing CTA (30s): Recap the power of AI in XAUUSD trading, invite viewers to share their experiences or questions in the comments, and encourage them to subscribe for more AI productivity and trading insights.
 
-**Tools to Demo**: ChatGPT (mobile app/web), Google Gemini (mobile app), Perplexity AI (mobile app/web)
+**Tools to Demo**: ChatGPT (or Claude): For strategy brainstorming, market sentiment analysis from news, and generating basic Pine Script for custom TradingView indicators., TradingView: To apply and visualize AI-generated strategies or indicators directly on XAUUSD charts, demonstrating how to interpret signals and potential entry/exit points., FinBrain Terminal (or similar AI-driven financial sentiment analysis platform): To demonstrate how AI processes vast amounts of news and social media data for real-time XAUUSD sentiment scores.
 
 **Current Top Ranking Videos**:
-  - [Vivo X200 FE 5G : Top 20 AI Features You Must Be Using In Your Phone](https://youtu.be/-UPAXYzeSNs) — 31,537 views, 433d old
-  - [Vivo X200 Fe AI Feature #vivox200fe #vivo #ai](https://youtu.be/Zv7DKL6UnRA) — 57,865 views, 452d old
-  - [Vivo X200 FE AI Features & Hidden Tricks 🔥 | 30+ Tips & Tricks 2025](https://youtu.be/Ga9VccMLcsA) — 23,325 views, 454d old
+  - [I Made $500 with 3 Gold Trades Using AI | Live XAU/USD Trading Strategy](https://youtu.be/2cwYH1qN3gU) — 1,738 views, 96d old
+  - [Make $1000/Day with AI in Gold Trading | Real Strategy with Live Proof](https://youtu.be/kzHrYO-uqEE) — 3,662 views, 451d old
+  - [Saya Uji AI Trading XAUUSD 10 Kali… Hasilnya Mengejutkan!](https://youtu.be/C_i1zCTOD3s) — 7,995 views, 244d old
 
 ---
 
-## #3: Dominate Q&A: Use AI to Answer Any Question FAST!
+## #3: Best AI Tools for Doctors: My Top 3 Picks (2024 Guide)
 
-**Target Search Query**: `how to use ai for questions and answers`
+**Target Search Query**: `best ai tool for doctors`
 
-**Competition Score**: 0.54/1.00 *(Lower is better)*
+**Competition Score**: 0.52/1.00 *(Lower is better)*
 
-**The Angle**: This video will demonstrate practical, modern workflows using popular AI tools to not just answer questions, but to generate comprehensive, context-aware responses for various personal and professional needs.
+**The Angle**: This video will provide a highly practical, step-by-step demonstration of 3 cutting-edge AI tools, showing doctors exactly how to integrate them into their daily workflow for immediate productivity gains and improved patient care.
 
-**Why we will win**: Existing videos are either highly niche, focus on outdated or irrelevant tools, or provide overly simplistic tutorials that don't showcase the true power of modern AI. They fail to demonstrate practical, advanced workflows for diverse Q&A scenarios using today's leading AI platforms.
+**Why we will win**: The current top-ranking videos are often outdated, theoretical, or merely list tools without demonstrating practical, real-world application for a doctor's daily workflow. They fail to provide clear, actionable steps or screen-recorded examples of how these AI tools can be seamlessly integrated into a medical practice today.
 
 **Suggested Outline**:
-  - Hook: Are you tired of endless searching for answers? Discover how AI can instantly provide detailed, accurate, and creative responses to virtually any question, transforming your productivity. (30s)
-  - Step-by-step workflow: From basic factual queries to complex problem-solving and content generation, learn how to prompt AI effectively, leverage follow-up questions, and refine answers for maximum utility.
-  - Real-world example: Watch as we use AI to draft a detailed, professional response to a complex client inquiry, synthesizing information and suggesting solutions in minutes.
-  - Closing CTA: Master AI for Q&A and unlock unparalleled efficiency. Like, subscribe, and comment below with your favorite AI tool for answering questions! (30s)
+  - Hook: Address the overwhelming demands on doctors and promise to reveal the top AI tools that genuinely save time and improve patient outcomes, directly addressing the 'best ai tool for doctors' query.
+  - Step-by-step workflow demonstration of each chosen AI tool, showing practical applications like summarizing patient notes, drafting patient communications, or quickly researching complex conditions with screen-recorded examples.
+  - Real-world scenario: Illustrate a typical doctor's day, showcasing how these AI tools integrate seamlessly from pre-consultation prep to post-appointment follow-up, highlighting efficiency gains and reduced burnout.
+  - Closing CTA: Recap the immense value AI brings to medical practice, encourage viewers to try these tools, subscribe for more productivity hacks, and share their own experiences in the comments.
 
-**Tools to Demo**: ChatGPT, Claude, Gemini
+**Tools to Demo**: ChatGPT/GPT-4 (for general text generation, summarization, drafting), Nuance DAX Express (for AI-powered clinical documentation), Glass Health (for clinical decision support and differential diagnoses)
 
 **Current Top Ranking Videos**:
-  - [How to Answer "Do You Use AI in QA?" (Don't Say No!)](https://youtu.be/Qw5LGI84TDA) — 5,221 views, 53d old
-  - [How to Install and use AnswersAi](https://youtu.be/fmlT3HOmwVM) — 127,014 views, 1283d old
-  - [How To Use AI To Answer Questions (Easy Tutorial)](https://youtu.be/trp-jhE6kec) — 492 views, 1162d old
+  - [10 Game-Changing AI Tools for Doctors !](https://youtu.be/UZwnWutilq0) — 28,529 views, 583d old
+  - [AI Tools Every Doctor Must Use in 2026](https://youtu.be/wsCev4qo9Ck) — 6,365 views, 266d old
+  - [I Tried 10 AI Tools For Healthcare So You Don't Have To](https://youtu.be/KmqhLJI5CHE) — 2,939 views, 111d old
 
 ---
 
-## #4: Logic Pro X Automation: Master Workflow & Save Hours (2024)
+## #4: How to Use AI for Reselling: My EXACT Step-by-Step Workflow!
 
-**Target Search Query**: `how to automate on logic pro x`
+**Target Search Query**: `how to use ai for reselling`
 
-**Competition Score**: 0.55/1.00 *(Lower is better)*
+**Competition Score**: 0.56/1.00 *(Lower is better)*
 
-**The Angle**: This video will guide creators through advanced Logic Pro X automation techniques, emphasizing smart, efficient workflows to dramatically cut production time and elevate their sound.
+**The Angle**: This video will provide a modern, comprehensive, and actionable step-by-step workflow demonstrating how to integrate AI tools into every stage of the reselling process, from sourcing to listing optimization.
 
-**Why we will win**: The current top-ranking videos feature outdated Logic Pro X interfaces and demonstrate only basic automation concepts, failing to address modern production challenges. They lack a clear focus on integrating automation for genuine productivity gains or showcasing advanced, time-saving techniques relevant to today's music creators.
+**Why we will win**: The existing videos often provide high-level concepts or focus on single tools, failing to deliver a cohesive, end-to-end 'how-to' workflow. Many also feature outdated interfaces or theoretical advice without practical, screen-recorded demonstrations of current AI capabilities.
 
 **Suggested Outline**:
-  - Hook: Tired of manual repetitive tasks in Logic Pro X? Discover how mastering automation can transform your workflow, saving hours and perfecting your sound, right now.
-  - Step-by-step workflow: From basic parameter automation (volume, pan) to advanced plugin manipulation (EQ, delay throws), including region-based vs. track-based automation and smart automation tips.
-  - Real-world example: Automating a vocal mix for dynamic impact or creating an evolving synth pad for a cinematic track, demonstrating multiple automation types in action for a polished sound.
-  - Closing CTA: Recap the power of automation for efficiency and creativity; subscribe for more AI/productivity music tips and download a free Logic Pro X automation cheat sheet.
+  - Hook & Promise (30s): "Stop leaving money on the table! I'll show you exactly how to use AI to supercharge your reselling business, from sourcing to sales, with a complete step-by-step workflow."
+  - AI for Sourcing & Research: Demonstrate using AI (e.g., ChatGPT, Google Trends + AI analysis) to identify profitable niches, analyze market trends, and even find specific product ideas.
+  - AI for Product Photography & Editing: Show AI tools (e.g., remove.bg, Canva Magic Edit) to instantly clean up images, remove backgrounds, and enhance product shots for professional listings.
+  - AI for Listing Optimization: Walk through using AI (e.g., ChatGPT) to write compelling, keyword-rich titles and descriptions, generate relevant hashtags, and even suggest pricing based on market data.
+  - Real-World Reselling Example: Take one actual item and demonstrate applying all the previous AI steps to it, from initial research to a complete, optimized listing.
+  - Future of AI Reselling & CTA (30s): Discuss emerging AI trends for resellers and encourage viewers to apply these strategies, like, subscribe, and share their own AI tips.
 
-**Tools to Demo**: ChatGPT: To brainstorm creative automation ideas for different track elements and optimize workflow strategies., Notion AI: To structure a complex music project, breaking down a song into sections and using AI to help plan specific automation tasks for each part.
+**Tools to Demo**: ChatGPT, remove.bg, Canva
 
 **Current Top Ranking Videos**:
-  - [AUTOMATION in Logic Pro X - Everything You Need To Know](https://youtu.be/3dhnzDYS930) — 65,941 views, 1232d old
-  - [How To Do Volume Automation in Logic Pro X](https://youtu.be/mEXRKmA6ejs) — 91,131 views, 2101d old
-  - [Quick and Simple way of using Automation in Logic Pro X](https://youtu.be/_xCkucKjCRE) — 10,010 views, 2368d old
+  - [How I Use AI to Run a 6-Figure Reselling Business](https://youtu.be/SN8fkLSft68) — 15,203 views, 599d old
+  - [10 AI Hacks That Will Explode Your Reselling Business 🚀 #reselling #poshmark #ebay #ai](https://youtu.be/4O8TwpjLy9Q) — 7,129 views, 402d old
+  - [This AI Sourcing Tool Tells Me What to Buy](https://youtu.be/JCylHWiBfhI) — 174,284 views, 439d old
 
 ---
 
-## #5: ChatGPT for Qualitative Data Analysis: The ULTIMATE 2024 Workflow
+## #5: Automate Facebook Posts with AI (Set & Forget in 5 Mins!)
 
-**Target Search Query**: `chatgpt for qualitative data analysis`
+**Target Search Query**: `how to automate facebook post`
 
-**Competition Score**: 0.59/1.00 *(Lower is better)*
+**Competition Score**: 0.57/1.00 *(Lower is better)*
 
-**The Angle**: This video will showcase a modern, practical, and efficient step-by-step workflow for leveraging ChatGPT's advanced capabilities (including file uploads and custom instructions) to streamline qualitative data analysis, using real-world examples.
+**The Angle**: This video will provide a concise, step-by-step, and actionable workflow using cutting-edge AI tools to completely automate Facebook posting, emphasizing speed and ease for busy creators.
 
-**Why we will win**: The current top-ranking videos are significantly outdated, failing to demonstrate ChatGPT's latest features like file upload or advanced GPT-4 capabilities for nuanced analysis. They often present theoretical approaches rather than a practical, step-by-step workflow with real-world data and effective prompt engineering.
+**Why we will win**: Existing videos often feature outdated interfaces and theoretical discussions, failing to demonstrate a modern, end-to-end AI-powered content creation and scheduling workflow. They typically lack a clear, actionable guide using current tools that truly allows users to 'set and forget' their Facebook content.
 
 **Suggested Outline**:
-  - Hook: The pain of qualitative data analysis & the promise of ChatGPT's efficiency. Directly state: 'This video reveals how to master qualitative data analysis using ChatGPT's latest features.' (30s)
-  - Step-by-step workflow: Data preparation for ChatGPT (formatting, anonymization, chunking), advanced prompt engineering for initial coding and theme identification, iterative analysis for refinement, and ethical considerations.
-  - Real-world example: Live demonstration applying the workflow to an actual interview transcript, showcasing prompt creation, ChatGPT's output, and how to refine themes for insightful analysis.
-  - Closing CTA: Recap the power of this modern approach, encourage viewers to try it, and invite them to subscribe for more AI productivity tips or download a free prompt template. (30s)
+  - Hook: Tired of manual Facebook posts? Discover how to automate your entire content strategy in minutes using AI, freeing up hours every week. (30s)
+  - Step-by-step workflow: Generate engaging post ideas with ChatGPT, create stunning visuals with Canva's Magic Studio, and schedule everything effortlessly with Buffer's AI integration.
+  - Real-world example: Watch as we automate a week's worth of Facebook content for a hypothetical small business, demonstrating the 'set it and forget it' power of this workflow.
+  - Closing CTA: Implement this workflow today! Like, subscribe, and comment below with your favorite AI tool for social media automation. (30s)
 
-**Tools to Demo**: ChatGPT (GPT-4 with file upload), Otter.ai (for automated transcription as a data prep step), Google Docs (for data organization before ChatGPT upload)
+**Tools to Demo**: ChatGPT, Canva Magic Studio, Buffer
 
 **Current Top Ranking Videos**:
-  - [Master Qualitative Data Analysis with ChatGPT: An 18-Minute Guide](https://youtu.be/L1WelrcgLGM) — 133,264 views, 1200d old
-  - [Thematic analysis with ChatGPT | PART 1- Coding qualitative data with ChatGPT](https://youtu.be/8dTs7D42ge0) — 154,177 views, 1253d old
-  - [Thematic analysis with ChatGPT - coding qualitative data (2025 method)](https://youtu.be/eJCVUVwCSqM) — 24,414 views, 557d old
+  - [Let AI Automatically Create Your Facebook Posts in 3 Minutes](https://youtu.be/0S0LlhMFNZg) — 1,891 views, 61d old
+  - [AI Social Media Automation: How to Post Daily Content 100% on Autopilot!](https://youtu.be/4ZI_fL4cw_c) — 200,317 views, 718d old
+  - [Facebook Automation Tutorial - Easy Steps to Boost your Efficiency!](https://youtu.be/pZyiWYeiA74) — 43,033 views, 767d old
 
 ---
