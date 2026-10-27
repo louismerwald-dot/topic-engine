@@ -1,130 +1,128 @@
-# Search Opportunity Report — 2026-10-26
+# Search Opportunity Report — 2026-10-27
 
 These are highly searched YouTube queries with weak, old, or low-view competition.
 
 ---
 
-## #1: ChatGPT for Social Media: Create Viral Posts FAST (2024 Guide)
+## #1: How to Use AI Zelorie: Master Effortless Productivity in Minutes
 
-**Target Search Query**: `chatgpt for social media marketing`
+**Target Search Query**: `how to use ai zelorie`
 
-**Competition Score**: 0.47/1.00 *(Lower is better)*
+**Competition Score**: 0.24/1.00 *(Lower is better)*
 
-**The Angle**: This video will provide a hands-on, step-by-step workflow using the latest ChatGPT features and specific prompts to generate high-quality, viral-ready social media content and strategies, focusing on practical application rather than just ideas.
+**The Angle**: This video will define 'Zelorie' as the state of achieving peak productivity with minimal effort using AI, providing a practical, step-by-step guide to integrate specific AI tools into daily workflows to achieve this.
 
-**Why we will win**: The existing competition is largely outdated, using older ChatGPT interfaces and focusing on theoretical strategies without demonstrating practical, modern workflows. They also lack specific, actionable prompts and real-world examples that deliver tangible results for today's social media landscape.
+**Why we will win**: The current ranking videos completely miss the search intent, offering unrelated gaming content instead of any AI or productivity guidance. They fail to address 'Zelorie' in any capacity, leaving a massive gap for a relevant, high-quality tutorial.
 
 **Suggested Outline**:
-  - Hook: Struggling with social media content? ChatGPT can save hours and boost engagement. Address intent: This video shows you exactly how to leverage ChatGPT for social media marketing, from ideation to viral posts, in 2024.
-  - Step-by-step workflow: Setting up ChatGPT for social media tasks (custom instructions), prompt engineering for content ideation, caption generation, hashtag research, and scheduling integration.
-  - Real-world example: Live demonstration of creating a complete week's worth of social media content (e.g., for a fictional coffee shop or tech product) using ChatGPT, showing prompt iterations and output refinement.
-  - Closing CTA: Recap key benefits, encourage viewers to try the prompts (link in description), subscribe for more AI productivity tips, and comment their biggest social media challenge.
+  - Hook: 'Zelorie' isn't a specific tool, but a concept. I'll reveal how AI unlocks effortless productivity, transforming your workflow. (30s)
+  - Step-by-step workflow: Break down common tasks (e.g., idea generation, content drafting, summarization) and demonstrate how specific AI tools streamline each, embodying the 'Zelorie' principle.
+  - Real-world example: Walk through a complete project (e.g., drafting a blog post or report) from start to finish, showcasing how AI tools are integrated at each stage to achieve 'Zelorie' efficiency.
+  - Closing CTA: Recap the power of AI for 'Zelorie' productivity, encourage viewers to try the demonstrated tools, and prompt engagement (comments, likes, subscribes). (30s)
 
-**Tools to Demo**: ChatGPT (GPT-4 & Custom GPTs), Google Sheets (for content calendar organization), Canva (for quick visual integration)
+**Tools to Demo**: ChatGPT, Notion AI, Perplexity AI
 
 **Current Top Ranking Videos**:
-  - [10 ChatGPT Marketing Strategies to Explode Your Business Growth](https://youtu.be/vXPzJ0aT_xA) — 33,648 views, 511d old
-  - [How to Use ChatGPT as a Social Media Manager (Step by Step)](https://youtu.be/jluSucUd6Vs) — 1,368 views, 639d old
-  - [How To Use ChatGPT For Social Media Marketing Ideas (Step-By-Step Tutorial)](https://youtu.be/51OOwK_WQyA) — 100 views, 206d old
+  - [Firewatch #02 : Des Nudistes !!!](https://youtu.be/YVJQ8czofTA) — 113 views, 3558d old
 
 ---
 
-## #2: AE2 Powah Energizing Orb Automation: Flawless Setup (2024 Guide)
+## #2: iQOO Z10 AI: Unlock Hidden Productivity & Smart Features!
 
-**Target Search Query**: `how to automate powah energizing orb with ae2`
+**Target Search Query**: `how to use ai in iqoo z10`
 
-**Competition Score**: 0.54/1.00 *(Lower is better)*
+**Competition Score**: 0.46/1.00 *(Lower is better)*
 
-**The Angle**: This video will provide the most up-to-date, visually clear, and efficient method for automating the Powah Energizing Orb using Applied Energistics 2, designed for both beginners and experienced players seeking a flawless setup.
+**The Angle**: This video will provide a practical, step-by-step guide on leveraging both built-in iQOO Z10 AI features and popular third-party AI tools to genuinely boost daily productivity.
 
-**Why we will win**: The existing competition uses outdated mod versions and UIs, leading to confusion for current players, and often presents overly complex or inefficient automation designs. They also frequently suffer from poor audio quality and lack clear, concise step-by-step visual demonstrations for optimal understanding.
+**Why we will win**: Existing videos are outdated, often focus on the 'Lite' model, or provide generic lists of built-in features without practical, modern workflow demonstrations. They fail to showcase how to integrate powerful third-party AI apps with the iQOO Z10 for tangible productivity gains.
 
 **Suggested Outline**:
-  - Hook viewers with the common frustration of manual Powah Orb crafting, then immediately promise a simple, robust AE2 automation solution, showcasing the end result briefly.
-  - Provide a clear, step-by-step visual tutorial on setting up the AE2 automation for the Energizing Orb, covering necessary components (ME Interfaces, Storage Buses, Crafting Patterns), their configuration, and common troubleshooting tips.
-  - Demonstrate the automated system in action within a practical modded Minecraft base, showing how it seamlessly integrates into a larger crafting network and efficiently produces various Powah items without intervention.
-  - Conclude by summarizing the benefits of this automation, encourage viewers to like, subscribe, and share their own AE2 automation tips in the comments, and suggest related productivity or modded Minecraft content.
+  - Hook: Are you an iQOO Z10 user wondering how to truly harness AI for productivity? This video cuts through the noise to show you exactly how, beyond just basic features.
+  - Demonstrate 2-3 practical, step-by-step AI workflows on the iQOO Z10, covering tasks like smart note-taking, quick content generation, or efficient task management using both native Funtouch OS AI and integrated third-party apps.
+  - Showcase a full 'day in the life' or a specific project scenario where the iQOO Z10's AI capabilities (both native and third-party) are used to streamline a real-world productivity challenge from start to finish.
+  - Recap the core benefits of using AI on the iQOO Z10 for productivity, encourage viewers to try the demonstrated tools, and prompt them to subscribe or leave comments with their own AI tips.
 
-**Tools to Demo**: Applied Energistics 2 (ME Interface, Crafting Patterns), Powah Energizing Orb, ME Storage Bus
+**Tools to Demo**: ChatGPT Mobile App, Google Gemini App, Perplexity AI (for quick research & summaries)
 
 **Current Top Ranking Videos**:
-  - [Tips n' Tricks - AE2 Powah Energizing Orb Automation](https://youtu.be/N2t_tZIQfZI) — 69,287 views, 628d old
-  - [How to automate the Energizing Orb from Powah, with AE2](https://youtu.be/CQZZTkxsK_Q) — 21,747 views, 525d old
-  - [How to Automate the Energizing Orb from POWAH!](https://youtu.be/rtf5nGCNv90) — 36,263 views, 883d old
+  - [iQOO Z10 Lite 5G : Top 10 AI Features You Must Be Using In Your Phone](https://youtu.be/XbEGNHBSr9A) — 4,823 views, 457d old
+  - [iQOO Z10/Z10x AI Features 🤖 | Smarter Experience Unlocked!September 9, 2025](https://youtu.be/9BXrY9h6NiM) — 17,660 views, 413d old
+  - [iQOO Z10 Lite Tips And Tricks 🧐 Top 10+ AI Features | iqoo z10 lite 5g Features](https://youtu.be/0qtGPbRGNZo) — 4,044 views, 447d old
 
 ---
 
-## #3: The ULTIMATE AI Workflow for Research (2024): Master Any Topic
+## #3: Best AI Photo Editor? The ULTIMATE AI Workflow for Photographers
 
-**Target Search Query**: `ai workflow for research`
+**Target Search Query**: `best ai tool for photo editing`
 
-**Competition Score**: 0.59/1.00 *(Lower is better)*
+**Competition Score**: 0.52/1.00 *(Lower is better)*
 
-**The Angle**: This video will reveal a flexible, up-to-date AI workflow that transforms any research project from initial query to actionable insights using the latest, most effective tools.
+**The Angle**: This video will demonstrate a practical, multi-tool AI photo editing workflow, showcasing how to combine the best current AI tools for professional-grade results, rather than just listing features.
 
-**Why we will win**: The existing competition is largely outdated, showcasing old UIs and tools that are no longer cutting-edge in the rapidly evolving AI landscape. They also tend to focus on niche applications or complex agent building rather than a universally adaptable, practical workflow for diverse research needs.
+**Why we will win**: Existing videos often present outdated tools, offer generic feature lists without a cohesive workflow, or focus solely on 'free' options over true 'best-in-class' solutions. They fail to show how these tools integrate for real-world, efficient photo editing.
 
 **Suggested Outline**:
-  - Hook: Start with a bold claim about transforming research efficiency and quality using AI, immediately addressing the pain points of traditional research and promising a solution. Introduce the core idea of a modern AI workflow for research.
-  - Break down the comprehensive AI research workflow into distinct, actionable stages: topic exploration, intelligent information gathering, advanced synthesis, and structured output generation, demonstrating specific AI tools for each step.
-  - Apply the entire workflow to a relatable, complex research topic (e.g., 'The Future of Sustainable Urban Planning' or 'Impact of AI on Creative Industries'), showing real-time screen recordings of each tool in action and how they build upon each other to produce deep insights.
-  - Summarize the power of the demonstrated AI workflow, encourage viewers to implement it, and include a clear call to action to like, subscribe, and share their own AI research tips in the comments.
+  - Hook: 'Tired of endless photo editing?' Introduce the promise: 'Discover the BEST AI tools and a streamlined workflow to transform your photos faster than ever.' State the video's purpose: 'We'll show you how to get pro results with AI, even if you're not a Photoshop expert.' (30s)
+  - Break down a common editing task (e.g., portrait retouching or landscape enhancement) into AI-powered steps: 1) Initial cleanup (noise reduction, sharpening with Tool A), 2) Creative adjustments (sky replacement, object removal with Tool B), 3) Generative enhancements (filling gaps, expanding canvas with Tool C). Show screen recordings for each step.
+  - Take a challenging, unedited photo and apply the full, demonstrated AI workflow from start to finish. Showcase before-and-after, highlighting speed and quality improvements. Emphasize the 'why' behind each tool choice and the efficiency gained.
+  - Recap the power of AI in photo editing. Encourage viewers to try the tools. Call to action: 'Like, subscribe, and comment your favorite AI tool!' Promote related videos (e.g., 'Best AI tools for video editing'). (30s)
 
-**Tools to Demo**: Perplexity AI, Claude 3 (or ChatGPT-4), Notion AI
+**Tools to Demo**: Adobe Photoshop (with Generative Fill), Topaz Photo AI, Luminar Neo
 
 **Current Top Ranking Videos**:
-  - [This NotebookLM + Perplexity Workflow Cuts Your Research Time by 80%](https://youtu.be/b4j96c1wPow) — 26,683 views, 404d old
-  - [Build Your First Research AI Agent in 12 mins (No Code)](https://youtu.be/UBx4Zudvf8s) — 91,471 views, 481d old
-  - [I Built a Complete AI Marketing Campaign With Migoo — From Research to Final Video](https://youtu.be/fNNGjDOz7cM) — 92 views, 0d old
+  - [The BEST AI Image Editors For Photographers 2026](https://youtu.be/YLANbuC8qUg) — 9,360 views, 123d old
+  - [How to Edit Photos Like a Pro with AI Tools in One Click (No Photoshop Needed)](https://youtu.be/gHznxig-FtA) — 46,286 views, 210d old
+  - [Forget Photoshop, Try This Free & Unlimited AI Photo Editing Software - AI Ease](https://youtu.be/npOy0YTyGEE) — 17,627 views, 725d old
 
 ---
 
-## #4: How to Use AI to Write a Paper (A-Grade Workflow)
+## #4: How to Use AI for Accounting (2024): The Step-by-Step Guide
 
-**Target Search Query**: `how to use ai to write a paper`
+**Target Search Query**: `how to use ai for accounting`
 
-**Competition Score**: 0.60/1.00 *(Lower is better)*
+**Competition Score**: 0.56/1.00 *(Lower is better)*
 
-**The Angle**: This video will demonstrate a modern, ethical, and highly effective step-by-step workflow for leveraging AI tools to significantly accelerate and improve the quality of academic paper writing, ensuring originality and avoiding common pitfalls.
+**The Angle**: This video will provide a practical, step-by-step workflow demonstrating how accountants can integrate specific AI tools into their daily tasks to significantly enhance efficiency and accuracy, moving beyond just listing tools.
 
-**Why we will win**: Existing videos either offer outdated workflows with old AI tools and UIs, focus on fear-mongering without providing practical, ethical solutions, or present overly academic methods that don't apply to the average student's needs. They fail to provide a clear, modern, and responsible step-by-step process for integrating AI into the paper writing workflow effectively.
+**Why we will win**: The existing competition primarily offers outdated tool lists or theoretical concepts without demonstrating practical, integrated workflows. They fail to provide a current, step-by-step guide on *how* to implement AI into real-world accounting tasks, often featuring old UIs and general advice.
 
 **Suggested Outline**:
-  - Hook: Acknowledge the overwhelming nature of paper writing and the potential (and pitfalls) of AI. State clearly that this video will provide a responsible, A-grade workflow to use AI as a co-pilot, not a replacement, addressing ethical use and plagiarism concerns upfront (30s).
-  - Step-by-step Workflow: Detail each stage where AI can assist: 1) Brainstorming & Outline Generation, 2) Research Assistance (summarizing, finding sources - with verification warnings), 3) Drafting Sections (generating ideas, rephrasing, expanding points), 4) Editing & Proofreading (grammar, clarity, conciseness), 5) Citation assistance, and 6) Essential Human Review & Plagiarism Checks.
-  - Real-World Example: Apply the outlined workflow to a hypothetical paper topic (e.g., 'The Impact of Social Media on Adolescent Mental Health'). Screen-record demonstrating each AI tool in action for specific tasks within the paper writing process, emphasizing human oversight and critical thinking at every step.
-  - Closing & Call to Action: Recap the benefits of this ethical AI-powered workflow (faster, higher quality, less stress). Encourage viewers to implement these strategies and share their results. Ask them to like, subscribe, and comment with their biggest paper writing challenge or favorite AI tool (30s).
+  - Hook viewers by highlighting the current challenges and opportunities AI presents for accountants, then immediately promise a practical, step-by-step guide to integrating AI into their daily workflow to save time and improve accuracy, directly addressing 'how to use ai for accounting'. (30s)
+  - Demonstrate a clear, actionable, step-by-step workflow for integrating AI into common accounting tasks, such as automated data extraction from invoices/receipts, intelligent reconciliation, and preliminary financial analysis, using screen-recorded examples.
+  - Show a complete, real-world case study applying the demonstrated AI workflow to a specific accounting scenario (e.g., monthly close process for a small business), highlighting before-and-after efficiency gains and accuracy improvements.
+  - Conclude by summarizing the key benefits of AI for accounting, encourage viewers to implement these strategies, and provide a clear call to action for subscribing, commenting, and watching related content for continued learning. (30s)
 
-**Tools to Demo**: ChatGPT (or Claude/Gemini Advanced), Perplexity AI, QuillBot (or Grammarly Premium)
+**Tools to Demo**: ChatGPT / Claude (for data analysis, summary generation, query processing), Dext Prepare / Hubdoc (for automated receipt/invoice data extraction), Zapier / Make (for automating workflows between accounting software and AI tools)
 
 **Current Top Ranking Videos**:
-  - [17 NEW ways to use AI to write research papers for Q1 journals (WITHOUT plagiarism)](https://youtu.be/lZBx5oMuFGM) — 155,259 views, 544d old
-  - [Stop Using AI to Write Research Papers (A Professor’s Warning)](https://youtu.be/24fkAF-W4dI) — 23,984 views, 235d old
-  - [How To Write An A+ Essay Using AI in 3 Simple Steps](https://youtu.be/EeMm-kaYgI0) — 199,061 views, 1091d old
+  - [15 AI Tools Smart Accountants Are Using Right Now](https://youtu.be/acfvmTqp-uE) — 118,737 views, 559d old
+  - [20 Ways to use AI for Accounting & Finance](https://youtu.be/asUn1QMNOUg) — 49,957 views, 356d old
+  - [3 steps to start using AI as a bookkeeper](https://youtu.be/U_snMtmviPY) — 11,400 views, 959d old
 
 ---
 
-## #5: BEST AI Tools for YouTube Video Editing (2024): Edit 10X Faster!
+## #5: AI Fashion Design: Create Stunning Outfits FAST (2024 Guide)
 
-**Target Search Query**: `best ai tools for youtube video editing`
+**Target Search Query**: `how to use ai for fashion design`
 
-**Competition Score**: 0.60/1.00 *(Lower is better)*
+**Competition Score**: 0.57/1.00 *(Lower is better)*
 
-**The Angle**: This video will provide a hands-on, step-by-step workflow demonstrating how to integrate the absolute best, most current AI tools into a seamless YouTube video editing process, focusing on practical application and real-world time savings.
+**The Angle**: This video will provide a practical, step-by-step workflow demonstrating how to go from initial concept to a stunning fashion design using the most modern and user-friendly AI tools available today.
 
-**Why we will win**: Current top-ranking videos are significantly outdated, often showcasing tools that have evolved or been replaced, and fail to provide a cohesive, practical workflow for creators. They typically present theoretical lists without demonstrating how these tools integrate into a modern, efficient YouTube video editing process.
+**Why we will win**: The current top-ranking videos are either outdated with obsolete interfaces, too theoretical without practical application, or only highlight individual tools without demonstrating a cohesive, end-to-end fashion design workflow. They often lack clear, step-by-step guidance for beginners and fail to showcase how AI can genuinely transform a design idea into a tangible visual concept.
 
 **Suggested Outline**:
-  - Hook viewers by highlighting the pain points of traditional video editing and immediately promise a solution using cutting-edge AI tools, directly addressing the search for 'best AI tools for YouTube video editing' (30s).
-  - Demonstrate a clear, step-by-step workflow integrating 2-3 specific AI tools, showing how they streamline different stages of YouTube video editing (e.g., scripting, filler word removal, auto-captioning, b-roll generation).
-  - Apply the demonstrated AI workflow to a short, hypothetical YouTube video project, showcasing before-and-after results or significant time-saving metrics for a tangible understanding.
-  - Recap the core benefits of using AI in video editing and provide a strong call to action to subscribe, check out specific tools, or watch a related video for further learning (30s).
+  - Showcase an incredible AI-generated fashion design, immediately address the search intent by promising a complete, practical guide, and briefly outline the video's value proposition for aspiring and professional designers.
+  - Demonstrate a clear, step-by-step workflow: starting with concept generation (e.g., mood board creation with AI), moving to initial design ideation using text-to-image prompts, and refining concepts with AI-powered variations and style transfer.
+  - Apply the demonstrated workflow to a specific real-world fashion design challenge (e.g., 'designing a sustainable streetwear collection'), showcasing iteration, prompt refinement, and how to achieve specific aesthetic goals using AI.
+  - Recap the power of AI in fashion design, encourage viewers to experiment with the tools and workflow, and include a clear call-to-action to subscribe, like, and share their AI design creations in the comments.
 
-**Tools to Demo**: Descript, CapCut, Veed.io
+**Tools to Demo**: Midjourney, Stable Diffusion (e.g., via Fooocus or Leonardo.ai), Adobe Photoshop (Generative Fill)
 
 **Current Top Ranking Videos**:
-  - [The Best AI Tool for Making YouTube Videos (2026)](https://youtu.be/x7ne4LqKCl0) — 79,706 views, 105d old
-  - [Top 8 AI Tools To Create KILLER YouTube Videos](https://youtu.be/hUoYR9b3lzA) — 182,583 views, 875d old
-  - [Best AI Video Editing Software: Edit Video in a Minute (Beginners Guide)](https://youtu.be/H60LeM4vTAg) — 128,661 views, 342d old
+  - [The Best AI Clothing Design Tools For Fashion Brands in 2026](https://youtu.be/KdZXEDlybyI) — 16,430 views, 265d old
+  - [How to do 3D Virtual Fashion Design using AI #aiwebsites](https://youtu.be/YGAzS38Rxw0) — 179,397 views, 467d old
+  - [3 AI Tools That Make Fashion Designing So Much Faster](https://youtu.be/UkfVd7QNqK8) — 17,488 views, 402d old
 
 ---
