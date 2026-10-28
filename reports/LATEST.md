@@ -1,128 +1,131 @@
-# Search Opportunity Report — 2026-10-27
+# Search Opportunity Report — 2026-10-28
 
 These are highly searched YouTube queries with weak, old, or low-view competition.
 
 ---
 
-## #1: How to Use AI Zelorie: Master Effortless Productivity in Minutes
+## #1: Automate Your Airbnb Business: AI Workflow for Passive Income
 
-**Target Search Query**: `how to use ai zelorie`
+**Target Search Query**: `how to automate airbnb business`
 
-**Competition Score**: 0.24/1.00 *(Lower is better)*
+**Competition Score**: 0.47/1.00 *(Lower is better)*
 
-**The Angle**: This video will define 'Zelorie' as the state of achieving peak productivity with minimal effort using AI, providing a practical, step-by-step guide to integrate specific AI tools into daily workflows to achieve this.
+**The Angle**: This video will provide a practical, modern AI-driven, step-by-step workflow to fully automate an Airbnb business, focusing on real-world implementation rather than just theoretical tool lists.
 
-**Why we will win**: The current ranking videos completely miss the search intent, offering unrelated gaming content instead of any AI or productivity guidance. They fail to address 'Zelorie' in any capacity, leaving a massive gap for a relevant, high-quality tutorial.
+**Why we will win**: The existing videos are largely outdated, focusing on older tools or theoretical concepts without demonstrating a cohesive, modern AI-powered workflow. They also often lack a clear, actionable, step-by-step guide for viewers to follow immediately.
 
 **Suggested Outline**:
-  - Hook: 'Zelorie' isn't a specific tool, but a concept. I'll reveal how AI unlocks effortless productivity, transforming your workflow. (30s)
-  - Step-by-step workflow: Break down common tasks (e.g., idea generation, content drafting, summarization) and demonstrate how specific AI tools streamline each, embodying the 'Zelorie' principle.
-  - Real-world example: Walk through a complete project (e.g., drafting a blog post or report) from start to finish, showcasing how AI tools are integrated at each stage to achieve 'Zelorie' efficiency.
-  - Closing CTA: Recap the power of AI for 'Zelorie' productivity, encourage viewers to try the demonstrated tools, and prompt engagement (comments, likes, subscribes). (30s)
+  - Hook: Tired of managing your Airbnb manually? Discover how AI can fully automate your business for true passive income. (30s)
+  - Step-by-step AI workflow for key Airbnb operations: guest communication, dynamic pricing, cleaning scheduling, and listing optimization.
+  - Real-world demonstration: Watch as we set up an AI assistant to handle a typical guest inquiry and automate a cleaning schedule trigger.
+  - Closing CTA: Recap benefits, encourage subscription, and offer a free resource/template for getting started. (30s)
 
-**Tools to Demo**: ChatGPT, Notion AI, Perplexity AI
+**Tools to Demo**: ChatGPT (Custom GPTs for guest communication), Zapier/Make.com (for connecting AI tools and automating workflows), Airtable (for centralized data management and automation triggers)
 
 **Current Top Ranking Videos**:
-  - [Firewatch #02 : Des Nudistes !!!](https://youtu.be/YVJQ8czofTA) — 113 views, 3558d old
+  - [How I Automated My Airbnb Business And Travel The World](https://youtu.be/8CCpJEB2Vwk) — 2,770 views, 461d old
+  - [Airbnb Automation Made Easy: 5 Tools Every Host Needs](https://youtu.be/sqxWVgoSTxc) — 20,322 views, 646d old
+  - [Top 7 Apps to Automate Your Airbnb Business](https://youtu.be/hy82mpzbRPs) — 7,953 views, 832d old
 
 ---
 
-## #2: iQOO Z10 AI: Unlock Hidden Productivity & Smart Features!
+## #2: ChatGPT for Options Trading: My AI Workflow (2024 Strategy)
 
-**Target Search Query**: `how to use ai in iqoo z10`
-
-**Competition Score**: 0.46/1.00 *(Lower is better)*
-
-**The Angle**: This video will provide a practical, step-by-step guide on leveraging both built-in iQOO Z10 AI features and popular third-party AI tools to genuinely boost daily productivity.
-
-**Why we will win**: Existing videos are outdated, often focus on the 'Lite' model, or provide generic lists of built-in features without practical, modern workflow demonstrations. They fail to showcase how to integrate powerful third-party AI apps with the iQOO Z10 for tangible productivity gains.
-
-**Suggested Outline**:
-  - Hook: Are you an iQOO Z10 user wondering how to truly harness AI for productivity? This video cuts through the noise to show you exactly how, beyond just basic features.
-  - Demonstrate 2-3 practical, step-by-step AI workflows on the iQOO Z10, covering tasks like smart note-taking, quick content generation, or efficient task management using both native Funtouch OS AI and integrated third-party apps.
-  - Showcase a full 'day in the life' or a specific project scenario where the iQOO Z10's AI capabilities (both native and third-party) are used to streamline a real-world productivity challenge from start to finish.
-  - Recap the core benefits of using AI on the iQOO Z10 for productivity, encourage viewers to try the demonstrated tools, and prompt them to subscribe or leave comments with their own AI tips.
-
-**Tools to Demo**: ChatGPT Mobile App, Google Gemini App, Perplexity AI (for quick research & summaries)
-
-**Current Top Ranking Videos**:
-  - [iQOO Z10 Lite 5G : Top 10 AI Features You Must Be Using In Your Phone](https://youtu.be/XbEGNHBSr9A) — 4,823 views, 457d old
-  - [iQOO Z10/Z10x AI Features 🤖 | Smarter Experience Unlocked!September 9, 2025](https://youtu.be/9BXrY9h6NiM) — 17,660 views, 413d old
-  - [iQOO Z10 Lite Tips And Tricks 🧐 Top 10+ AI Features | iqoo z10 lite 5g Features](https://youtu.be/0qtGPbRGNZo) — 4,044 views, 447d old
-
----
-
-## #3: Best AI Photo Editor? The ULTIMATE AI Workflow for Photographers
-
-**Target Search Query**: `best ai tool for photo editing`
+**Target Search Query**: `chatgpt for trading options`
 
 **Competition Score**: 0.52/1.00 *(Lower is better)*
 
-**The Angle**: This video will demonstrate a practical, multi-tool AI photo editing workflow, showcasing how to combine the best current AI tools for professional-grade results, rather than just listing features.
+**The Angle**: This video will provide a step-by-step, actionable workflow demonstrating how to leverage advanced ChatGPT features and complementary AI tools to identify, analyze, and manage options trades effectively in 2024.
 
-**Why we will win**: Existing videos often present outdated tools, offer generic feature lists without a cohesive workflow, or focus solely on 'free' options over true 'best-in-class' solutions. They fail to show how these tools integrate for real-world, efficient photo editing.
+**Why we will win**: The existing videos are often outdated, showing older ChatGPT interfaces or basic prompts, and lack a comprehensive, repeatable system for integrating AI into a modern trading strategy. They fail to demonstrate practical, real-world application with current AI capabilities, leaving viewers without a clear, actionable path to implement these tools themselves.
 
 **Suggested Outline**:
-  - Hook: 'Tired of endless photo editing?' Introduce the promise: 'Discover the BEST AI tools and a streamlined workflow to transform your photos faster than ever.' State the video's purpose: 'We'll show you how to get pro results with AI, even if you're not a Photoshop expert.' (30s)
-  - Break down a common editing task (e.g., portrait retouching or landscape enhancement) into AI-powered steps: 1) Initial cleanup (noise reduction, sharpening with Tool A), 2) Creative adjustments (sky replacement, object removal with Tool B), 3) Generative enhancements (filling gaps, expanding canvas with Tool C). Show screen recordings for each step.
-  - Take a challenging, unedited photo and apply the full, demonstrated AI workflow from start to finish. Showcase before-and-after, highlighting speed and quality improvements. Emphasize the 'why' behind each tool choice and the efficiency gained.
-  - Recap the power of AI in photo editing. Encourage viewers to try the tools. Call to action: 'Like, subscribe, and comment your favorite AI tool!' Promote related videos (e.g., 'Best AI tools for video editing'). (30s)
+  - Hook: 'Can ChatGPT *really* help you trade options?' Address the common skepticism and immediately promise a practical, step-by-step 2024 workflow to integrate AI into your options strategy, setting the stage for a powerful trading edge (30s).
+  - Step-by-step workflow: Detail how to use ChatGPT (e.g., custom instructions, advanced data analysis) for market research, identifying potential option plays (directional bias, volatility analysis), and generating initial trade ideas.
+  - Real-world example: Walk through a live or recent market scenario, demonstrating the entire workflow from initial research to a potential trade setup, including prompt engineering best practices and risk management considerations using AI.
+  - Closing CTA: Recap the power of an AI-assisted options trading workflow, encourage viewers to implement it, and prompt them to like, subscribe, and share their results or questions in the comments (30s).
 
-**Tools to Demo**: Adobe Photoshop (with Generative Fill), Topaz Photo AI, Luminar Neo
+**Tools to Demo**: ChatGPT (GPT-4 with Advanced Data Analysis/Custom Instructions), Perplexity AI (for real-time market research and news summarization), Google Colab (to demonstrate AI-generated Python scripts for data analysis/backtesting ideas)
 
 **Current Top Ranking Videos**:
-  - [The BEST AI Image Editors For Photographers 2026](https://youtu.be/YLANbuC8qUg) — 9,360 views, 123d old
-  - [How to Edit Photos Like a Pro with AI Tools in One Click (No Photoshop Needed)](https://youtu.be/gHznxig-FtA) — 46,286 views, 210d old
-  - [Forget Photoshop, Try This Free & Unlimited AI Photo Editing Software - AI Ease](https://youtu.be/npOy0YTyGEE) — 17,627 views, 725d old
+  - [The ChatGPT Trading Masterclass You Won't Find Anywhere Else (News | Options | Psychology)](https://youtu.be/PdLgzRipSD8) — 67,013 views, 354d old
+  - [I Used ChatGPT to Find the Best Option Trades… Here’s What Happened!](https://youtu.be/viEB1gRHg4M) — 3,833 views, 607d old
+  - [How I Use ChatGPT As A Full-Time Trader](https://youtu.be/1Xey_iKrPGg) — 11,550 views, 267d old
 
 ---
 
-## #4: How to Use AI for Accounting (2024): The Step-by-Step Guide
+## #3: Zave AI for Movie Tickets? (How to *Actually* Book with AI!)
 
-**Target Search Query**: `how to use ai for accounting`
+**Target Search Query**: `how to use zave ai to book movie tickets`
 
-**Competition Score**: 0.56/1.00 *(Lower is better)*
+**Competition Score**: 0.55/1.00 *(Lower is better)*
 
-**The Angle**: This video will provide a practical, step-by-step workflow demonstrating how accountants can integrate specific AI tools into their daily tasks to significantly enhance efficiency and accuracy, moving beyond just listing tools.
+**The Angle**: This video will definitively answer whether Zave AI can book movie tickets and then provide a clear, step-by-step guide on how to efficiently book movie tickets using the best alternative AI productivity tools.
 
-**Why we will win**: The existing competition primarily offers outdated tool lists or theoretical concepts without demonstrating practical, integrated workflows. They fail to provide a current, step-by-step guide on *how* to implement AI into real-world accounting tasks, often featuring old UIs and general advice.
+**Why we will win**: Current videos are outdated, generic product demos focused on shopping or gift cards, completely missing the specific user intent of booking movie tickets. They fail to address the core functionality (or lack thereof) of Zave AI for this specific task, leaving users without a direct answer or a practical solution.
 
 **Suggested Outline**:
-  - Hook viewers by highlighting the current challenges and opportunities AI presents for accountants, then immediately promise a practical, step-by-step guide to integrating AI into their daily workflow to save time and improve accuracy, directly addressing 'how to use ai for accounting'. (30s)
-  - Demonstrate a clear, actionable, step-by-step workflow for integrating AI into common accounting tasks, such as automated data extraction from invoices/receipts, intelligent reconciliation, and preliminary financial analysis, using screen-recorded examples.
-  - Show a complete, real-world case study applying the demonstrated AI workflow to a specific accounting scenario (e.g., monthly close process for a small business), highlighting before-and-after efficiency gains and accuracy improvements.
-  - Conclude by summarizing the key benefits of AI for accounting, encourage viewers to implement these strategies, and provide a clear call to action for subscribing, commenting, and watching related content for continued learning. (30s)
+  - Section 1: Hook + Address Intent (30s) - 'You're searching for 'how to use Zave AI to book movie tickets' – but does it actually work? In this video, I'll reveal the truth about Zave AI's capabilities for movie tickets and then show you the *real* AI-powered workflow to book your next movie night effortlessly.'
+  - Section 2: Zave AI's *Actual* Capabilities - 'Let's dive into Zave AI. We'll explore its current features, confirming whether it truly offers movie ticket booking or if it's a common misconception. We'll see it's primarily designed for shopping and deals, not direct ticket purchases.' (Screen recording of Zave AI app, demonstrating its *actual* features and the absence of movie booking).
+  - Section 3: The *Real* AI Workflow for Movie Tickets - 'Don't worry, even without Zave AI, you can still leverage AI for seamless movie ticket booking. I'll guide you through a powerful, step-by-step workflow using [General AI Assistant, e.g., ChatGPT/Gemini] to find showtimes, compare prices, discover deals, and plan your perfect movie outing.' (Screen recording of chosen AI assistant).
+  - Section 4: Live Demo & Productivity Tips - 'Let's put this into action! I'll demonstrate booking tickets for a new release in real-time, from AI research to the final booking on a platform like Fandango. Plus, I'll share advanced productivity tips to integrate AI into your entertainment planning using tools like Notion AI.'
+  - Section 5: Closing CTA (30s) - 'So, while Zave AI might not be your movie ticket solution, AI is still your ultimate productivity partner. If this workflow helps you save time and money, smash that like button, subscribe for more AI hacks, and tell me in the comments what else you're using AI for!'
 
-**Tools to Demo**: ChatGPT / Claude (for data analysis, summary generation, query processing), Dext Prepare / Hubdoc (for automated receipt/invoice data extraction), Zapier / Make (for automating workflows between accounting software and AI tools)
+**Tools to Demo**: Zave AI (to clarify its features), ChatGPT (for intelligent research, comparison, and planning), Notion AI (to demonstrate integrating movie booking into a productivity system)
 
 **Current Top Ranking Videos**:
-  - [15 AI Tools Smart Accountants Are Using Right Now](https://youtu.be/acfvmTqp-uE) — 118,737 views, 559d old
-  - [20 Ways to use AI for Accounting & Finance](https://youtu.be/asUn1QMNOUg) — 49,957 views, 356d old
-  - [3 steps to start using AI as a bookkeeper](https://youtu.be/U_snMtmviPY) — 11,400 views, 959d old
+  - [Zave - Product Demo - (Shopping assistant on your phone)](https://youtu.be/WuzA5mTQZo8) — 16,124 views, 707d old
+  - [Gift Card at Maximum Discount || Zave App - AI Shipping Assistant || Zave App Gift Card Offer](https://youtu.be/jPp98ORyYNY) — 49,227 views, 372d old
+  - [Zave AI Shopping Assistant](https://youtu.be/H1hVe2iB98s) — 88,792 views, 528d old
 
 ---
 
-## #5: AI Fashion Design: Create Stunning Outfits FAST (2024 Guide)
+## #4: ChatGPT Business Automation: 3 Workflows to Scale Your Company
 
-**Target Search Query**: `how to use ai for fashion design`
+**Target Search Query**: `chatgpt for business automation`
 
 **Competition Score**: 0.57/1.00 *(Lower is better)*
 
-**The Angle**: This video will provide a practical, step-by-step workflow demonstrating how to go from initial concept to a stunning fashion design using the most modern and user-friendly AI tools available today.
+**The Angle**: This video will provide a step-by-step, screen-recorded demonstration of three specific, modern business automation workflows powered by ChatGPT, showcasing tangible time-saving and scaling benefits.
 
-**Why we will win**: The current top-ranking videos are either outdated with obsolete interfaces, too theoretical without practical application, or only highlight individual tools without demonstrating a cohesive, end-to-end fashion design workflow. They often lack clear, step-by-step guidance for beginners and fail to showcase how AI can genuinely transform a design idea into a tangible visual concept.
+**Why we will win**: The current top videos are either severely outdated, presenting obsolete interfaces and methods, or they remain too theoretical, failing to demonstrate practical, step-by-step business automation workflows that integrate ChatGPT with other tools for immediate impact.
 
 **Suggested Outline**:
-  - Showcase an incredible AI-generated fashion design, immediately address the search intent by promising a complete, practical guide, and briefly outline the video's value proposition for aspiring and professional designers.
-  - Demonstrate a clear, step-by-step workflow: starting with concept generation (e.g., mood board creation with AI), moving to initial design ideation using text-to-image prompts, and refining concepts with AI-powered variations and style transfer.
-  - Apply the demonstrated workflow to a specific real-world fashion design challenge (e.g., 'designing a sustainable streetwear collection'), showcasing iteration, prompt refinement, and how to achieve specific aesthetic goals using AI.
-  - Recap the power of AI in fashion design, encourage viewers to experiment with the tools and workflow, and include a clear call-to-action to subscribe, like, and share their AI design creations in the comments.
+  - Hook: Address the pain of manual tasks and immediately promise practical solutions for 'ChatGPT for business automation' to scale their company (30s).
+  - Detailed breakdown and screen-recorded demonstration of 3 distinct, modern business automation workflows using ChatGPT (e.g., customer support email drafts, marketing content generation, data summarization for reports).
+  - Showcasing the tangible time savings and efficiency gains with a 'before and after' scenario for one of the demonstrated automations, emphasizing how it directly contributes to business scaling.
+  - Recap key benefits, encourage viewers to implement the workflows, subscribe for more AI productivity content, and provide a relevant resource link (30s).
 
-**Tools to Demo**: Midjourney, Stable Diffusion (e.g., via Fooocus or Leonardo.ai), Adobe Photoshop (Generative Fill)
+**Tools to Demo**: ChatGPT (GPT-4), Zapier, Google Sheets/Gmail
 
 **Current Top Ranking Videos**:
-  - [The Best AI Clothing Design Tools For Fashion Brands in 2026](https://youtu.be/KdZXEDlybyI) — 16,430 views, 265d old
-  - [How to do 3D Virtual Fashion Design using AI #aiwebsites](https://youtu.be/YGAzS38Rxw0) — 179,397 views, 467d old
-  - [3 AI Tools That Make Fashion Designing So Much Faster](https://youtu.be/UkfVd7QNqK8) — 17,488 views, 402d old
+  - [ChatGPT for Automation in Business and Personal Tasks Easily](https://youtu.be/RcCFDnq-in4) — 55,118 views, 1125d old
+  - [8 ChatGPT Agents That Do My Work for Me (Steal These)](https://youtu.be/ubzhh4kMCLo) — 151,403 views, 54d old
+  - [How to Use ChatGPT Work – AI Workflow Automation Guide 2026](https://youtu.be/lmFAhaTNiZQ) — 23,926 views, 63d old
+
+---
+
+## #5: AI Workflow Automation in Hindi: Tasks Auto-Pilot Pe! (Live Demo)
+
+**Target Search Query**: `ai workflow automation in hindi`
+
+**Competition Score**: 0.57/1.00 *(Lower is better)*
+
+**The Angle**: This video will provide a step-by-step, beginner-friendly guide to building a practical AI workflow automation using modern no-code tools, demonstrated live in Hindi for immediate application.
+
+**Why we will win**: Current videos are either too niche, overly theoretical, or severely outdated with old UI and tools, failing to provide a practical, modern, and easily implementable end-to-end workflow for everyday productivity.
+
+**Suggested Outline**:
+  - Hook: 'Kya aap bhi repetitive tasks se pareshan hain?' (Are you also troubled by repetitive tasks?). Introduce AI workflow automation as the solution to save time and boost productivity, specifically demonstrating a practical setup in Hindi (30s).
+  - Step-by-step workflow: Build a real-time system to automatically summarize articles from an RSS feed using AI and post key insights to a Notion database or Slack channel, showing each integration live.
+  - Real world example: Showcase how the same principles and tools can be adapted to automate generating social media content ideas from recent news or personalizing email responses based on specific triggers.
+  - Closing CTA: Recap the power and ease of AI automation, encourage viewers to try it, and ask them to like, share, subscribe, and comment their own workflow ideas (30s).
+
+**Tools to Demo**: Make.com, ChatGPT, Notion
+
+**Current Top Ranking Videos**:
+  - [How to Build a ₹80,000 AI Automation for Hospitals Using n8n](https://youtu.be/4cxZjbWWmQU) — 5,929 views, 130d old
+  - [No - Code AI Automation Full Course](https://youtu.be/orTONwA-PuI) — 181,145 views, 46d old
+  - [AI Workflow Automation | Automate all your tasks with this tool 🔥🔥](https://youtu.be/yZyXfiB5ghA) — 46,720 views, 1211d old
 
 ---
