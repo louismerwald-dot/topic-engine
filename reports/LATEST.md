@@ -1,130 +1,130 @@
-# Search Opportunity Report — 2026-10-31
+# Search Opportunity Report — 2026-11-01
 
 These are highly searched YouTube queries with weak, old, or low-view competition.
 
 ---
 
-## #1: AI Workflow for Marketing: Automate 90% of Your Tasks (LIVE DEMO)
+## #1: How to Use AI for Instructional Design: Your COMPLETE 2024 Workflow
 
-**Target Search Query**: `ai workflow for marketing`
+**Target Search Query**: `how to use ai for instructional design`
 
-**Competition Score**: 0.53/1.00 *(Lower is better)*
+**Competition Score**: 0.44/1.00 *(Lower is better)*
 
-**The Angle**: This video will demonstrate a complete, actionable AI marketing workflow using cutting-edge tools with live screen-recordings, showing real-world application and immediate results.
+**The Angle**: This video will provide a highly practical, step-by-step workflow demonstrating exactly how instructional designers can leverage cutting-edge AI tools to significantly streamline and enhance their content creation process in 2024.
 
-**Why we will win**: Existing videos are often theoretical or feature outdated AI tools and interfaces, making their workflows difficult to replicate for current marketing needs. They fail to provide a comprehensive, step-by-step screen-recorded demonstration of a *live* AI workflow, leaving viewers without actionable implementation guidance.
+**Why we will win**: The existing competition is largely theoretical, outdated in its tool demonstrations, or focuses on future trends rather than immediate, actionable workflows. They fail to provide a concrete, screen-recorded, step-by-step guide showing *how* to integrate modern AI tools into an instructional design project from start to finish.
 
 **Suggested Outline**:
-  - Hook viewers with the promise of automating significant marketing tasks, directly addressing the 'ai workflow for marketing' query and setting the stage for a practical, demo-rich video.
-  - Break down the core AI marketing workflow (e.g., content generation, social media scheduling, email campaigns) into distinct, screen-recorded steps using the chosen tools.
-  - Showcase a complete, end-to-end real-world example of the AI workflow in action, from initial prompt to final output, demonstrating tangible results and efficiency gains.
-  - Summarize key takeaways, encourage viewers to implement the workflow, and provide a clear call to action (subscribe, comment, download a resource).
+  - Hook & Promise: Immediately address the search query, highlight the pain points of traditional ID, and promise a revolutionary, practical AI workflow for 2024 that saves time and boosts quality.
+  - The AI-Powered ID Workflow (Step-by-Step): Walk through a complete instructional design process (e.g., Needs Analysis, Learning Objectives, Content Outlining, Script/Module Generation, Assessment Creation), demonstrating specific AI tools at each stage with clear screen recordings.
+  - Real-World Project Demonstration: Apply the entire AI workflow to a common instructional design scenario, showcasing the tangible outputs and time savings from concept to a near-ready draft of a learning module or course segment.
+  - Future-Proofing & Call to Action: Discuss how these AI skills future-proof an ID career, recap the key benefits, and encourage viewers to subscribe, like, and comment with their own AI experiences or questions.
 
-**Tools to Demo**: ChatGPT (with custom GPTs for marketing tasks), Midjourney (for visual asset creation), Zapier AI (for connecting tools and automating sequences)
+**Tools to Demo**: ChatGPT (or GPT-4), Claude, Perplexity AI
 
 **Current Top Ranking Videos**:
-  - [How I Use AI to Automate 80% of My Marketing | 13 Strategies for Success](https://youtu.be/XKqNdX0qNRI) — 34,439 views, 485d old
-  - [I Replaced My Marketing Team With 3 AI Agents (Here’s The Workflow)](https://youtu.be/0NaGmWE1ITk) — 32,592 views, 274d old
-  - [How the Smartest Brands I Know Use AI in Their Marketing Strategy](https://youtu.be/Qdl9-QDtMwk) — 7,112 views, 282d old
+  - [5 Essential AI Skills for Instructional Designers](https://youtu.be/dWJPVAMwlAE) — 12,667 views, 649d old
+  - [Research: How Instructional Designers Use Artificial Intelligence](https://youtu.be/pWR-sIslPgs) — 1,085 views, 419d old
+  - [AI and Instructional Design: What We Got Wrong in 2025 (and What Needs to Change in 2026)](https://youtu.be/IjOpEIHy0Mc) — 4,272 views, 299d old
 
 ---
 
-## #2: 5 BEST AI Tools for Financial Advisors (Revolutionize Your Practice)
+## #2: Automate Power BI Reports: AI-Powered Workflow & Productivity Hacks
 
-**Target Search Query**: `xno2qi6zj4q best ai tools for financial advisors`
+**Target Search Query**: `how to automate reports in power bi`
 
-**Competition Score**: 0.53/1.00 *(Lower is better)*
+**Competition Score**: 0.54/1.00 *(Lower is better)*
 
-**The Angle**: This video will showcase 3-5 cutting-edge AI tools specifically tailored for financial advisors, demonstrating practical workflows to enhance client communication, market analysis, and administrative efficiency, allowing them to reclaim time and grow their business.
+**The Angle**: This video will demonstrate a complete, modern, and AI-enhanced workflow for automating Power BI report generation and distribution, going beyond basic scheduling to incorporate intelligent insights and personalized delivery.
 
-**Why we will win**: Existing videos often feature outdated AI tools, focus on only one generic solution, or provide overly theoretical explanations without showing practical, step-by-step application. They also frequently lack high-quality screen-recordings and fail to directly address the diverse daily challenges faced by financial advisors.
+**Why we will win**: The existing videos are significantly outdated, failing to showcase Power BI's current interface and the latest features of Power Automate. They also entirely miss integrating modern AI tools for enhanced report analysis, summarization, or personalized distribution, leaving viewers with a fragmented and less efficient automation strategy.
 
 **Suggested Outline**:
-  - Section 1: Hook + Address the Search Intent (30s) - Grab attention with advisor pain points (time, data, client needs) and immediately promise to reveal the best AI tools that solve these problems, setting the stage for practical demonstrations.
-  - Section 2: Step-by-Step Workflow for Each Tool - For each selected AI tool, demonstrate a specific, actionable workflow relevant to financial advisors (e.g., market research, client communication drafting, data analysis, meeting summaries) with clear screen-recordings.
-  - Section 3: Real-World Example / Integrated Workflow - Present a scenario (e.g., onboarding a new client, preparing for a quarterly review) and show how multiple AI tools can be seamlessly integrated to streamline the entire process, highlighting efficiency gains and improved output.
-  - Section 4: Closing CTA (30s) - Summarize the transformative impact of these AI tools on a financial practice, encourage viewers to implement them, and include a strong call to action to like, subscribe, and engage in comments, potentially offering a related free resource.
+  - Hook: Tired of manually sending Power BI reports? Imagine reports delivering themselves, tailored and on time. Today, I'll show you how to fully automate Power BI reports using a powerful, AI-enhanced workflow that saves hours every week (30s).
+  - Step-by-step Workflow: A comprehensive guide covering Power BI report setup, building the automation flow in Power Automate (triggers, actions like export, convert), and integrating AI for dynamic content and intelligent insights.
+  - Real-world Example: Demonstrate automating a monthly sales performance report, including data refresh, AI-driven executive summary generation, and personalized email distribution to different regional managers.
+  - Closing CTA: Recap the benefits of automation, encourage viewers to like, subscribe, and comment with their automation challenges, and suggest next steps for mastering Power Automate or AI for data analysis (30s).
 
-**Tools to Demo**: ChatGPT (or similar advanced LLM), Perplexity AI, Otter.ai
+**Tools to Demo**: Power BI Service, Power Automate, Microsoft Copilot
 
 **Current Top Ranking Videos**:
-  - [Best AI Tools for Financial Advisors](https://youtu.be/XnO2Qi6zJ4Q) — 64 views, 70d old
-  - [A must have AI tool for  financial advisors!!](https://youtu.be/IkidzMJhdF0) — 5,531 views, 564d old
-  - [Best AI Tool for Finance in 2026? (You Only need ONE)](https://youtu.be/wR_fd1ekkNs) — 30,557 views, 252d old
+  - [How To Send A Power BI Report As An Email Body Using Power Automate](https://youtu.be/QgaVSNEErvM) — 26,832 views, 813d old
+  - [Power BI & Power Automate - How to automate reporting process](https://youtu.be/F5vn51ho6wk) — 91,127 views, 1923d old
+  - [Automate Power Bi data refresh with Power Automate](https://youtu.be/2rJtDCIw2Xc) — 17,712 views, 618d old
 
 ---
 
-## #3: ChatGPT for Network Marketing: Automate Leads & Scale Today!
+## #3: Automate X (Twitter) with AI: Create Viral Posts & Save Time!
 
-**Target Search Query**: `chatgpt for network marketing`
+**Target Search Query**: `how to automate x`
 
 **Competition Score**: 0.55/1.00 *(Lower is better)*
 
-**The Angle**: This video will provide a modern, actionable, step-by-step guide on leveraging ChatGPT's latest features to automate lead generation, content creation, and team training specifically for network marketing professionals.
+**The Angle**: This video will provide a simple, end-to-end AI-powered workflow to automate X (Twitter) content creation, focusing on generating engaging posts and scheduling them effortlessly.
 
-**Why we will win**: The existing videos are severely outdated, featuring old ChatGPT interfaces and generic marketing advice not specific to network marketing's unique challenges. They fail to offer real-world, actionable walkthroughs using current AI capabilities for lead generation, personalized outreach, and team empowerment.
+**Why we will win**: Existing videos are either outdated, overly complex with niche tools like n8n, or focus on theoretical concepts without a clear, modern, step-by-step AI workflow. They fail to deliver a simple, actionable solution for everyday users looking for immediate results.
 
 **Suggested Outline**:
-  - Hook: Are you a network marketer struggling with lead generation, content creation, or team training? Discover how ChatGPT can solve these exact problems for you (30s).
-  - Step-by-step Workflow: Modern ChatGPT strategies for network marketing, including: 1) Crafting irresistible lead magnets & social media content; 2) Generating personalized outreach messages & follow-up sequences; 3) Creating engaging training materials & FAQs for your downline.
-  - Real-world Example: Watch me build a complete social media content calendar and a series of personalized prospecting scripts for a specific network marketing niche, all in real-time using ChatGPT.
-  - Closing CTA: Recap the power of AI for network marketing, encourage viewers to implement these strategies immediately, and prompt them to like, comment, and subscribe for more AI productivity hacks (30s).
+  - Hook viewers by highlighting the struggle of consistent X posting, then immediately promise a simple AI solution to automate content creation and scheduling, saving hours and boosting engagement.
+  - Demonstrate a clear, step-by-step AI workflow: from generating diverse content ideas using a prompt, to crafting engaging X posts with AI, and finally scheduling them efficiently.
+  - Walk through a practical, real-world example, automating a week's worth of X content for a hypothetical niche (e.g., a productivity coach), showcasing the entire process from idea to scheduled post.
+  - Recap the power of X automation, encourage viewers to implement the workflow, and prompt them to subscribe for more AI productivity tips or share their own automation strategies.
 
-**Tools to Demo**: ChatGPT (showcasing GPT-4 features, custom instructions, and custom GPTs), DALL-E 3 (for generating social media graphics based on ChatGPT prompts)
+**Tools to Demo**: ChatGPT, Copy.ai, Buffer
 
 **Current Top Ranking Videos**:
-  - [ChatGPT 101: A Beginner's Guide for Network Marketing & MLM](https://youtu.be/8jz9wgdzcWI) — 9,794 views, 1282d old
-  - [Let AI Build Your Entire Marketing Funnel (EASY ChatGPT Hack)](https://youtu.be/ijPaki_fkHw) — 121,306 views, 525d old
-  - [10 ChatGPT Marketing Strategies to Explode Your Business Growth](https://youtu.be/vXPzJ0aT_xA) — 34,212 views, 516d old
+  - [How to Automate Viral Posts on X](https://youtu.be/66t4E25U8x8) — 1,639 views, 57d old
+  - [Build a Grok Bot to Automate Your X (Twitter) Marketing!](https://youtu.be/Xs99boyqcFU) — 749 views, 13d old
+  - [AUTOMATE X (Twitter) Content Creation with AI & n8n (Free Workflow)](https://youtu.be/ahLYkrPA_-E) — 4,113 views, 443d old
 
 ---
 
-## #4: How to Use AI for Kiss: Generate STUNNING AI Kiss Photos & Videos!
+## #4: AI Image Mastery: Generate STUNNING Images (Step-by-Step!)
 
-**Target Search Query**: `how to use ai for kiss`
+**Target Search Query**: `how to use ai to generate high quality images`
 
-**Competition Score**: 0.55/1.00 *(Lower is better)*
+**Competition Score**: 0.58/1.00 *(Lower is better)*
 
-**The Angle**: This video will showcase the latest AI tools to generate hyper-realistic and customizable kissing visuals, offering a superior and more creative approach than existing outdated solutions.
+**The Angle**: This video will provide a highly actionable, step-by-step workflow demonstrating how to consistently generate professional-grade, high-quality images using AI, focusing on practical techniques overlooked by existing content.
 
-**Why we will win**: The current top-ranking videos feature outdated AI models and clunky interfaces, resulting in generic, low-quality outputs and a poor user experience. They also completely miss demonstrating how modern AI can generate highly customizable and realistic kissing visuals for diverse creative applications.
+**Why we will win**: Existing videos either focus too heavily on basic prompt writing, outdated tools, or simply review many options without diving deep into a practical workflow for consistent, professional-grade output. They lack a clear, modern, step-by-step demonstration of advanced techniques and tool features crucial for truly high-quality image generation beyond initial novelty.
 
 **Suggested Outline**:
-  - Hook viewers with stunning examples of AI-generated kissing visuals, then immediately state the video's purpose: to show exactly how to use cutting-edge AI to create your own, addressing the direct search query (30s).
-  - Provide a clear, step-by-step tutorial on using at least two different AI tools (one image, one video) to generate kissing content, covering effective prompt engineering, style customization, and ethical considerations.
-  - Demonstrate a practical application, such as generating unique visuals for a short story, a social media post, or even a personal creative project, highlighting the versatility and quality of the outputs.
-  - Summarize the power of AI for creative visual generation, encourage viewers to experiment with the tools shown, and prompt them to subscribe or comment on their own AI creations (30s).
+  - Showcase an incredible AI-generated image instantly, then promise a clear, actionable path to create similar high-quality visuals, addressing the common frustration of inconsistent results.
+  - Walk through a detailed, step-by-step workflow covering tool selection, advanced prompt engineering (style, composition, negative prompts), iterative refinement, and upscaling/post-processing for optimal quality.
+  - Apply the learned workflow to a specific real-world scenario (e.g., creating product mockups, social media graphics, or concept art) from idea to final polished image, highlighting decision points and troubleshooting.
+  - Recap the key takeaways for achieving high-quality AI images, encourage viewers to experiment, subscribe for more productivity hacks, and share their creations in the comments.
 
-**Tools to Demo**: Midjourney, Leonardo.ai, Pika Labs
+**Tools to Demo**: Midjourney, Fooocus (Stable Diffusion), Magnific AI (for upscaling/refinement)
 
 **Current Top Ranking Videos**:
-  - [AI Kissing Generator - Create AI Kiss Video From Image To Video Online Free | Virbo Tutorial](https://youtu.be/OUPf_D-1g_4) — 139,824 views, 717d old
-  - [Free AI Kissing Video Generator Online](https://youtu.be/8BV30W4shhA) — 14,908 views, 567d old
-  - [Best AI Kissing Video Generator Free: Create Stunning Al Kissing Clips Now!](https://youtu.be/245qsRMXoX4) — 13,412 views, 643d old
+  - [I Tried EVERY Free AI Image Generator in 2026 (These Are ACTUALLY Good)](https://youtu.be/tVb3rQuTB1g) — 26,380 views, 5d old
+  - [How to Write Great Prompts for AI Image Generators](https://youtu.be/6RAStep_3OI) — 152,057 views, 839d old
+  - [How to Create the Most Realistic AI Images Possible](https://youtu.be/gEHe1-1futI) — 79,966 views, 261d old
 
 ---
 
-## #5: BEST AI Tool for Frontend Dev? (Code UIs 10x Faster!)
+## #5: AI Workflow for Sales: 3 Steps to 10x Your Deals & Productivity
 
-**Target Search Query**: `best ai tool for frontend development`
+**Target Search Query**: `ai workflow for sales`
 
 **Competition Score**: 0.60/1.00 *(Lower is better)*
 
-**The Angle**: This video will provide a hands-on, step-by-step demonstration of the single best AI tool that directly generates modern frontend UI components and code, enabling developers to visually build interfaces at unprecedented speed.
+**The Angle**: This video will provide a highly practical, step-by-step demonstration of integrating modern AI tools into a complete sales workflow, showing exactly how to implement them for immediate productivity gains and increased sales.
 
-**Why we will win**: Existing videos either feature outdated tools and generic advice or focus on the theoretical challenges of AI in frontend development. None provide a clear, actionable, and modern workflow demonstrating how to leverage a specific AI tool for direct, visual UI component generation.
+**Why we will win**: The existing competition largely offers theoretical discussions or showcases outdated AI tools and interfaces, failing to provide a clear, actionable, step-by-step guide for immediate implementation. Many videos also lack real-time screen recordings or practical examples of how AI specifically integrates into daily sales tasks, leaving viewers without concrete workflows.
 
 **Suggested Outline**:
-  - Hook: Struggling with repetitive UI coding? What if AI could build your components in seconds? Address search intent: You're looking for the best AI tool for frontend development, and I've found it – one that will revolutionize your workflow. (30s)
-  - Step-by-step workflow: Setting up the chosen AI tool (e.g., Locofy.ai), inputting design prompts (text or image-based), and generating initial, production-ready UI components and layouts.
-  - Real-world example: Building a complete, responsive landing page hero section or a complex product card grid from scratch using the AI tool, showcasing iterative refinements, customization, and seamless code export.
-  - Closing CTA: Summarize the massive productivity gains, encourage viewers to try the demonstrated tool, subscribe for more AI productivity hacks, and share their favorite AI frontend tools in the comments. (30s)
+  - Hook: Are you a sales professional drowning in admin tasks? Imagine closing more deals with less effort. Today, we're diving into the exact AI workflows sales teams are using to revolutionize their productivity and revenue (30s).
+  - Detailed breakdown of an AI-powered sales workflow: from lead generation and personalized outreach to meeting preparation and follow-up, demonstrating each step with specific tool integrations and screen recordings.
+  - Walkthrough of a complete, real-world sales scenario (e.g., closing a B2B SaaS deal) applying the demonstrated AI workflow from start to finish, highlighting time saved and increased effectiveness.
+  - Recap the immense benefits of AI in sales, encourage viewers to implement these workflows, and prompt them to subscribe and comment on their favorite AI tool (30s).
 
-**Tools to Demo**: Locofy.ai, GitHub Copilot
+**Tools to Demo**: ChatGPT (or equivalent LLM), Fireflies.ai (or Otter.ai), Apollo.io
 
 **Current Top Ranking Videos**:
-  - [AI For Frontend Development 2026 | Best AI Tools For Frontend Development | Simplilearn](https://youtu.be/2qepb6Z38AM) — 11,672 views, 548d old
-  - [Frontend is HARDER for AI than backend (here's how to fix it)](https://youtu.be/pSritFeoYFo) — 56,801 views, 292d old
-  - [The Best AI Tools for Developers in 2026 (That I Actually Use)](https://youtu.be/_C57BxSXRbU) — 100,457 views, 82d old
+  - [Sales Reps Are Wasting 2 Hours a Day Without These AI Workflows](https://youtu.be/fcEsPf-ATuQ) — 3,503 views, 307d old
+  - [How to Get SO Many Customers with AI it feels ILLEGAL](https://youtu.be/5hZCTc_mwOg) — 399,625 views, 387d old
+  - [AI in Sales: The EXACT Workflows That Save Us Hours Every Week](https://youtu.be/x3dQ5OQvQ8w) — 17,379 views, 503d old
 
 ---
