@@ -1,130 +1,133 @@
-# Search Opportunity Report — 2026-11-02
+# Search Opportunity Report — 2026-11-03
 
 These are highly searched YouTube queries with weak, old, or low-view competition.
 
 ---
 
-## #1: Logic Pro X: Automate Delay Like a PRO (AI Workflow)
+## #1: Automate Your Shopify Store with AI (Save 10+ Hours/Week)
 
-**Target Search Query**: `how to automate delay in logic pro x`
+**Target Search Query**: `how to automate a shopify store`
 
-**Competition Score**: 0.50/1.00 *(Lower is better)*
+**Competition Score**: 0.44/1.00 *(Lower is better)*
 
-**The Angle**: This video will provide a comprehensive, modern, and efficient step-by-step guide to automating delays in Logic Pro X, integrating specific AI tools to streamline the creative and technical process for maximum productivity.
+**The Angle**: This video will provide a practical, hands-on workflow using modern AI tools to automate key Shopify tasks, demonstrating exactly how to set it up to save hours every week.
 
-**Why we will win**: The current top-ranking videos feature outdated Logic Pro X interfaces and workflow techniques, failing to demonstrate modern best practices or integrate productivity-enhancing AI tools. They also lack a clear, step-by-step guide from a contemporary perspective, leaving viewers with incomplete or inefficient solutions.
+**Why we will win**: Existing videos are largely outdated, featuring old Shopify UIs and discussing generic automation tools without leveraging modern AI capabilities. They also lack a clear, actionable, step-by-step demonstration of *how* to set up these automations from scratch, leaving viewers with theoretical knowledge rather than practical implementation.
 
 **Suggested Outline**:
-  - Hook: Address the common struggle with outdated tutorials, introduce the modern, AI-enhanced approach to mastering delay automation in Logic Pro X (30s).
-  - Step-by-step workflow: Demonstrate setting up send/return delays, understanding automation modes, drawing precise automation curves for wet/dry, feedback, and delay time, and using an AI transcription tool to perfectly time rhythmic delays.
-  - Real-world example: Apply advanced delay automation techniques to a vocal or synth track, showing how to create dynamic throws and effects, and using an AI chatbot to brainstorm creative automation ideas for different genres.
-  - Closing CTA: Recap key learnings, encourage practice, and prompt viewers to like, subscribe for more AI productivity tips, and comment on future video ideas (30s).
+  - Hook: Imagine your Shopify store running itself, saving you countless hours. This video will show you exactly how to automate your Shopify store using modern AI tools, transforming your workflow and freeing up your time. (30s)
+  - Step-by-step workflow: We'll build 2-3 key automations from scratch: 1) AI-powered product description generation for new imports, 2) Automated customer service response routing and drafting with AI, and 3) Smart inventory alerts and reordering suggestions. We'll walk through setting up triggers, actions, and AI prompts in each tool.
+  - Real-world example: Demonstrate one of the built automations in action. Show a new product being added and the AI generating a description, or a customer inquiry being automatically handled by the AI-powered system, highlighting the time saved and efficiency gained.
+  - Closing CTA: Recap the power of AI automation for Shopify, encourage viewers to implement these strategies, and invite them to subscribe for more AI productivity tips. (30s)
 
-**Tools to Demo**: ChatGPT, Otter.ai (or similar AI transcription tool), Notion AI
+**Tools to Demo**: Zapier (for connecting Shopify to AI), ChatGPT (for AI content generation and response drafting), Shopify Flow (as a native automation layer enhanced by AI via Zapier)
 
 **Current Top Ranking Videos**:
-  - [How to create a vocal delay throw in Logic Pro using automation #musicproducer #logicprox](https://youtu.be/eQtiMP0VCi0) — 35,329 views, 459d old
-  - [How To Automate Delays And Reverbs In Logic Pro X](https://youtu.be/n445MTjEf98) — 24,820 views, 2621d old
-  - [How To Automate Your Delays On Logic Pro X](https://youtu.be/i0u-aHrFrUc) — 400 views, 648d old
+  - [How to Automate Your Shopify Store with Shopify Flow (No Coding Needed)](https://youtu.be/AfwtPT2FAm8) — 6,077 views, 497d old
+  - [5 Tools To Build An Automated Shopify Store (2 hour work week)](https://youtu.be/2ziKWY2Mc0Y) — 9,621 views, 1092d old
+  - [Top 10 Best Shopify Automation Tools to 10X Your Store’s Growth!](https://youtu.be/PMQRnCFive4) — 908 views, 597d old
 
 ---
 
-## #2: Automate Quartz in Create Mod: The ULTIMATE 2024 Guide (EASY!)
+## #2: How to Use AI to Make Quizzes (FAST & EASY with ChatGPT!)
 
-**Target Search Query**: `how to automate quartz in create`
+**Target Search Query**: `how to use ai to make quiz`
 
-**Competition Score**: 0.53/1.00 *(Lower is better)*
+**Competition Score**: 0.51/1.00 *(Lower is better)*
 
-**The Angle**: This video will deliver the most efficient, visually clear, and up-to-date 2024 guide to automating quartz in the Create Mod, showcasing an optimized design that leverages productivity principles to easily surpass the outdated and often confusing existing tutorials.
+**The Angle**: This video will offer a comprehensive, up-to-date, multi-tool workflow for creating high-quality quizzes quickly, demonstrating practical applications for educators, content creators, and learners.
 
-**Why we will win**: Existing videos feature outdated game interfaces and inefficient build designs that are no longer optimal for current Create Mod versions, leading to unnecessary complexity and resource waste. They also often suffer from poor audio quality, unclear explanations, and a lack of modern visual polish, making them difficult for new players to follow or apply effectively.
+**Why we will win**: Existing videos are often outdated, focus on single or obscure tools, and lack a comprehensive, practical workflow that addresses different quiz types and use cases, leaving viewers with incomplete solutions. Many also suffer from poor production quality or are too theoretical, failing to provide actionable, step-by-step guidance for creating diverse and engaging quizzes efficiently.
 
 **Suggested Outline**:
-  - Hook: Frustrated with endless nether quartz grinding in Create Mod? This video reveals the most efficient, compact, and fully automated quartz farm design for 2024, saving you countless hours and resources.
-  - Step-by-step construction guide: From basic components and power setup to advanced item sorting and output, demonstrating each part of the optimized quartz farm with clear visual cues and explanations.
-  - Demonstration of the completed farm in action, highlighting its production rate, resource efficiency, and scalability, with tips for integrating it into a larger base or expanding its capacity.
-  - Review of key benefits, encouragement to build the farm, and call to action for liking, subscribing, and checking out other Create Mod or productivity-focused automation tutorials.
+  - Hook viewers with the promise of creating quizzes in minutes using AI, directly addressing the pain points of manual quiz creation and stating the video's goal to show a fast, effective method (30s).
+  - Demonstrate a clear, step-by-step process using 2-3 AI tools, covering ideation, content generation, question formatting (MCQ, true/false, open-ended), and answer key creation. Show how to refine prompts, iterate on questions, and export/format for different platforms.
+  - Apply the workflow to a specific real-world scenario (e.g., creating a quiz for a history lesson, a marketing training, or a personal learning review), showcasing versatility and efficiency. Highlight how to adapt the AI-generated content for different educational levels or target audiences.
+  - Summarize the benefits of using AI for quiz creation, encourage viewers to try the methods, and include a clear call to action to like, subscribe, and share their own AI quiz-making experiences (30s).
 
-**Tools to Demo**: ChatGPT/Claude: Screen-record using it to brainstorm optimal Create Mod automation strategies or generate detailed component lists for the quartz farm., Notion AI: Screen-record using it to help structure the video's outline, refine explanations for complex mechanics, or organize the build steps for maximum clarity.
+**Tools to Demo**: ChatGPT, Google Gemini
 
 **Current Top Ranking Videos**:
-  - [[Create Mod] How To Automate Quartz, Iron & Gold](https://youtu.be/Evv26rv5AdU) — 33,909 views, 1393d old
-  - [Minecraft Create Mod - Automatic Nether Quartz Farm (500+ Quartz/Hour)](https://youtu.be/jMo6jCrhEKE) — 29,817 views, 1715d old
-  - [Extremely Compact Create Mod Quartz Generator!](https://youtu.be/G8DMOUKwnSg) — 39,769 views, 527d old
+  - [How to Create an AI-Generated Interactive Quiz [with Edcafe AI]](https://youtu.be/5qLxPD6SDuU) — 13,061 views, 646d old
+  - [This AI Turns Research into Quizzes Instantly #shorts](https://youtu.be/yzC0hL03ahI) — 46,115 views, 509d old
+  - [How to Create INTERACTIVE Quizzes with ChatGPT About ANY Topic](https://youtu.be/nhl_pFWZA7U) — 7,012 views, 312d old
 
 ---
 
-## #3: Ableton Tempo Automation: Master Dynamic Tracks FAST!
+## #3: ChatGPT for UI Design: Your ULTIMATE Workflow (2024)
 
-**Target Search Query**: `how to automate tempo in ableton`
-
-**Competition Score**: 0.54/1.00 *(Lower is better)*
-
-**The Angle**: This video will provide a modern, step-by-step guide to automating tempo in Ableton Live, focusing on practical applications and creative possibilities that enhance overall production efficiency.
-
-**Why we will win**: Existing videos feature outdated Ableton Live interfaces and often present the topic in a purely functional, theoretical manner without exploring practical creative applications. They also fail to integrate modern production efficiency tips or leverage AI/productivity tools to streamline the music creation process around tempo changes.
-
-**Suggested Outline**:
-  - Hook: 'Is your music feeling static? Learn how to make your tracks breathe with dynamic tempo changes in Ableton Live.' (30s)
-  - Step-by-step Workflow: How to reveal the tempo automation lane, draw in points, use curves for smooth transitions, and apply different automation shapes in Ableton Live's Arrangement View.
-  - Real-World Example & AI Integration: Demonstrate practical scenarios like building tension with a tempo ramp, creating a breakdown with a tempo drop, or achieving a sudden stop effect, showing how AI (e.g., ChatGPT) can help brainstorm creative tempo change ideas for specific track sections or genres.
-  - Closing CTA: Recap the power of tempo automation for dynamic tracks and encourage viewers to experiment, subscribe for more AI/productivity music tips, and share their favorite tempo tricks. (30s)
-
-**Tools to Demo**: Ableton Live, ChatGPT/Bard (for creative ideation), Notion AI (for project planning & structuring)
-
-**Current Top Ranking Videos**:
-  - [How to Automate your BPM in Ableton](https://youtu.be/656Toiq0vYQ) — 71,121 views, 1807d old
-  - [How to Automate Tempo and Time Signature Changes in Ableton Live's Arrangement View](https://youtu.be/yLXOCqni0dU) — 47,908 views, 2383d old
-  - [How to Automate Tempo In Ableton Live](https://youtu.be/2Mu4L5GuBC4) — 1,908 views, 630d old
-
----
-
-## #4: Flexible AI Workflow Automation for Tech Teams (2024 Guide)
-
-**Target Search Query**: `flexible ai workflow automation for technical teams`
+**Target Search Query**: `chatgpt for ui design`
 
 **Competition Score**: 0.59/1.00 *(Lower is better)*
 
-**The Angle**: This video will provide a hands-on, end-to-end demonstration of building truly flexible AI workflow automations using modern tools, specifically tailored for the complex needs of technical teams.
+**The Angle**: This video will provide a practical, step-by-step workflow demonstrating exactly how to integrate ChatGPT and other AI tools into every stage of the UI design process, from ideation to component creation, for tangible, high-quality results.
 
-**Why we will win**: The existing competition either features outdated interfaces, generic explanations lacking technical depth, or focuses on single tools without demonstrating a cohesive, flexible workflow. They fail to provide a practical, modern, step-by-step guide that directly addresses the specific challenges and integration needs of technical development environments.
+**Why we will win**: The existing videos are either too theoretical, outdated, or only cover a narrow aspect like 'inspiration' without providing a practical, end-to-end workflow for modern UI design. They fail to demonstrate specific, actionable prompts and integrations that lead to tangible UI components or full design systems.
 
 **Suggested Outline**:
-  - Hook: Are your technical teams drowning in repetitive tasks? Discover how truly flexible AI workflow automation can free them up. Address: This video will show you how to implement AI workflows that adapt to your team's unique needs, not the other way around (30s).
-  - Step-by-step: Building a flexible AI workflow from scratch, covering initial setup, data input/output, conditional logic, and integration points using modern low-code/no-code platforms.
-  - Real-world example: Demonstrating an AI-powered workflow for automated bug triaging and notification, showing how AI analyzes reports, assigns priorities, and integrates with project management tools.
-  - Closing CTA: Recap key benefits, encourage viewers to implement these strategies, and prompt for comments/likes/subscribes for more AI productivity content (30s).
+  - Hook viewers by acknowledging the challenge of modern UI design and immediately promising a revolutionary ChatGPT workflow; clearly state the video's purpose: to show how to use ChatGPT for practical UI design tasks. (30s)
+  - **Phase 1: Ideation & Research** (e.g., generating user personas, feature lists, initial design concepts based on prompts).
+**Phase 2: Wireframing & Structure** (e.g., getting layout suggestions, content hierarchy, user flow ideas).
+**Phase 3: Component Design & Copy** (e.g., generating specific button labels, error messages, microcopy, even CSS/HTML snippets for components).
+**Phase 4: Feedback & Iteration** (e.g., using ChatGPT to analyze design descriptions or user feedback for improvement suggestions).
+  - Demonstrate the entire workflow by building a small, tangible UI element or a mini-design system (e.g., a login screen, a specific dashboard widget) from scratch using ChatGPT and other AI tools, showing screen-recordings of prompt engineering and application in a design tool.
+  - Summarize the power of AI in UI design, encourage viewers to try the workflow, and provide a clear call to action (subscribe, like, comment, check resources). (30s)
 
-**Tools to Demo**: Make.com, OpenAI API (GPT-4), GitHub/Jira (for integration points)
+**Tools to Demo**: ChatGPT (GPT-4 for advanced capabilities), Midjourney/DALL-E (for initial mood boards, style inspiration, or icon generation), Figma (as the design environment for applying AI-generated insights and components)
 
 **Current Top Ranking Videos**:
-  - [n8n: Flexible AI Workflow Automation for Technical Teams [2025]](https://youtu.be/ZCuL2e4zC_4) — 78,966 views, 585d old
-  - [Flexible Al workflow automation for technical teams✍️✍️🤺🤺](https://youtu.be/DUW5bihvAYY) — 2 views, 203d old
-  - [How to Use ChatGPT Work – AI Workflow Automation Guide 2026](https://youtu.be/lmFAhaTNiZQ) — 24,755 views, 68d old
+  - [ChatGPT Just Changed FOREVER - Intelligent UI Explained](https://youtu.be/pt5eC8gLbWI) — 253,226 views, 26d old
+  - [I Turned ChatGPT Into A Design Studio](https://youtu.be/MS1NSPmplgI) — 37,399 views, 74d old
+  - [How To Use ChatGPT For UI/UX Design Inspiration](https://youtu.be/hN4EOOxCV4E) — 19,632 views, 1238d old
 
 ---
 
-## #5: ChatGPT Quiz Prompts: Generate Any Quiz, Instantly!
+## #4: AI-Optimized AE2 Inscriber Automation: Build the FASTEST Setup!
 
-**Target Search Query**: `chatgpt prompt for quiz`
+**Target Search Query**: `how to automate ae2 inscribers`
 
-**Competition Score**: 0.60/1.00 *(Lower is better)*
+**Competition Score**: 0.59/1.00 *(Lower is better)*
 
-**The Angle**: This video will demonstrate cutting-edge ChatGPT prompt engineering techniques to generate diverse, high-quality, and interactive quizzes for any topic in minutes, showcasing practical, advanced applications that current videos lack.
+**The Angle**: This video will demonstrate an AI-optimized, highly efficient, and compact AE2 inscriber automation system for modern Minecraft, showcasing how AI tools can streamline complex design processes.
 
-**Why we will win**: Current videos often showcase outdated ChatGPT interfaces and basic prompt techniques, failing to leverage advanced prompt engineering for diverse quiz formats, detailed answer keys, or interactive elements. They typically provide theoretical examples without a comprehensive, real-world application from start to finish.
+**Why we will win**: Current ranking videos are largely outdated, showcasing complex or inefficient setups for older Minecraft versions, and often lack clear, step-by-step instructions with modern UI. They fail to address the common pain points of slow throughput and messy wiring that plague most AE2 automation attempts.
 
 **Suggested Outline**:
-  - Hook: 'Stop wasting hours creating quizzes! ChatGPT is your secret weapon.' Immediately address the search intent by promising to show how to generate any quiz, instantly, using powerful prompts. Briefly preview the types of quizzes and advanced features (e.g., answer keys, explanations) covered.
-  - Step-by-step Workflow: Detail the fundamental components of an effective quiz prompt (Role, Goal, Topic, Format, Constraints, Output Instructions). Walk through generating different quiz types (e.g., Multiple Choice, True/False, Short Answer, Scenario-based) and how to explicitly request comprehensive answer keys with explanations. Introduce the use of Custom Instructions for consistent quiz generation.
-  - Real-World Example: Pick a moderately complex topic (e.g., 'Key Concepts of Machine Learning') and demonstrate the full end-to-end process. Start with an initial prompt for topic information, then progressively build prompts to generate a full quiz including varied question types, an answer key, and specific difficulty levels. Show how to refine prompts for better quality, tone, and accuracy.
-  - Closing CTA: Summarize the immense time-saving and quality benefits of mastering ChatGPT quiz prompts. Encourage viewers to implement these techniques in their own learning or teaching. Include a clear call to action: like, subscribe, and comment on what quiz they'll create first.
+  - Hook with the pain of manual inscribers, promise a fast, simple, and up-to-date automation solution for AE2 inscribers, briefly mentioning how AI assisted in its design, and directly state the video will demonstrate a compact, high-throughput design.
+  - Step-by-step guide on building the core inscriber automation module, covering item input/output, power, and precise configuration for each inscriber type (logic, silicon, etc.), emphasizing compact design and optimal flow, referencing AI-generated insights for efficiency.
+  - Demonstrate the automated inscribers integrated into a compact AE2 processing array, showcasing its efficiency by auto-crafting multiple processors simultaneously, and discuss scalability, common troubleshooting tips, and how AI tools helped refine the setup.
+  - Summarize the benefits of the demonstrated automation, including the role of AI in optimization, encourage viewers to like/subscribe, and prompt them to share their own AE2 automation tips or future video requests in the comments.
 
-**Tools to Demo**: ChatGPT (GPT-3.5 & GPT-4), Perplexity AI (for quick topic research/fact-checking before prompting)
+**Tools to Demo**: ChatGPT, Notion
 
 **Current Top Ranking Videos**:
-  - [5 ChatGPT Study Codes for Notes, Quizzes, and Test Prep](https://youtu.be/biOxroDZuiQ) — 13,980 views, 33d old
-  - [How to Create INTERACTIVE Quizzes with ChatGPT About ANY Topic](https://youtu.be/nhl_pFWZA7U) — 7,004 views, 311d old
-  - [How To Create Quiz Questions Using ChatGPT (Easy Guide)](https://youtu.be/2pJjJGLb3uI) — 992 views, 211d old
+  - [Compact AE2 Processor and Inscriber Automation UPDATED for Minecraft 1.20 and 1.21](https://youtu.be/NXgvBsDqUSA) — 175,897 views, 799d old
+  - [How To Auto-Craft AE2 Processors FAST in All The Mods 10](https://youtu.be/C2Smns3VMts) — 120,041 views, 436d old
+  - [How To Automate Inscriber In Applied Energistics 2 (Beginner Guide)](https://youtu.be/ZrTGlRw9V50) — 18,962 views, 841d old
+
+---
+
+## #5: ChatGPT for Note Taking: The Smart Way to Organize Your Ideas
+
+**Target Search Query**: `chatgpt for note taking`
+
+**Competition Score**: 0.59/1.00 *(Lower is better)*
+
+**The Angle**: This video will provide a comprehensive, actionable workflow demonstrating how ChatGPT can not only transcribe but also synthesize, organize, and retrieve notes from various sources, making note-taking truly intelligent and efficient.
+
+**Why we will win**: Current videos are often outdated, showing older ChatGPT interfaces or focusing too narrowly on meeting minutes. They fail to demonstrate a comprehensive, modern workflow for leveraging ChatGPT's full potential in synthesizing and organizing diverse types of notes.
+
+**Suggested Outline**:
+  - Hook: Are your notes a chaotic mess? Discover how ChatGPT can transform your note-taking from disorganized scribbles into perfectly structured knowledge, instantly addressing the core problem and promising a solution (30s).
+  - Step-by-step Workflow: Demonstrate how to feed raw notes (from articles, meetings, brainstorming) into ChatGPT, using specific prompts for summarizing, extracting key insights, identifying action items, and generating organized outlines. Show the iterative process of refining outputs.
+  - Real-World Examples: Apply the workflow to two distinct scenarios: 1) transforming a long article into concise, actionable study notes, and 2) converting messy meeting minutes into a clear summary with assigned tasks, showcasing versatility and practical application.
+  - Closing & Next Steps: Recap the power of intelligent note-taking with ChatGPT, encourage viewers to implement these strategies, and provide a clear call to action to subscribe, like, and comment with their biggest note-taking challenge (30s).
+
+**Tools to Demo**: ChatGPT (latest version, preferably GPT-4), Notion (for demonstrating organized note storage and integration), Otter.ai (for transcribing audio/meetings to feed into ChatGPT)
+
+**Current Top Ranking Videos**:
+  - [How To Use ChatGPT For Note Taking [2026 Full Guide]](https://youtu.be/imQbjT4CbLU) — 1,132 views, 150d old
+  - [ChatGPT Can Now Take Notes in Your Meetings](https://youtu.be/6KUn0bgRQkY) — 2,716 views, 23d old
+  - [How to Use ChatGPT for Meeting Minutes in 2026](https://youtu.be/56pilLKRGJc) — 38,628 views, 541d old
 
 ---
