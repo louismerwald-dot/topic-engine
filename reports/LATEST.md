@@ -1,133 +1,134 @@
-# Search Opportunity Report — 2026-11-03
+# Search Opportunity Report — 2026-11-04
 
 These are highly searched YouTube queries with weak, old, or low-view competition.
 
 ---
 
-## #1: Automate Your Shopify Store with AI (Save 10+ Hours/Week)
+## #1: AI in Zed: Boost Productivity & Code Faster (2024 Guide)
 
-**Target Search Query**: `how to automate a shopify store`
+**Target Search Query**: `how to use ai in zed`
 
-**Competition Score**: 0.44/1.00 *(Lower is better)*
+**Competition Score**: 0.54/1.00 *(Lower is better)*
 
-**The Angle**: This video will provide a practical, hands-on workflow using modern AI tools to automate key Shopify tasks, demonstrating exactly how to set it up to save hours every week.
+**The Angle**: This video will provide a comprehensive, step-by-step, and up-to-date workflow demonstrating how to integrate and leverage multiple AI tools directly within Zed to dramatically enhance coding speed and quality.
 
-**Why we will win**: Existing videos are largely outdated, featuring old Shopify UIs and discussing generic automation tools without leveraging modern AI capabilities. They also lack a clear, actionable, step-by-step demonstration of *how* to set up these automations from scratch, leaving viewers with theoretical knowledge rather than practical implementation.
+**Why we will win**: Existing videos are significantly outdated, focusing on specific, older features of Zed's AI capabilities rather than a current, comprehensive integration strategy. They fail to demonstrate a practical, end-to-end workflow utilizing multiple modern AI tools within Zed to solve common coding challenges and boost overall productivity.
 
 **Suggested Outline**:
-  - Hook: Imagine your Shopify store running itself, saving you countless hours. This video will show you exactly how to automate your Shopify store using modern AI tools, transforming your workflow and freeing up your time. (30s)
-  - Step-by-step workflow: We'll build 2-3 key automations from scratch: 1) AI-powered product description generation for new imports, 2) Automated customer service response routing and drafting with AI, and 3) Smart inventory alerts and reordering suggestions. We'll walk through setting up triggers, actions, and AI prompts in each tool.
-  - Real-world example: Demonstrate one of the built automations in action. Show a new product being added and the AI generating a description, or a customer inquiry being automatically handled by the AI-powered system, highlighting the time saved and efficiency gained.
-  - Closing CTA: Recap the power of AI automation for Shopify, encourage viewers to implement these strategies, and invite them to subscribe for more AI productivity tips. (30s)
+  - Hook viewers by showing a quick, impressive AI-powered Zed action, then immediately state the video's goal: mastering AI in Zed for peak productivity (30s).
+  - Guide viewers through setting up and using Zed's built-in AI features (e.g., Agent Panel, Agentic Editing) and integrating external AI tools (e.g., Copilot via extensions) for code generation, refactoring, and debugging, with clear screen-recordings.
+  - Demonstrate the combined power of these AI tools by tackling a small, practical coding task from scratch within Zed, showcasing how AI accelerates each stage of development.
+  - Summarize the key benefits of using AI in Zed, encourage viewers to try the demonstrated techniques, and prompt them to subscribe or leave comments with their own AI tips (30s).
 
-**Tools to Demo**: Zapier (for connecting Shopify to AI), ChatGPT (for AI content generation and response drafting), Shopify Flow (as a native automation layer enhanced by AI via Zapier)
+**Tools to Demo**: Zed's Built-in AI (Agent Panel & Agentic Editing), GitHub Copilot (via Zed's extension ecosystem)
 
 **Current Top Ranking Videos**:
-  - [How to Automate Your Shopify Store with Shopify Flow (No Coding Needed)](https://youtu.be/AfwtPT2FAm8) — 6,077 views, 497d old
-  - [5 Tools To Build An Automated Shopify Store (2 hour work week)](https://youtu.be/2ziKWY2Mc0Y) — 9,621 views, 1092d old
-  - [Top 10 Best Shopify Automation Tools to 10X Your Store’s Growth!](https://youtu.be/PMQRnCFive4) — 908 views, 597d old
+  - [Introducing Agentic Editing in Zed](https://youtu.be/7PMXUruAIdQ) — 41,936 views, 546d old
+  - [Zed Tutorial - 2026 | How to Code Smarter with This Code Editor | How to Use Zed](https://youtu.be/6JJxg3iG2nE) — 51,204 views, 339d old
+  - [How to use the Agent Panel in Zed](https://youtu.be/K1K84PSgp5g) — 35,145 views, 379d old
 
 ---
 
-## #2: How to Use AI to Make Quizzes (FAST & EASY with ChatGPT!)
+## #2: Learn Spanish with AI: The ULTIMATE 2024 Guide (Free Tools!)
 
-**Target Search Query**: `how to use ai to make quiz`
+**Target Search Query**: `how to use ai to learn spanish`
 
-**Competition Score**: 0.51/1.00 *(Lower is better)*
+**Competition Score**: 0.55/1.00 *(Lower is better)*
 
-**The Angle**: This video will offer a comprehensive, up-to-date, multi-tool workflow for creating high-quality quizzes quickly, demonstrating practical applications for educators, content creators, and learners.
+**The Angle**: This video will provide a modern, step-by-step workflow demonstrating specific, free AI tools to create a personalized, effective Spanish learning system that viewers can implement immediately.
 
-**Why we will win**: Existing videos are often outdated, focus on single or obscure tools, and lack a comprehensive, practical workflow that addresses different quiz types and use cases, leaving viewers with incomplete solutions. Many also suffer from poor production quality or are too theoretical, failing to provide actionable, step-by-step guidance for creating diverse and engaging quizzes efficiently.
+**Why we will win**: The existing videos are either outdated, focusing on older AI models or interfaces, or too theoretical without demonstrating a clear, actionable, and integrated learning workflow using multiple tools. They also often lack high-quality production, clear step-by-step visuals, and fail to highlight free, accessible tools for a broader audience.
 
 **Suggested Outline**:
-  - Hook viewers with the promise of creating quizzes in minutes using AI, directly addressing the pain points of manual quiz creation and stating the video's goal to show a fast, effective method (30s).
-  - Demonstrate a clear, step-by-step process using 2-3 AI tools, covering ideation, content generation, question formatting (MCQ, true/false, open-ended), and answer key creation. Show how to refine prompts, iterate on questions, and export/format for different platforms.
-  - Apply the workflow to a specific real-world scenario (e.g., creating a quiz for a history lesson, a marketing training, or a personal learning review), showcasing versatility and efficiency. Highlight how to adapt the AI-generated content for different educational levels or target audiences.
-  - Summarize the benefits of using AI for quiz creation, encourage viewers to try the methods, and include a clear call to action to like, subscribe, and share their own AI quiz-making experiences (30s).
+  - Hook: Tired of slow Spanish progress? Discover how AI can revolutionize your learning. Address Intent: I'll show you a complete, practical system using free AI tools to learn Spanish faster and more effectively than ever before.
+  - Setting up your AI language tutor (ChatGPT/Claude for conversation & role-play). Generating custom vocabulary lists & flashcards (AI-assisted content creation). Mastering grammar with AI explanations & practice exercises. Improving listening & speaking with AI pronunciation feedback & audio generation.
+  - A full demo: from planning a conversation topic with AI, practicing it in real-time, to getting instant corrections and new vocabulary, simulating a real-life scenario.
+  - Recap the efficiency and personalization AI brings to Spanish learning. Encourage viewers to implement the demonstrated workflow. CTA: Like, subscribe, share your favorite AI tool in the comments, and access all resources in the description.
 
-**Tools to Demo**: ChatGPT, Google Gemini
+**Tools to Demo**: ChatGPT / Claude (for interactive conversation and explanations), ElevenLabs (for realistic text-to-speech audio generation), DeepL (for nuanced translation and contextual examples)
 
 **Current Top Ranking Videos**:
-  - [How to Create an AI-Generated Interactive Quiz [with Edcafe AI]](https://youtu.be/5qLxPD6SDuU) — 13,061 views, 646d old
-  - [This AI Turns Research into Quizzes Instantly #shorts](https://youtu.be/yzC0hL03ahI) — 46,115 views, 509d old
-  - [How to Create INTERACTIVE Quizzes with ChatGPT About ANY Topic](https://youtu.be/nhl_pFWZA7U) — 7,012 views, 312d old
+  - [The Best AI Tutor for Spanish - and Why You Need It (Langua)](https://youtu.be/d8MbATDCN-o) — 105,818 views, 501d old
+  - [How To Learn Spanish With AI In 2025](https://youtu.be/WVAbJbO2CgI) — 32,632 views, 648d old
+  - [How to use ChatGPT to learn Spanish!](https://youtu.be/4mS1dqyUu0c) — 26,372 views, 1293d old
 
 ---
 
-## #3: ChatGPT for UI Design: Your ULTIMATE Workflow (2024)
+## #3: How To Use AI To Send Job Applications (Actually Get Hired!)
 
-**Target Search Query**: `chatgpt for ui design`
+**Target Search Query**: `how to use ai to send job applications`
 
 **Competition Score**: 0.59/1.00 *(Lower is better)*
 
-**The Angle**: This video will provide a practical, step-by-step workflow demonstrating exactly how to integrate ChatGPT and other AI tools into every stage of the UI design process, from ideation to component creation, for tangible, high-quality results.
+**The Angle**: This video will demonstrate a strategic, personalized AI workflow for job applications, focusing on quality over quantity to secure actual interviews, unlike the outdated or overly technical approaches of competitors.
 
-**Why we will win**: The existing videos are either too theoretical, outdated, or only cover a narrow aspect like 'inspiration' without providing a practical, end-to-end workflow for modern UI design. They fail to demonstrate specific, actionable prompts and integrations that lead to tangible UI components or full design systems.
+**Why we will win**: Existing videos either focus on generic, quantity-over-quality approaches that yield few results, or present overly complex, technical setups that are inaccessible to the average job seeker. They also often feature outdated AI tools or theoretical discussions, failing to provide a current, practical, step-by-step workflow for personalized and effective applications.
 
 **Suggested Outline**:
-  - Hook viewers by acknowledging the challenge of modern UI design and immediately promising a revolutionary ChatGPT workflow; clearly state the video's purpose: to show how to use ChatGPT for practical UI design tasks. (30s)
-  - **Phase 1: Ideation & Research** (e.g., generating user personas, feature lists, initial design concepts based on prompts).
-**Phase 2: Wireframing & Structure** (e.g., getting layout suggestions, content hierarchy, user flow ideas).
-**Phase 3: Component Design & Copy** (e.g., generating specific button labels, error messages, microcopy, even CSS/HTML snippets for components).
-**Phase 4: Feedback & Iteration** (e.g., using ChatGPT to analyze design descriptions or user feedback for improvement suggestions).
-  - Demonstrate the entire workflow by building a small, tangible UI element or a mini-design system (e.g., a login screen, a specific dashboard widget) from scratch using ChatGPT and other AI tools, showing screen-recordings of prompt engineering and application in a design tool.
-  - Summarize the power of AI in UI design, encourage viewers to try the workflow, and provide a clear call to action (subscribe, like, comment, check resources). (30s)
+  - Hook: Are you tired of spending hours on job applications with no results? AI can help, but not by just spamming hundreds of resumes. I'll show you how to use AI strategically to get actual interviews, saving you time and boosting your chances. (30s)
+  - Step-by-step workflow:
+1. **Job Description Analysis with AI:** Use AI to extract key skills and requirements from a job posting.
+2. **Resume Customization with AI:** Show how to use AI to tailor your existing resume to match the job description, making it ATS-friendly.
+3. **Personalized Cover Letter Generation:** Demo AI generating a highly customized cover letter that highlights relevant experience and expresses genuine interest.
+4. **Quick Application Submission Strategy:** Briefly touch on efficient ways to submit once documents are ready.
+  - Real-world example: Apply this exact AI workflow to a live job posting from LinkedIn or Indeed. Demonstrate how to quickly go from a generic resume to a perfectly tailored application package for a specific role, highlighting the AI's output and how to refine it.
+  - Closing CTA: Stop wasting time on generic applications. Implement this AI strategy to stand out and land more interviews. Like this video if it helped, subscribe for more AI productivity tips, and let me know in the comments which AI tool you'll try first! (30s)
 
-**Tools to Demo**: ChatGPT (GPT-4 for advanced capabilities), Midjourney/DALL-E (for initial mood boards, style inspiration, or icon generation), Figma (as the design environment for applying AI-generated insights and components)
+**Tools to Demo**: ChatGPT (or Claude/Gemini), QuillBot (or similar paraphrasing/summarizing tool), Grammarly (Premium features)
 
 **Current Top Ranking Videos**:
-  - [ChatGPT Just Changed FOREVER - Intelligent UI Explained](https://youtu.be/pt5eC8gLbWI) — 253,226 views, 26d old
-  - [I Turned ChatGPT Into A Design Studio](https://youtu.be/MS1NSPmplgI) — 37,399 views, 74d old
-  - [How To Use ChatGPT For UI/UX Design Inspiration](https://youtu.be/hN4EOOxCV4E) — 19,632 views, 1238d old
+  - [I Applied to 100 Jobs in 5 Minutes Using AI | AI Apply](https://youtu.be/o6Nw1Qr6uvo) — 78,510 views, 355d old
+  - [Your Automated Job Search & Application AI Agent [No-code with n8n, LinkedIn, Deepseek & Perplexity]](https://youtu.be/coFz9CvKnZE) — 229,137 views, 647d old
+  - [The RIGHT Way To Use AI To Get A Job in 2026](https://youtu.be/UtbNQqHhnKY) — 22,537 views, 595d old
 
 ---
 
-## #4: AI-Optimized AE2 Inscriber Automation: Build the FASTEST Setup!
+## #4: ATM10 Powah: Automate Energizing Orb *FAST* & *EASY* (2024 Guide)
 
-**Target Search Query**: `how to automate ae2 inscribers`
+**Target Search Query**: `how to automate energizing orb powah atm10`
 
 **Competition Score**: 0.59/1.00 *(Lower is better)*
 
-**The Angle**: This video will demonstrate an AI-optimized, highly efficient, and compact AE2 inscriber automation system for modern Minecraft, showcasing how AI tools can streamline complex design processes.
+**The Angle**: This video will provide a step-by-step, highly optimized, and current method for automating the Powah Energizing Orb in ATM10, addressing common frustrations with outdated and overly complex tutorials.
 
-**Why we will win**: Current ranking videos are largely outdated, showcasing complex or inefficient setups for older Minecraft versions, and often lack clear, step-by-step instructions with modern UI. They fail to address the common pain points of slow throughput and messy wiring that plague most AE2 automation attempts.
+**Why we will win**: Existing tutorials are severely outdated, often demonstrating setups incompatible with ATM10's current mod versions or lacking the most efficient automation strategies. Furthermore, they frequently rely on overly complex systems like AE2 or Refined Storage for basic automation, which can be daunting for new players and unnecessary for the Energizing Orb's needs.
 
 **Suggested Outline**:
-  - Hook with the pain of manual inscribers, promise a fast, simple, and up-to-date automation solution for AE2 inscribers, briefly mentioning how AI assisted in its design, and directly state the video will demonstrate a compact, high-throughput design.
-  - Step-by-step guide on building the core inscriber automation module, covering item input/output, power, and precise configuration for each inscriber type (logic, silicon, etc.), emphasizing compact design and optimal flow, referencing AI-generated insights for efficiency.
-  - Demonstrate the automated inscribers integrated into a compact AE2 processing array, showcasing its efficiency by auto-crafting multiple processors simultaneously, and discuss scalability, common troubleshooting tips, and how AI tools helped refine the setup.
-  - Summarize the benefits of the demonstrated automation, including the role of AI in optimization, encourage viewers to like/subscribe, and prompt them to share their own AE2 automation tips or future video requests in the comments.
+  - Hook: 'Struggling to automate your Powah Energizing Orb in ATM10? You're not alone!' Quickly state the video's purpose: to provide the most current, simple, and efficient automation setup, saving you countless hours of manual crafting.
+  - Detailed, visual step-by-step guide to building the automation system, from basic Powah blocks to item transportation and power integration, highlighting key configuration points and common pitfalls. Incorporate AI tools to demonstrate optimal layout planning or troubleshooting common issues.
+  - Showcase the fully automated system in action, demonstrating its efficiency by processing a large batch of items (e.g., Blazing Crystals) and discussing resource savings and scalability for different needs.
+  - Recap the benefits of this automation setup. Encourage viewers to like, subscribe, and comment with their own ATM10 automation tips or questions. Suggest watching another related productivity/modded Minecraft video.
 
-**Tools to Demo**: ChatGPT, Notion
+**Tools to Demo**: ChatGPT/Claude (for research on optimal setups or troubleshooting specific to ATM10), Whimsical/Miro (for visually planning the automation system's layout and flow)
 
 **Current Top Ranking Videos**:
-  - [Compact AE2 Processor and Inscriber Automation UPDATED for Minecraft 1.20 and 1.21](https://youtu.be/NXgvBsDqUSA) — 175,897 views, 799d old
-  - [How To Auto-Craft AE2 Processors FAST in All The Mods 10](https://youtu.be/C2Smns3VMts) — 120,041 views, 436d old
-  - [How To Automate Inscriber In Applied Energistics 2 (Beginner Guide)](https://youtu.be/ZrTGlRw9V50) — 18,962 views, 841d old
+  - [How to Automate Powah with Routers | All The Mods Tutorial](https://youtu.be/xsMPRRHTNpk) — 53,942 views, 833d old
+  - [Tips n' Tricks - AE2 Powah Energizing Orb Automation](https://youtu.be/N2t_tZIQfZI) — 70,908 views, 637d old
+  - [How To Automate The Powah Energizing Orb For Refined Storage](https://youtu.be/D0fgTAppzsw) — 210,815 views, 1348d old
 
 ---
 
-## #5: ChatGPT for Note Taking: The Smart Way to Organize Your Ideas
+## #5: How to Use AI to Create Digital Products FAST (Step-by-Step)
 
-**Target Search Query**: `chatgpt for note taking`
+**Target Search Query**: `how to use ai to create digital products`
 
-**Competition Score**: 0.59/1.00 *(Lower is better)*
+**Competition Score**: 0.61/1.00 *(Lower is better)*
 
-**The Angle**: This video will provide a comprehensive, actionable workflow demonstrating how ChatGPT can not only transcribe but also synthesize, organize, and retrieve notes from various sources, making note-taking truly intelligent and efficient.
+**The Angle**: This video will provide a highly actionable, end-to-end workflow demonstrating how to create and package a complete digital product using the latest AI tools, showing every step on screen from ideation to a ready-to-sell asset.
 
-**Why we will win**: Current videos are often outdated, showing older ChatGPT interfaces or focusing too narrowly on meeting minutes. They fail to demonstrate a comprehensive, modern workflow for leveraging ChatGPT's full potential in synthesizing and organizing diverse types of notes.
+**Why we will win**: Existing videos are often outdated, showcasing AI tools and workflows that are no longer optimal or even available, leading to frustration for viewers trying to replicate the process. Crucially, they typically fail to demonstrate a complete, polished product lifecycle, stopping short of packaging the generated content into a professional, ready-to-sell digital asset with a clear value proposition.
 
 **Suggested Outline**:
-  - Hook: Are your notes a chaotic mess? Discover how ChatGPT can transform your note-taking from disorganized scribbles into perfectly structured knowledge, instantly addressing the core problem and promising a solution (30s).
-  - Step-by-step Workflow: Demonstrate how to feed raw notes (from articles, meetings, brainstorming) into ChatGPT, using specific prompts for summarizing, extracting key insights, identifying action items, and generating organized outlines. Show the iterative process of refining outputs.
-  - Real-World Examples: Apply the workflow to two distinct scenarios: 1) transforming a long article into concise, actionable study notes, and 2) converting messy meeting minutes into a clear summary with assigned tasks, showcasing versatility and practical application.
-  - Closing & Next Steps: Recap the power of intelligent note-taking with ChatGPT, encourage viewers to implement these strategies, and provide a clear call to action to subscribe, like, and comment with their biggest note-taking challenge (30s).
+  - Section 1: Hook & The AI Digital Product Revolution (30s): Start with a bold claim about AI's potential for digital product creation, immediately addressing the search query and promising a complete, actionable guide to leverage this power.
+  - Section 2: The 5-Step AI Digital Product Creation Workflow: Break down the process into clear, actionable steps: 1. Idea Generation & Validation (using AI for brainstorming and market research) 2. Content Creation (AI for writing, outlining, script generation, image generation) 3. Design & Formatting (AI tools for layout, branding, visual appeal) 4. Packaging & Mockups (AI for creating professional product mockups and sales assets) 5. Optimization & Sales Copy (AI for crafting compelling descriptions and calls to action).
+  - Section 3: Real-World Example: Creating a 'Productivity Planner' E-book: Walk through the entire workflow demonstrated in Section 2, applying it to a single, tangible digital product (e.g., an AI-generated productivity planner e-book), showing screen recordings of each AI tool in action to produce the final asset.
+  - Section 4: Your Next Steps & The Future of AI Products (30s): Summarize the power of AI for digital products, encourage viewers to try the workflow, and provide a clear call to action (subscribe, comment, watch related videos for selling strategies).
 
-**Tools to Demo**: ChatGPT (latest version, preferably GPT-4), Notion (for demonstrating organized note storage and integration), Otter.ai (for transcribing audio/meetings to feed into ChatGPT)
+**Tools to Demo**: ChatGPT, Canva AI, Midjourney
 
 **Current Top Ranking Videos**:
-  - [How To Use ChatGPT For Note Taking [2026 Full Guide]](https://youtu.be/imQbjT4CbLU) — 1,132 views, 150d old
-  - [ChatGPT Can Now Take Notes in Your Meetings](https://youtu.be/6KUn0bgRQkY) — 2,716 views, 23d old
-  - [How to Use ChatGPT for Meeting Minutes in 2026](https://youtu.be/56pilLKRGJc) — 38,628 views, 541d old
+  - [How I Create Digital Products in Minutes With ChatGPT + Canva AI (my simple process)](https://youtu.be/ucillWUi9Kc) — 93,060 views, 62d old
+  - [STOP Creating Digital Products, Make AI Do It FOR YOU!](https://youtu.be/iwhgZMM_2QI) — 21,792 views, 436d old
+  - [The new way to create AI Digital Products (in 24hours)](https://youtu.be/SHZyobJ4h2Y) — 25,694 views, 364d old
 
 ---
