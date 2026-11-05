@@ -1,134 +1,130 @@
-# Search Opportunity Report — 2026-11-04
+# Search Opportunity Report — 2026-11-05
 
 These are highly searched YouTube queries with weak, old, or low-view competition.
 
 ---
 
-## #1: AI in Zed: Boost Productivity & Code Faster (2024 Guide)
+## #1: Automate HR Processes with AI: The ULTIMATE Guide (Save Hours!)
 
-**Target Search Query**: `how to use ai in zed`
+**Target Search Query**: `how to automate hr processes`
 
-**Competition Score**: 0.54/1.00 *(Lower is better)*
+**Competition Score**: 0.39/1.00 *(Lower is better)*
 
-**The Angle**: This video will provide a comprehensive, step-by-step, and up-to-date workflow demonstrating how to integrate and leverage multiple AI tools directly within Zed to dramatically enhance coding speed and quality.
+**The Angle**: This video will provide a modern, practical, step-by-step guide using cutting-edge AI tools to automate core HR processes, showing real-world efficiency gains beyond basic recruitment or single-tool solutions.
 
-**Why we will win**: Existing videos are significantly outdated, focusing on specific, older features of Zed's AI capabilities rather than a current, comprehensive integration strategy. They fail to demonstrate a practical, end-to-end workflow utilizing multiple modern AI tools within Zed to solve common coding challenges and boost overall productivity.
+**Why we will win**: Existing videos are either outdated, too theoretical, or focus on a single, often older, platform, failing to demonstrate a comprehensive, modern AI-driven workflow. They lack practical, multi-tool demonstrations of how AI can truly transform multiple HR functions, leaving viewers without actionable, current solutions.
 
 **Suggested Outline**:
-  - Hook viewers by showing a quick, impressive AI-powered Zed action, then immediately state the video's goal: mastering AI in Zed for peak productivity (30s).
-  - Guide viewers through setting up and using Zed's built-in AI features (e.g., Agent Panel, Agentic Editing) and integrating external AI tools (e.g., Copilot via extensions) for code generation, refactoring, and debugging, with clear screen-recordings.
-  - Demonstrate the combined power of these AI tools by tackling a small, practical coding task from scratch within Zed, showcasing how AI accelerates each stage of development.
-  - Summarize the key benefits of using AI in Zed, encourage viewers to try the demonstrated techniques, and prompt them to subscribe or leave comments with their own AI tips (30s).
+  - Hook: The hidden time suck of manual HR + promise of AI automation. Introduce the video's goal: a practical guide to automating core HR processes with modern AI tools (30s).
+  - Step-by-step workflow: Identify 2-3 common HR pain points (e.g., onboarding document generation, FAQ answering, initial candidate screening) and demonstrate a clear, sequential automation process for each using the chosen AI tools.
+  - Real-world example: Illustrate the combined impact of these automations with a brief case study or scenario, showing quantifiable time/resource savings and improved employee experience.
+  - Closing CTA: Recap the power of HR automation, encourage viewers to implement these strategies, and invite them to subscribe/comment for more AI productivity tips (30s).
 
-**Tools to Demo**: Zed's Built-in AI (Agent Panel & Agentic Editing), GitHub Copilot (via Zed's extension ecosystem)
+**Tools to Demo**: Zapier, ChatGPT, Notion AI
 
 **Current Top Ranking Videos**:
-  - [Introducing Agentic Editing in Zed](https://youtu.be/7PMXUruAIdQ) — 41,936 views, 546d old
-  - [Zed Tutorial - 2026 | How to Code Smarter with This Code Editor | How to Use Zed](https://youtu.be/6JJxg3iG2nE) — 51,204 views, 339d old
-  - [How to use the Agent Panel in Zed](https://youtu.be/K1K84PSgp5g) — 35,145 views, 379d old
+  - [How to Use Power Automate for HR](https://youtu.be/zsqpv_uqydQ) — 3,727 views, 531d old
+  - [HR Automation: How to automate the recruitment process](https://youtu.be/I4srVDGGBxg) — 684 views, 322d old
+  - [HR Automation - The Importance of Intelligent Process Automation](https://youtu.be/NZvuWaUsrKc) — 2,056 views, 2011d old
 
 ---
 
-## #2: Learn Spanish with AI: The ULTIMATE 2024 Guide (Free Tools!)
+## #2: How to Use AI for Keyword Research: FREE & FAST Workflow
 
-**Target Search Query**: `how to use ai to learn spanish`
+**Target Search Query**: `how to use ai for keyword research`
 
-**Competition Score**: 0.55/1.00 *(Lower is better)*
+**Competition Score**: 0.51/1.00 *(Lower is better)*
 
-**The Angle**: This video will provide a modern, step-by-step workflow demonstrating specific, free AI tools to create a personalized, effective Spanish learning system that viewers can implement immediately.
+**The Angle**: This video will provide a step-by-step, actionable workflow using the latest free AI tools to conduct comprehensive keyword research, demonstrating real-time application.
 
-**Why we will win**: The existing videos are either outdated, focusing on older AI models or interfaces, or too theoretical without demonstrating a clear, actionable, and integrated learning workflow using multiple tools. They also often lack high-quality production, clear step-by-step visuals, and fail to highlight free, accessible tools for a broader audience.
+**Why we will win**: Existing videos often feature outdated AI tools and interfaces, providing theoretical concepts without demonstrating a clear, actionable, free, and repeatable workflow. Many also rely on expensive paid SEO tools, alienating beginners or those on a budget.
 
 **Suggested Outline**:
-  - Hook: Tired of slow Spanish progress? Discover how AI can revolutionize your learning. Address Intent: I'll show you a complete, practical system using free AI tools to learn Spanish faster and more effectively than ever before.
-  - Setting up your AI language tutor (ChatGPT/Claude for conversation & role-play). Generating custom vocabulary lists & flashcards (AI-assisted content creation). Mastering grammar with AI explanations & practice exercises. Improving listening & speaking with AI pronunciation feedback & audio generation.
-  - A full demo: from planning a conversation topic with AI, practicing it in real-time, to getting instant corrections and new vocabulary, simulating a real-life scenario.
-  - Recap the efficiency and personalization AI brings to Spanish learning. Encourage viewers to implement the demonstrated workflow. CTA: Like, subscribe, share your favorite AI tool in the comments, and access all resources in the description.
+  - Hook (15s): 'Tired of endless keyword research? AI can revolutionize it!' Address search intent by promising a free, fast, and effective AI-driven workflow to find high-value keywords.
+  - The AI Keyword Research Workflow (Step-by-Step Demo): Introduce the problem with traditional methods. Demonstrate using AI (e.g., ChatGPT) for initial brainstorming, topic clustering, expanding long-tail variations, and identifying user intent questions. Show how to refine prompts for better results.
+  - Real-World Application & Validation: Pick a specific niche (e.g., 'AI tools for small businesses'). Live demo using another AI tool (e.g., Gemini or Perplexity AI) to further explore generated keywords, analyze SERP insights, and identify low-competition opportunities. Show how to organize findings.
+  - Closing CTA (30s): Recap the power of AI for keyword research and encourage viewers to implement the workflow. Call to action: like, subscribe, and comment with their favorite AI tool for productivity. Offer a free downloadable keyword research template.
 
-**Tools to Demo**: ChatGPT / Claude (for interactive conversation and explanations), ElevenLabs (for realistic text-to-speech audio generation), DeepL (for nuanced translation and contextual examples)
+**Tools to Demo**: ChatGPT, Google Gemini, Perplexity AI
 
 **Current Top Ranking Videos**:
-  - [The Best AI Tutor for Spanish - and Why You Need It (Langua)](https://youtu.be/d8MbATDCN-o) — 105,818 views, 501d old
-  - [How To Learn Spanish With AI In 2025](https://youtu.be/WVAbJbO2CgI) — 32,632 views, 648d old
-  - [How to use ChatGPT to learn Spanish!](https://youtu.be/4mS1dqyUu0c) — 26,372 views, 1293d old
+  - [Keyword Research Tutorial for Google and AI SEO](https://youtu.be/KjK5-L-wDVg) — 59,796 views, 260d old
+  - [The AI Keyword Research Hack That Works](https://youtu.be/4muyTYfIbv4) — 4,154 views, 329d old
+  - [How to Use AI for Smarter, Faster Keyword Research](https://youtu.be/RzxFnTfwbqI) — 919 views, 665d old
 
 ---
 
-## #3: How To Use AI To Send Job Applications (Actually Get Hired!)
+## #3: AI Notes from YouTube: Summarize Videos FAST (Step-by-Step)
 
-**Target Search Query**: `how to use ai to send job applications`
+**Target Search Query**: `how to use ai to make notes from youtube video`
+
+**Competition Score**: 0.57/1.00 *(Lower is better)*
+
+**The Angle**: This video will provide a fresh, comprehensive, and actionable step-by-step workflow using the best current AI tools to transform any YouTube video into perfectly organized and summarized notes ready for immediate use.
+
+**Why we will win**: The existing videos use outdated AI tools and interfaces, making their methods cumbersome and less efficient for today's users. They also fail to provide a cohesive, step-by-step workflow for integrating these notes into a practical study or work system, often just providing basic summaries without organization.
+
+**Suggested Outline**:
+  - Section 1: Hook + Address the Search Intent (30s) - Start with the pain point of information overload from long videos, then immediately promise a simple AI solution to generate organized notes, saving hours and boosting learning efficiency.
+  - Section 2: Step-by-Step Workflow - Detail a modern, efficient process: 1) Extracting accurate transcripts/subtitles (demonstrate tool 1), 2) Using AI to summarize and identify key points (demonstrate tool 2), 3) Structuring and refining the notes for clarity and actionability (demonstrate tool 3 for integration/organization).
+  - Section 3: Real World Example - Take a moderately long, relevant YouTube video (e.g., a tech tutorial or lecture) and walk through the entire workflow from start to finish, showing the raw AI output and then the polished, organized notes in a practical format.
+  - Section 4: Closing CTA (30s) - Briefly recap the power of this AI note-taking method, encourage viewers to try it, and include a strong call to action to like, subscribe, and share their own favorite AI note-taking tools in the comments.
+
+**Tools to Demo**: YouTube Summary with ChatGPT & Claude (Browser Extension), ChatGPT / Claude (for advanced summarization & Q&A), Notion (for organizing and integrating final notes)
+
+**Current Top Ranking Videos**:
+  - [How to Make Notes from YouTube Videos Using AI  | Note Taking Hacks | Note in 2 Min | Studyhacks](https://youtu.be/yt53GmtyL6Q) — 27,794 views, 571d old
+  - [YouTube Video Notes Maker AI 📝🤖 #studytips #studentlife #studymotivation](https://youtu.be/SGtxoM8t1uI) — 181,478 views, 519d old
+  - [How To Make Notes From YouTube Video | Convert Video Lectures Into Note Automatically](https://youtu.be/UdZniDr7zbQ) — 34,679 views, 777d old
+
+---
+
+## #4: Automate Your 'Blaze Burner' Tasks with AI (Productivity Hack!)
+
+**Target Search Query**: `how to automate blaze burner`
+
+**Competition Score**: 0.58/1.00 *(Lower is better)*
+
+**The Angle**: This video will redefine 'blaze burner' as any repetitive, energy-draining task and demonstrate how to effortlessly automate them using cutting-edge AI tools, freeing up hours for high-value work.
+
+**Why we will win**: The existing competition completely misses the application of modern AI and productivity tools, focusing instead on a niche gaming mod; they offer no practical strategies for real-world task automation or efficiency gains.
+
+**Suggested Outline**:
+  - Hook viewers by acknowledging the 'blaze burner' concept, then immediately pivot to how it represents repetitive, energy-draining tasks in your daily work, promising a revolutionary AI solution (30s).
+  - Demonstrate a clear, actionable 3-step workflow: 1) Identify your personal 'blaze burner' tasks, 2) Choose the right AI tool for the job, 3) Set up the automation with simple, clear instructions.
+  - Walk through a detailed, screen-recorded example of automating a common 'blaze burner' task (e.g., email categorization, report summarization, data entry) using the chosen AI tools, showing before-and-after efficiency.
+  - Summarize the benefits of AI automation, encourage viewers to identify their own 'blaze burners,' subscribe for more AI productivity hacks, and share their automation wins in the comments (30s).
+
+**Tools to Demo**: Zapier, ChatGPT, Make.com
+
+**Current Top Ranking Videos**:
+  - [Blaze Burners - USES and SECRETS - Create Mod Tutorial](https://youtu.be/YJD9qDarMp0) — 145,944 views, 1329d old
+  - [Minecraft | Create Tutorial | Basics Of Blaze Burners!](https://youtu.be/L0ySa17tOas) — 17,422 views, 596d old
+  - [Blaze Burner Secrets - Minecraft + Create Mod](https://youtu.be/y0W0Jt1TVtk) — 142,434 views, 1328d old
+
+---
+
+## #5: Mekanism Automation ATM10: PERFECT AE2 Setup (EASY & FAST!)
+
+**Target Search Query**: `how to automate mekanism with ae2 atm10`
 
 **Competition Score**: 0.59/1.00 *(Lower is better)*
 
-**The Angle**: This video will demonstrate a strategic, personalized AI workflow for job applications, focusing on quality over quantity to secure actual interviews, unlike the outdated or overly technical approaches of competitors.
+**The Angle**: This video offers a visually clear, optimized, and step-by-step guide to Mekanism automation with AE2 in ATM10, demonstrating how AI tools can streamline planning and troubleshooting for peak efficiency.
 
-**Why we will win**: Existing videos either focus on generic, quantity-over-quality approaches that yield few results, or present overly complex, technical setups that are inaccessible to the average job seeker. They also often feature outdated AI tools or theoretical discussions, failing to provide a current, practical, step-by-step workflow for personalized and effective applications.
-
-**Suggested Outline**:
-  - Hook: Are you tired of spending hours on job applications with no results? AI can help, but not by just spamming hundreds of resumes. I'll show you how to use AI strategically to get actual interviews, saving you time and boosting your chances. (30s)
-  - Step-by-step workflow:
-1. **Job Description Analysis with AI:** Use AI to extract key skills and requirements from a job posting.
-2. **Resume Customization with AI:** Show how to use AI to tailor your existing resume to match the job description, making it ATS-friendly.
-3. **Personalized Cover Letter Generation:** Demo AI generating a highly customized cover letter that highlights relevant experience and expresses genuine interest.
-4. **Quick Application Submission Strategy:** Briefly touch on efficient ways to submit once documents are ready.
-  - Real-world example: Apply this exact AI workflow to a live job posting from LinkedIn or Indeed. Demonstrate how to quickly go from a generic resume to a perfectly tailored application package for a specific role, highlighting the AI's output and how to refine it.
-  - Closing CTA: Stop wasting time on generic applications. Implement this AI strategy to stand out and land more interviews. Like this video if it helped, subscribe for more AI productivity tips, and let me know in the comments which AI tool you'll try first! (30s)
-
-**Tools to Demo**: ChatGPT (or Claude/Gemini), QuillBot (or similar paraphrasing/summarizing tool), Grammarly (Premium features)
-
-**Current Top Ranking Videos**:
-  - [I Applied to 100 Jobs in 5 Minutes Using AI | AI Apply](https://youtu.be/o6Nw1Qr6uvo) — 78,510 views, 355d old
-  - [Your Automated Job Search & Application AI Agent [No-code with n8n, LinkedIn, Deepseek & Perplexity]](https://youtu.be/coFz9CvKnZE) — 229,137 views, 647d old
-  - [The RIGHT Way To Use AI To Get A Job in 2026](https://youtu.be/UtbNQqHhnKY) — 22,537 views, 595d old
-
----
-
-## #4: ATM10 Powah: Automate Energizing Orb *FAST* & *EASY* (2024 Guide)
-
-**Target Search Query**: `how to automate energizing orb powah atm10`
-
-**Competition Score**: 0.59/1.00 *(Lower is better)*
-
-**The Angle**: This video will provide a step-by-step, highly optimized, and current method for automating the Powah Energizing Orb in ATM10, addressing common frustrations with outdated and overly complex tutorials.
-
-**Why we will win**: Existing tutorials are severely outdated, often demonstrating setups incompatible with ATM10's current mod versions or lacking the most efficient automation strategies. Furthermore, they frequently rely on overly complex systems like AE2 or Refined Storage for basic automation, which can be daunting for new players and unnecessary for the Energizing Orb's needs.
+**Why we will win**: Existing videos often feature outdated game versions or UI, present overly complex setups without clear optimization, and fail to address common troubleshooting issues that new players face. They also lack a truly streamlined, 'best practice' approach for maximum efficiency in current ATM10.
 
 **Suggested Outline**:
-  - Hook: 'Struggling to automate your Powah Energizing Orb in ATM10? You're not alone!' Quickly state the video's purpose: to provide the most current, simple, and efficient automation setup, saving you countless hours of manual crafting.
-  - Detailed, visual step-by-step guide to building the automation system, from basic Powah blocks to item transportation and power integration, highlighting key configuration points and common pitfalls. Incorporate AI tools to demonstrate optimal layout planning or troubleshooting common issues.
-  - Showcase the fully automated system in action, demonstrating its efficiency by processing a large batch of items (e.g., Blazing Crystals) and discussing resource savings and scalability for different needs.
-  - Recap the benefits of this automation setup. Encourage viewers to like, subscribe, and comment with their own ATM10 automation tips or questions. Suggest watching another related productivity/modded Minecraft video.
+  - Hook viewers by acknowledging the struggle with Mekanism automation in ATM10 and promise an easy, efficient solution, briefly mentioning how AI tools aided in planning this perfect setup (30s).
+  - Detailed, visually clear guide on setting up AE2 interfaces, crafting patterns, connecting to Mekanism machines (e.g., Metallurgic Infusers, Chemical Injectors, Factories), and configuring inputs/outputs for common resources like Steel or Alloys. Emphasize optimized layouts and energy efficiency (5-7 min).
+  - Showcase a complete, working automation loop for a complex Mekanism item (e.g., advanced circuit boards or a full HDPE production line), demonstrating the system's efficiency. Briefly show how an AI tool was used to validate or troubleshoot a specific part of the design (3-5 min).
+  - Summarize the benefits of this automated setup, encourage viewers to like, subscribe, and comment with their own automation challenges, and suggest checking out other AI/Productivity content for optimizing their gaming or work (30s).
 
-**Tools to Demo**: ChatGPT/Claude (for research on optimal setups or troubleshooting specific to ATM10), Whimsical/Miro (for visually planning the automation system's layout and flow)
-
-**Current Top Ranking Videos**:
-  - [How to Automate Powah with Routers | All The Mods Tutorial](https://youtu.be/xsMPRRHTNpk) — 53,942 views, 833d old
-  - [Tips n' Tricks - AE2 Powah Energizing Orb Automation](https://youtu.be/N2t_tZIQfZI) — 70,908 views, 637d old
-  - [How To Automate The Powah Energizing Orb For Refined Storage](https://youtu.be/D0fgTAppzsw) — 210,815 views, 1348d old
-
----
-
-## #5: How to Use AI to Create Digital Products FAST (Step-by-Step)
-
-**Target Search Query**: `how to use ai to create digital products`
-
-**Competition Score**: 0.61/1.00 *(Lower is better)*
-
-**The Angle**: This video will provide a highly actionable, end-to-end workflow demonstrating how to create and package a complete digital product using the latest AI tools, showing every step on screen from ideation to a ready-to-sell asset.
-
-**Why we will win**: Existing videos are often outdated, showcasing AI tools and workflows that are no longer optimal or even available, leading to frustration for viewers trying to replicate the process. Crucially, they typically fail to demonstrate a complete, polished product lifecycle, stopping short of packaging the generated content into a professional, ready-to-sell digital asset with a clear value proposition.
-
-**Suggested Outline**:
-  - Section 1: Hook & The AI Digital Product Revolution (30s): Start with a bold claim about AI's potential for digital product creation, immediately addressing the search query and promising a complete, actionable guide to leverage this power.
-  - Section 2: The 5-Step AI Digital Product Creation Workflow: Break down the process into clear, actionable steps: 1. Idea Generation & Validation (using AI for brainstorming and market research) 2. Content Creation (AI for writing, outlining, script generation, image generation) 3. Design & Formatting (AI tools for layout, branding, visual appeal) 4. Packaging & Mockups (AI for creating professional product mockups and sales assets) 5. Optimization & Sales Copy (AI for crafting compelling descriptions and calls to action).
-  - Section 3: Real-World Example: Creating a 'Productivity Planner' E-book: Walk through the entire workflow demonstrated in Section 2, applying it to a single, tangible digital product (e.g., an AI-generated productivity planner e-book), showing screen recordings of each AI tool in action to produce the final asset.
-  - Section 4: Your Next Steps & The Future of AI Products (30s): Summarize the power of AI for digital products, encourage viewers to try the workflow, and provide a clear call to action (subscribe, comment, watch related videos for selling strategies).
-
-**Tools to Demo**: ChatGPT, Canva AI, Midjourney
+**Tools to Demo**: ChatGPT/Bard/Claude (for planning optimal layouts, troubleshooting recipe chains, or generating setup ideas), Miro/Lucidchart (for visualizing complex AE2-Mekanism flowcharts and physical layouts before building in-game), Notion/Obsidian (for organizing mod documentation, recipes, and personal notes, potentially with AI integration for summarization or search)
 
 **Current Top Ranking Videos**:
-  - [How I Create Digital Products in Minutes With ChatGPT + Canva AI (my simple process)](https://youtu.be/ucillWUi9Kc) — 93,060 views, 62d old
-  - [STOP Creating Digital Products, Make AI Do It FOR YOU!](https://youtu.be/iwhgZMM_2QI) — 21,792 views, 436d old
-  - [The new way to create AI Digital Products (in 24hours)](https://youtu.be/SHZyobJ4h2Y) — 25,694 views, 364d old
+  - [All The Mods 10 EP26 AdvancedAE makes Mekanism Alloy Automation Fast & SIMPLE](https://youtu.be/1K1450gH25E) — 285,650 views, 672d old
+  - [4 Ways To Automate Mekanism Metallurgic Infusers With AE2!](https://youtu.be/MCmM0fCnkWc) — 45,075 views, 327d old
+  - [Mekanism Metallurgic Infuser Automation In All The Mods 10 With AE2](https://youtu.be/0Rs0ZGiP4h4) — 5,608 views, 150d old
 
 ---
