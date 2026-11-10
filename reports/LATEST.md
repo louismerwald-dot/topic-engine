@@ -1,70 +1,70 @@
-# Search Opportunity Report — 2026-11-09
+# Search Opportunity Report — 2026-11-10
 
 These are highly searched YouTube queries with weak, old, or low-view competition.
 
 ---
 
-## #1: How To Use Ai Notes In Zoom
+## #1: Best Ai Tool For Writing Books
 
-**Target Search Query**: `how to use ai notes in zoom`
+**Target Search Query**: `best ai tool for writing books`
 
-**Competition Score**: 0.46/1.00 *(Lower is better)*
+**Competition Score**: 0.51/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How To Use Zoom Notes (Full Guide 2026)](https://youtu.be/lRqt7doPdTA) — 4,372 views, 201d old
-  - [How to Use AI for Perfect Meeting Notes: Zoom, Teams & Beyond (Pro Tips Inside)](https://youtu.be/m57b_P4V1hk) — 1,164 views, 593d old
-  - [How to Use Zoom My Notes for Better AI Meeting Summaries | Ep 41](https://youtu.be/2dhtesVnA9s) — 2,418 views, 66d old
+  - [The Only 6 AI Writing Tools Authors Need in 2026](https://youtu.be/Wgb0mOXPuYg) — 33,766 views, 113d old
+  - [📖 TOP 5 Best AI Tools for Writing Books in 2026 | Top 5 AI Tools for Authors](https://youtu.be/vASGrHxPERQ) — 4,027 views, 300d old
+  - [4 POWERFUL ChatGPT Prompt to Write Your eBook in 24 Hours 💰📝📚](https://youtu.be/R-VgT6n5kGM) — 26,018 views, 653d old
 
 ---
 
-## #2: How To Use Clevertype Ai Keyboard
+## #2: How To Automate News
 
-**Target Search Query**: `how to use clevertype ai keyboard`
+**Target Search Query**: `how to automate news`
 
-**Competition Score**: 0.54/1.00 *(Lower is better)*
+**Competition Score**: 0.52/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [CleverTypeAI Keyboard ✨ Smart typing, grammar fixes & tone adjustments! Try it now! #TechTuberHardy](https://youtu.be/1ZJHiFddwOA) — 62,666 views, 628d old
-  - [Clevertype – Your Smartest AI Keyboard for Flawless Writing!](https://youtu.be/5eFhGBDC2rg) — 46,517 views, 503d old
-  - [CleverType. Write AnywhereLike a Pro](https://youtu.be/7G_AcT3n7sU) — 11,155 views, 647d old
+  - [How to Scrape ANY News In 9 Minutes Or Less (100% Automated)](https://youtu.be/jfv6Y6bRTt4) — 28,688 views, 667d old
+  - [How I built my AI News Assistant ✅ #AI #n8n #ainews #aiautomation #workflow #productivity](https://youtu.be/lgeXyGR2HJg) — 38,767 views, 467d old
+  - [Full Automated News Site That Updates Itself (n8n + Python)](https://youtu.be/3WcCoK3PqSk) — 14,224 views, 4d old
 
 ---
 
-## #3: Chatgpt Question Answer Photo
+## #3: How To Use Ai To Edit On Capcut
 
-**Target Search Query**: `chatgpt question answer photo`
+**Target Search Query**: `how to use ai to edit on capcut`
 
 **Competition Score**: 0.56/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [Teacher हैं? Chapter की Photo से Question Paper + Answer Key बनाओ | ChatGPT Trick](https://youtu.be/I-xgaKUhhac) — 3,996 views, 28d old
-  - [ChatGPT Me Image Se Answer Kaise Nikale | How to Find Answers Using Image in ChatGPT](https://youtu.be/NmAKqA2M4H8) — 1,009 views, 442d old
-  - [ChatGPT se Question ka Answer kaise Pata kare | ChatGPT me photo se question answer kaise nikale](https://youtu.be/byrTemCpIWA) — 58,281 views, 433d old
+  - [How to Use CapCut's AI Editing Tool | CapCut](https://youtu.be/7DnbaboteCo) — 100,645 views, 770d old
+  - [How to Use CapCut AI Tools Better than 99% of Editors](https://youtu.be/lCly-zH6A78) — 75,398 views, 40d old
+  - [CapCut AI for Beginners: Cut, Script & Create With AI](https://youtu.be/PX2clHhrymU) — 12,204 views, 420d old
 
 ---
 
-## #4: How To Use Ai For Design
+## #4: How To Use Ai To Plan A Trip
 
-**Target Search Query**: `how to use ai for design`
+**Target Search Query**: `how to use ai to plan a trip`
 
-**Competition Score**: 0.56/1.00 *(Lower is better)*
+**Competition Score**: 0.59/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [Best AI Tools for Design : The FULL GUIDE For Beginners (2026)](https://youtu.be/tUsTsCVbr2Y) — 8,021 views, 143d old
-  - [How I use AI to design faster (my complete workflow)](https://youtu.be/ni19lPH_wy0) — 114,760 views, 454d old
-  - [How to Create Stunning Designs Using AI | Free AI Tools Tutorial for Beginners (2025)](https://youtu.be/W4DwgOw1hw8) — 62,234 views, 547d old
+  - [How to Use ChatGPT to Plan a Trip (Step-by-Step Tutorial)](https://youtu.be/Dcmoaa8yR1g) — 29,529 views, 380d old
+  - [5 EASY AI Travel Planning Hacks (That Won't Ruin Your Trip)](https://youtu.be/2mxxMr9qoUE) — 51,996 views, 269d old
+  - [The SECRET to using AI To Plan Your Trips! #travel #traveltips #tips #ai](https://youtu.be/cxOvAoc96wM) — 6,905 views, 193d old
 
 ---
 
-## #5: How To Automate Supremium Essence
+## #5: How To Use Ai To Help At Work
 
-**Target Search Query**: `how to automate supremium essence`
+**Target Search Query**: `how to use ai to help at work`
 
-**Competition Score**: 0.57/1.00 *(Lower is better)*
+**Competition Score**: 0.59/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [Mystical Block EP6 Automating Essence Crafting + Mob Seeds](https://youtu.be/3szGz9fx9AA) — 171,014 views, 1199d old
-  - [Minecraft - Sky Factory 4 - How to Automate Combining Essences to Make Supremium Essence](https://youtu.be/8mxDVqD28Ao) — 31,428 views, 2625d old
-  - [Automate Your Mystical Agriculture Essence Crafting!](https://youtu.be/rWvM2y7Acuo) — 22,856 views, 898d old
+  - [5 AI for Work Tips and Tricks](https://youtu.be/4uvX6dxD6QA) — 225,914 views, 894d old
+  - [How to Use AI at Work for Beginners (2026)](https://youtu.be/RKzm-K6JFUc) — 2,377 views, 403d old
+  - [ChatGPT Tutorial for Beginners: How to Actually Get Work Done with AI](https://youtu.be/poM2n8fBcag) — 122,691 views, 132d old
 
 ---
