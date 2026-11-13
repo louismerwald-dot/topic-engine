@@ -1,70 +1,70 @@
-# Search Opportunity Report — 2026-11-12
+# Search Opportunity Report — 2026-11-13
 
 These are highly searched YouTube queries with weak, old, or low-view competition.
 
 ---
 
-## #1: How To Use Ai For Project Management
+## #1: Chatgpt For Nursing Students
 
-**Target Search Query**: `how to use ai for project management`
+**Target Search Query**: `chatgpt for nursing students`
 
-**Competition Score**: 0.52/1.00 *(Lower is better)*
+**Competition Score**: 0.42/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [99% of Project Managers Don't Know the Basics of AI](https://youtu.be/URs-pM97ZIQ) — 32,411 views, 632d old
-  - [AI Tools for Project Management: Top 10 Ways to Boost Results](https://youtu.be/tLabykkGbEw) — 55,564 views, 588d old
-  - [How to Use AI in Project Management (The Complete Guide)](https://youtu.be/fhbrDoexpGA) — 3,012 views, 149d old
+  - [You’re Using ChatGPT Wrong for Nursing School (Here’s How to Fix It)](https://youtu.be/szaLcEsqGyA) — 2,854 views, 380d old
+  - [Why ChatGPT Fails Nursing Students Every Time](https://youtu.be/9L0OthlwCio) — 1,100 views, 404d old
+  - [Thoughts on chat gpt in nursing school? Listen in to our most recent episode with @leanys.c #nurse](https://youtu.be/mm-E6bznSEE) — 7,600 views, 355d old
 
 ---
 
-## #2: How To Automate Social Media Management
+## #2: How To Automate Google Form Responses
 
-**Target Search Query**: `how to automate social media management`
+**Target Search Query**: `how to automate google form responses`
 
-**Competition Score**: 0.57/1.00 *(Lower is better)*
+**Competition Score**: 0.43/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [AI Social Media Automation: How to Post Daily Content 100% on Autopilot!](https://youtu.be/4ZI_fL4cw_c) — 203,897 views, 737d old
-  - [How to Automate Your Social Media Management Job](https://youtu.be/dcOoNCrMw3I) — 7,535 views, 1242d old
-  - [How to Automate Social Media Marketing in 2026 (Simple Tutorial)](https://youtu.be/uQTFp70z9TM) — 1,972 views, 289d old
+  - [How to Create an Automated Google Form | Link Responses to Google Sheets (Step-by-Step Tutorial)](https://youtu.be/eNU0bXkGtxo) — 3,470 views, 368d old
+  - [How to Manage Responses in Google Forms [2025 Full Guide]](https://youtu.be/NH937ri6kgc) — 5,781 views, 576d old
+  - [Automate Based on Google Form Response](https://youtu.be/gb-4h4v1syk) — 4,596 views, 444d old
 
 ---
 
-## #3: Chatgpt For Writing Books
+## #3: How To Automate Khs Tape Stop
 
-**Target Search Query**: `chatgpt for writing books`
+**Target Search Query**: `how to automate khs tape stop`
 
-**Competition Score**: 0.57/1.00 *(Lower is better)*
+**Competition Score**: 0.53/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How to ACTUALLY Write a Book with ChatGPT - Full Tutorial](https://youtu.be/2VYVKoxYNsY) — 182,088 views, 822d old
-  - [Here’s Why I Stopped Using ChatGPT for Writing Books (Use This Instead)](https://youtu.be/wJrJ-uP47bk) — 17,898 views, 113d old
-  - [How To Write A Book With ChatGPT (Make $10,000 Selling Books!)](https://youtu.be/KXeGZ-JIpiY) — 19,993 views, 1091d old
+  - [How to TAPESTOP](https://youtu.be/87sA-wVWpSA) — 48,629 views, 309d old
+  - [Tutorial how to automate khs tape stop](https://youtu.be/jBvxmDWMXt8) — 842 views, 126d old
+  - [How to Make Better Tape Stops in your Beats](https://youtu.be/SDCLjoh42lc) — 64,421 views, 2394d old
 
 ---
 
-## #4: How To Use Ai To Enhance Photo
+## #4: How To Use Ai For Homework
 
-**Target Search Query**: `how to use ai to enhance photo`
+**Target Search Query**: `how to use ai for homework`
 
-**Competition Score**: 0.57/1.00 *(Lower is better)*
+**Competition Score**: 0.54/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How to Enhance Images with AI (2025 Guide)](https://youtu.be/xSOyf3T49mI) — 9,827 views, 904d old
-  - [5 Best AI Photo Enhancers in 2024](https://youtu.be/4DTSdk2gj9I) — 155,852 views, 1232d old
-  - [7 ChatGPT image editing tips you NEED TO KNOW | AI image generation](https://youtu.be/r0E669OZX6g) — 77,725 views, 456d old
+  - [How to Use AI for Homework (Professor Explains What Actually Works)](https://youtu.be/UuEvje8OZPg) — 535 views, 228d old
+  - [Use A.I. for homework 🤣](https://youtu.be/ROOlRZdxccE) — 91,204 views, 1330d old
+  - [This AI Website Does Your Homework in 10 Seconds 😳 (and it’s free)](https://youtu.be/sEPDB1bsNpE) — 26,048 views, 403d old
 
 ---
 
-## #5: How To Automate Train Tracks Create Mod
+## #5: Best Ai Tool For Writing Research Paper
 
-**Target Search Query**: `how to automate train tracks create mod`
+**Target Search Query**: `best ai tool for writing research paper`
 
-**Competition Score**: 0.59/1.00 *(Lower is better)*
+**Competition Score**: 0.54/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [[Create Mod] How To Automate Train Tracks](https://youtu.be/mXcvM48QtHY) — 117,095 views, 1363d old
-  - [EASY Train Tracks - Create Mod Tutorial, with Schematic](https://youtu.be/QkRyJiDHuHc) — 92,262 views, 1282d old
-  - [Perfect Train Track Machine - Minecraft  + Create](https://youtu.be/n0CnRHRoxyg) — 138,162 views, 1282d old
+  - [Best FREE AI Tools for Research Papers | AI for Researchers](https://youtu.be/wOQeUYk3oLg) — 50,131 views, 451d old
+  - [Best AI tool for writing research paper, thesis and essays: Jenni or Paperpal? Full Brief Comparison](https://youtu.be/jQPh8n0A78U) — 8,697 views, 485d old
+  - [Top 3 AI Tools for research writing in 2026! (All FREE Features)](https://youtu.be/mq1CuxJJvR4) — 72,921 views, 419d old
 
 ---
