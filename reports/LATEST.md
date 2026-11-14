@@ -1,70 +1,70 @@
-# Search Opportunity Report — 2026-11-13
+# Search Opportunity Report — 2026-11-14
 
 These are highly searched YouTube queries with weak, old, or low-view competition.
 
 ---
 
-## #1: Chatgpt For Nursing Students
+## #1: Chatgpt For Travel Agents
 
-**Target Search Query**: `chatgpt for nursing students`
+**Target Search Query**: `chatgpt for travel agents`
 
-**Competition Score**: 0.42/1.00 *(Lower is better)*
+**Competition Score**: 0.52/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [You’re Using ChatGPT Wrong for Nursing School (Here’s How to Fix It)](https://youtu.be/szaLcEsqGyA) — 2,854 views, 380d old
-  - [Why ChatGPT Fails Nursing Students Every Time](https://youtu.be/9L0OthlwCio) — 1,100 views, 404d old
-  - [Thoughts on chat gpt in nursing school? Listen in to our most recent episode with @leanys.c #nurse](https://youtu.be/mm-E6bznSEE) — 7,600 views, 355d old
+  - [How to Use ChatGPT to Plan a Trip (Step-by-Step Tutorial)](https://youtu.be/Dcmoaa8yR1g) — 29,649 views, 384d old
+  - [Using Chat GPT To Transform Your Travel Business](https://youtu.be/hjCaculTfp4) — 4,082 views, 1284d old
+  - [5 EASY AI Travel Planning Hacks (That Won't Ruin Your Trip)](https://youtu.be/2mxxMr9qoUE) — 52,326 views, 273d old
 
 ---
 
-## #2: How To Automate Google Form Responses
+## #2: How To Use Ai To Help Write A Book
 
-**Target Search Query**: `how to automate google form responses`
-
-**Competition Score**: 0.43/1.00 *(Lower is better)*
-
-**Current Top Ranking Videos**:
-  - [How to Create an Automated Google Form | Link Responses to Google Sheets (Step-by-Step Tutorial)](https://youtu.be/eNU0bXkGtxo) — 3,470 views, 368d old
-  - [How to Manage Responses in Google Forms [2025 Full Guide]](https://youtu.be/NH937ri6kgc) — 5,781 views, 576d old
-  - [Automate Based on Google Form Response](https://youtu.be/gb-4h4v1syk) — 4,596 views, 444d old
-
----
-
-## #3: How To Automate Khs Tape Stop
-
-**Target Search Query**: `how to automate khs tape stop`
+**Target Search Query**: `how to use ai to help write a book`
 
 **Competition Score**: 0.53/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How to TAPESTOP](https://youtu.be/87sA-wVWpSA) — 48,629 views, 309d old
-  - [Tutorial how to automate khs tape stop](https://youtu.be/jBvxmDWMXt8) — 842 views, 126d old
-  - [How to Make Better Tape Stops in your Beats](https://youtu.be/SDCLjoh42lc) — 64,421 views, 2394d old
+  - [Writing a Book With AI? Read This Before You Publish!](https://youtu.be/eMyLFDTuVZQ) — 20,686 views, 281d old
+  - [Writing a Book is Hard Until You Learn How to Use AI](https://youtu.be/XhEFOvLeH-Q) — 37,461 views, 157d old
+  - [3 Ways ChatGPT Can Help Your Book Writing Process](https://youtu.be/S7I7QjAcgYo) — 55,921 views, 1280d old
 
 ---
 
-## #4: How To Use Ai For Homework
+## #3: How To Use Ai For Uni
 
-**Target Search Query**: `how to use ai for homework`
+**Target Search Query**: `how to use ai for uni`
 
-**Competition Score**: 0.54/1.00 *(Lower is better)*
+**Competition Score**: 0.58/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How to Use AI for Homework (Professor Explains What Actually Works)](https://youtu.be/UuEvje8OZPg) — 535 views, 228d old
-  - [Use A.I. for homework 🤣](https://youtu.be/ROOlRZdxccE) — 91,204 views, 1330d old
-  - [This AI Website Does Your Homework in 10 Seconds 😳 (and it’s free)](https://youtu.be/sEPDB1bsNpE) — 26,048 views, 403d old
+  - [How To Use AI To Study For Exams - With Demo](https://youtu.be/wGmsVH-vyyM) — 213,695 views, 562d old
+  - [How Smart Academics Use AI (Without Breaking the Rules)](https://youtu.be/no0Tt-Ip9AI) — 86,140 views, 557d old
+  - [The Right Way to Use AI in College (According to a Professor)](https://youtu.be/4Ga9wIohu3I) — 5,328 views, 275d old
 
 ---
 
-## #5: Best Ai Tool For Writing Research Paper
+## #4: How To Use Ai For Content Creation
 
-**Target Search Query**: `best ai tool for writing research paper`
+**Target Search Query**: `how to use ai for content creation`
 
-**Competition Score**: 0.54/1.00 *(Lower is better)*
+**Competition Score**: 0.59/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [Best FREE AI Tools for Research Papers | AI for Researchers](https://youtu.be/wOQeUYk3oLg) — 50,131 views, 451d old
-  - [Best AI tool for writing research paper, thesis and essays: Jenni or Paperpal? Full Brief Comparison](https://youtu.be/jQPh8n0A78U) — 8,697 views, 485d old
-  - [Top 3 AI Tools for research writing in 2026! (All FREE Features)](https://youtu.be/mq1CuxJJvR4) — 72,921 views, 419d old
+  - [How I Use AI to Automate Content Creation - Step-by-Step Guide (2026)](https://youtu.be/bv4JFUQarV0) — 56,185 views, 208d old
+  - [How I Use AI to Automate Content Creation - Step-by-Step (FULL GUIDE)](https://youtu.be/duGOA6ZiGtE) — 214,843 views, 776d old
+  - [How to Make Viral Reels with AI in 2026 (AI Content Creation)](https://youtu.be/PT3-zta-OwY) — 40,548 views, 119d old
+
+---
+
+## #5: Best Ai Tool For Hr
+
+**Target Search Query**: `best ai tool for hr`
+
+**Competition Score**: 0.61/1.00 *(Lower is better)*
+
+**Current Top Ranking Videos**:
+  - [Best AI Tools for HR Professionals & Recruiters in 2026 – Hire Faster & Smarter](https://youtu.be/H67wFGU6GOM) — 1,066 views, 145d old
+  - [5 AI Tools for HR 🔥 #aiinhr #tech](https://youtu.be/NfpnjEAlzYs) — 177,491 views, 521d old
+  - [I tested 200 AI tools for HR. Here are the 8 best](https://youtu.be/nixtswI81W8) — 1,577 views, 228d old
 
 ---
