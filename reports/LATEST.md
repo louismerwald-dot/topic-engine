@@ -1,70 +1,70 @@
-# Search Opportunity Report — 2026-11-14
+# Search Opportunity Report — 2026-11-15
 
 These are highly searched YouTube queries with weak, old, or low-view competition.
 
 ---
 
-## #1: Chatgpt For Travel Agents
+## #1: How To Use Ai To Analyze Stocks
 
-**Target Search Query**: `chatgpt for travel agents`
+**Target Search Query**: `how to use ai to analyze stocks`
 
 **Competition Score**: 0.52/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How to Use ChatGPT to Plan a Trip (Step-by-Step Tutorial)](https://youtu.be/Dcmoaa8yR1g) — 29,649 views, 384d old
-  - [Using Chat GPT To Transform Your Travel Business](https://youtu.be/hjCaculTfp4) — 4,082 views, 1284d old
-  - [5 EASY AI Travel Planning Hacks (That Won't Ruin Your Trip)](https://youtu.be/2mxxMr9qoUE) — 52,326 views, 273d old
+  - [How to Use AI to Analyze & Trade Stocks in 2026 (New & Best Method)](https://youtu.be/gEqU037Ac6Q) — 48,921 views, 371d old
+  - [How to Use ChatGPT to Find Winning Stocks: The 2026 Step-by-Step Investor Tutorial](https://youtu.be/8Wbf81N4GH0) — 2,809 views, 266d old
+  - [How I Use ChatGPT-5 to Analyze and Trade Stocks (New & Best Method)](https://youtu.be/cyLQYYsZRoA) — 25,737 views, 450d old
 
 ---
 
-## #2: How To Use Ai To Help Write A Book
+## #2: How To Automate Reverb In Fl Studio
 
-**Target Search Query**: `how to use ai to help write a book`
+**Target Search Query**: `how to automate reverb in fl studio`
+
+**Competition Score**: 0.52/1.00 *(Lower is better)*
+
+**Current Top Ranking Videos**:
+  - [How to use Reverb in FL Studio 21 #musicproducer #tutorial](https://youtu.be/u5TcTg6A5Sg) — 69,028 views, 802d old
+  - ["Reverb Automation: The Secret to Pro Mixes!](https://youtu.be/J9u_6GR3ZXA) — 2,469 views, 640d old
+  - [3 STEPS FOR CLEAN REVERB | in 20Secs 👀 #flstudio #flstudioproducer #flstudiotips #musicproducer](https://youtu.be/gPW2d3yCz2o) — 16,139 views, 871d old
+
+---
+
+## #3: Best Ai Tool For Fashion
+
+**Target Search Query**: `best ai tool for fashion`
+
+**Competition Score**: 0.52/1.00 *(Lower is better)*
+
+**Current Top Ranking Videos**:
+  - [Top 5 AI Tools for Fashion Designers 2025](https://youtu.be/q13oDuxvDQ0) — 48,743 views, 596d old
+  - [TOP 6 AI Tools for Fashion Designers](https://youtu.be/NDLLBY2rBu0) — 24,719 views, 811d old
+  - [The Best AI Clothing Design Tools For Fashion Brands in 2026](https://youtu.be/KdZXEDlybyI) — 18,413 views, 284d old
+
+---
+
+## #4: How To Automate Astroneer
+
+**Target Search Query**: `how to automate astroneer`
 
 **Competition Score**: 0.53/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [Writing a Book With AI? Read This Before You Publish!](https://youtu.be/eMyLFDTuVZQ) — 20,686 views, 281d old
-  - [Writing a Book is Hard Until You Learn How to Use AI](https://youtu.be/XhEFOvLeH-Q) — 37,461 views, 157d old
-  - [3 Ways ChatGPT Can Help Your Book Writing Process](https://youtu.be/S7I7QjAcgYo) — 55,921 views, 1280d old
+  - [Automation Basics - Astroneer Academy 303](https://youtu.be/szfJsAzUqA8) — 57,278 views, 367d old
+  - [Automate Your Base in Just 3 Steps! SO EASY!](https://youtu.be/TGZ8cIhyjw4) — 16,966 views, 878d old
+  - [Here's How to Automate Your Trade Platform in Astroneer!](https://youtu.be/sdHLb-JtJ0M) — 22,093 views, 1193d old
 
 ---
 
-## #3: How To Use Ai For Uni
+## #5: Best Ai Tool For Product Design
 
-**Target Search Query**: `how to use ai for uni`
+**Target Search Query**: `best ai tool for product design`
 
-**Competition Score**: 0.58/1.00 *(Lower is better)*
-
-**Current Top Ranking Videos**:
-  - [How To Use AI To Study For Exams - With Demo](https://youtu.be/wGmsVH-vyyM) — 213,695 views, 562d old
-  - [How Smart Academics Use AI (Without Breaking the Rules)](https://youtu.be/no0Tt-Ip9AI) — 86,140 views, 557d old
-  - [The Right Way to Use AI in College (According to a Professor)](https://youtu.be/4Ga9wIohu3I) — 5,328 views, 275d old
-
----
-
-## #4: How To Use Ai For Content Creation
-
-**Target Search Query**: `how to use ai for content creation`
-
-**Competition Score**: 0.59/1.00 *(Lower is better)*
+**Competition Score**: 0.54/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How I Use AI to Automate Content Creation - Step-by-Step Guide (2026)](https://youtu.be/bv4JFUQarV0) — 56,185 views, 208d old
-  - [How I Use AI to Automate Content Creation - Step-by-Step (FULL GUIDE)](https://youtu.be/duGOA6ZiGtE) — 214,843 views, 776d old
-  - [How to Make Viral Reels with AI in 2026 (AI Content Creation)](https://youtu.be/PT3-zta-OwY) — 40,548 views, 119d old
-
----
-
-## #5: Best Ai Tool For Hr
-
-**Target Search Query**: `best ai tool for hr`
-
-**Competition Score**: 0.61/1.00 *(Lower is better)*
-
-**Current Top Ranking Videos**:
-  - [Best AI Tools for HR Professionals & Recruiters in 2026 – Hire Faster & Smarter](https://youtu.be/H67wFGU6GOM) — 1,066 views, 145d old
-  - [5 AI Tools for HR 🔥 #aiinhr #tech](https://youtu.be/NfpnjEAlzYs) — 177,491 views, 521d old
-  - [I tested 200 AI tools for HR. Here are the 8 best](https://youtu.be/nixtswI81W8) — 1,577 views, 228d old
+  - [What UX designers actually need to survive the AI era](https://youtu.be/nLMtr5hPSO4) — 36,704 views, 201d old
+  - [Complete Course: AI Product Design](https://youtu.be/83ajrVQDowc) — 17,053 views, 404d old
+  - [Product Design with AI Part 1: Design Research](https://youtu.be/nFNc6fn7c8I) — 79,607 views, 1127d old
 
 ---
