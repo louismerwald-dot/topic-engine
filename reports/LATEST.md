@@ -1,70 +1,70 @@
-# Search Opportunity Report — 2026-11-15
+# Search Opportunity Report — 2026-11-16
 
 These are highly searched YouTube queries with weak, old, or low-view competition.
 
 ---
 
-## #1: How To Use Ai To Analyze Stocks
+## #1: Chatgpt For Home Interior Design
 
-**Target Search Query**: `how to use ai to analyze stocks`
+**Target Search Query**: `chatgpt for home interior design`
 
-**Competition Score**: 0.52/1.00 *(Lower is better)*
+**Competition Score**: 0.55/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How to Use AI to Analyze & Trade Stocks in 2026 (New & Best Method)](https://youtu.be/gEqU037Ac6Q) — 48,921 views, 371d old
-  - [How to Use ChatGPT to Find Winning Stocks: The 2026 Step-by-Step Investor Tutorial](https://youtu.be/8Wbf81N4GH0) — 2,809 views, 266d old
-  - [How I Use ChatGPT-5 to Analyze and Trade Stocks (New & Best Method)](https://youtu.be/cyLQYYsZRoA) — 25,737 views, 450d old
+  - [How to Use ChatGPT for Interior Design - Easy Guide 2026](https://youtu.be/wklire98H8E) — 5,514 views, 228d old
+  - [Elevate Your ENTIRE Home Using ChatGPT | How I Made My House Look Professionally Designed for FREE](https://youtu.be/XGQpxvKqKM4) — 98,933 views, 492d old
+  - [New ChatGPT features every interior designer should know! (2025 updates)](https://youtu.be/TDoYBhGVevk) — 51,400 views, 507d old
 
 ---
 
-## #2: How To Automate Reverb In Fl Studio
+## #2: How To Automate Plugins In Fl Studio
 
-**Target Search Query**: `how to automate reverb in fl studio`
+**Target Search Query**: `how to automate plugins in fl studio`
 
-**Competition Score**: 0.52/1.00 *(Lower is better)*
+**Competition Score**: 0.58/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How to use Reverb in FL Studio 21 #musicproducer #tutorial](https://youtu.be/u5TcTg6A5Sg) — 69,028 views, 802d old
-  - ["Reverb Automation: The Secret to Pro Mixes!](https://youtu.be/J9u_6GR3ZXA) — 2,469 views, 640d old
-  - [3 STEPS FOR CLEAN REVERB | in 20Secs 👀 #flstudio #flstudioproducer #flstudiotips #musicproducer](https://youtu.be/gPW2d3yCz2o) — 16,139 views, 871d old
+  - [Creating Automation Clips With Third Party Plugins | FL Studio 21](https://youtu.be/G9GPjeYewmA) — 33,877 views, 1321d old
+  - [How To Automate Plugins (Third Party/ External VSTs) | FL Studio | Beginner Tutorial](https://youtu.be/TLKTHVtxEqw) — 4,164 views, 651d old
+  - [FL Studio Create an Automation Clip Fast #shorts #producer #flstudio](https://youtu.be/0BQrX5tXwd8) — 242,613 views, 1523d old
 
 ---
 
-## #3: Best Ai Tool For Fashion
+## #3: How To Use Ai For Notes
 
-**Target Search Query**: `best ai tool for fashion`
+**Target Search Query**: `how to use ai for notes`
 
-**Competition Score**: 0.52/1.00 *(Lower is better)*
+**Competition Score**: 0.60/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [Top 5 AI Tools for Fashion Designers 2025](https://youtu.be/q13oDuxvDQ0) — 48,743 views, 596d old
-  - [TOP 6 AI Tools for Fashion Designers](https://youtu.be/NDLLBY2rBu0) — 24,719 views, 811d old
-  - [The Best AI Clothing Design Tools For Fashion Brands in 2026](https://youtu.be/KdZXEDlybyI) — 18,413 views, 284d old
+  - [Ultimate NotebookLM Guide (Google's AI Note-Taking App)](https://youtu.be/8ir1Lrrxv5k) — 166,718 views, 668d old
+  - [How I Make Accurate Study Notes With ChatGPT & Claude in 2 mins](https://youtu.be/GLNl-NmeRJg) — 167,122 views, 86d old
+  - [Top AI Note-Taking Apps and How They Work, 2025 [October]](https://youtu.be/YZAX6NTvaR0) — 67,736 views, 384d old
 
 ---
 
-## #4: How To Automate Astroneer
+## #4: Best Ai Tools For Youtube Video Editing
 
-**Target Search Query**: `how to automate astroneer`
+**Target Search Query**: `best ai tools for youtube video editing`
 
-**Competition Score**: 0.53/1.00 *(Lower is better)*
+**Competition Score**: 0.60/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [Automation Basics - Astroneer Academy 303](https://youtu.be/szfJsAzUqA8) — 57,278 views, 367d old
-  - [Automate Your Base in Just 3 Steps! SO EASY!](https://youtu.be/TGZ8cIhyjw4) — 16,966 views, 878d old
-  - [Here's How to Automate Your Trade Platform in Astroneer!](https://youtu.be/sdHLb-JtJ0M) — 22,093 views, 1193d old
+  - [The Best AI Tool for Making YouTube Videos (2026)](https://youtu.be/x7ne4LqKCl0) — 86,036 views, 126d old
+  - [Top 8 AI Tools To Create KILLER YouTube Videos](https://youtu.be/hUoYR9b3lzA) — 183,666 views, 896d old
+  - [Best AI Video Editing Software: Edit Video in a Minute (Beginners Guide)](https://youtu.be/H60LeM4vTAg) — 135,827 views, 363d old
 
 ---
 
-## #5: Best Ai Tool For Product Design
+## #5: Best Ai Tool For Coding Questions
 
-**Target Search Query**: `best ai tool for product design`
+**Target Search Query**: `best ai tool for coding questions`
 
-**Competition Score**: 0.54/1.00 *(Lower is better)*
+**Competition Score**: 0.60/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [What UX designers actually need to survive the AI era](https://youtu.be/nLMtr5hPSO4) — 36,704 views, 201d old
-  - [Complete Course: AI Product Design](https://youtu.be/83ajrVQDowc) — 17,053 views, 404d old
-  - [Product Design with AI Part 1: Design Research](https://youtu.be/nFNc6fn7c8I) — 79,607 views, 1127d old
+  - [Best Ai For Coding?](https://youtu.be/BE8i1rws-A0) — 72,491 views, 484d old
+  - [Top 10 AI-Coding Interview Questions (for Software Engineers)](https://youtu.be/zriNl2Syw1s) — 9,960 views, 160d old
+  - [3 AI tools for programmers](https://youtu.be/zmuVrC3tgmQ) — 331,477 views, 789d old
 
 ---
