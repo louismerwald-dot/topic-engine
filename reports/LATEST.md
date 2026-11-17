@@ -1,70 +1,70 @@
-# Search Opportunity Report — 2026-11-16
+# Search Opportunity Report — 2026-11-17
 
 These are highly searched YouTube queries with weak, old, or low-view competition.
 
 ---
 
-## #1: Chatgpt For Home Interior Design
+## #1: How To Use Ai For Hinge
 
-**Target Search Query**: `chatgpt for home interior design`
+**Target Search Query**: `how to use ai for hinge`
 
-**Competition Score**: 0.55/1.00 *(Lower is better)*
+**Competition Score**: 0.41/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How to Use ChatGPT for Interior Design - Easy Guide 2026](https://youtu.be/wklire98H8E) — 5,514 views, 228d old
-  - [Elevate Your ENTIRE Home Using ChatGPT | How I Made My House Look Professionally Designed for FREE](https://youtu.be/XGQpxvKqKM4) — 98,933 views, 492d old
-  - [New ChatGPT features every interior designer should know! (2025 updates)](https://youtu.be/TDoYBhGVevk) — 51,400 views, 507d old
+  - [How I Used AI to Improve My Hinge Profile – Before / After](https://youtu.be/nbxzu1Z8xss) — 2,614 views, 537d old
+  - [hinge hack: ai agent swiping and messaging](https://youtu.be/1zXnaLqWCLQ) — 3,691 views, 782d old
+  - [I made 6 AI dating photos (in 37 seconds) #onlinedating #hinge #tinder](https://youtu.be/fXtTthpES_w) — 3,331 views, 346d old
 
 ---
 
-## #2: How To Automate Plugins In Fl Studio
+## #2: How To Automate Repetitive Task Quanzhi
 
-**Target Search Query**: `how to automate plugins in fl studio`
+**Target Search Query**: `how to automate repetitive task quanzhi`
+
+**Competition Score**: 0.49/1.00 *(Lower is better)*
+
+**Current Top Ranking Videos**:
+  - [How to Automate Repetitive Tasks with Simple Tech Tools | quanzi](https://youtu.be/x6QSoXMo_0Y) — 9,206 views, 449d old
+  - [Automate Repetitive Tasks - Every PRODUCTIVITY HACK Explained in 8 minutes #explained #science](https://youtu.be/jIqfCO9rXIc) — 3,417 views, 875d old
+  - [Build AI Agents in Minutes (Automate Any Task)](https://youtu.be/nO3frWOMpok) — 35,176 views, 578d old
+
+---
+
+## #3: Chatgpt For Visual Studio Code
+
+**Target Search Query**: `chatgpt for visual studio code`
+
+**Competition Score**: 0.53/1.00 *(Lower is better)*
+
+**Current Top Ranking Videos**:
+  - [How to use ChatGPT 5 inside VSCode in 1 Minute!](https://youtu.be/40vhhGRIAfA) — 47,832 views, 459d old
+  - [How to Use ChatGPT in VS Code (2026 Full Guide)](https://youtu.be/es1Ro1KoPRM) — 741 views, 267d old
+  - [How to Integrate ChatGPT in VS Code | Setup ChatGPT AI Assistant in Visual Studio Code (2026 Guide)](https://youtu.be/ZNbwtaS9pQQ) — 10,924 views, 269d old
+
+---
+
+## #4: How To Automate Job Applications With Linkedin
+
+**Target Search Query**: `how to automate job applications with linkedin`
 
 **Competition Score**: 0.58/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [Creating Automation Clips With Third Party Plugins | FL Studio 21](https://youtu.be/G9GPjeYewmA) — 33,877 views, 1321d old
-  - [How To Automate Plugins (Third Party/ External VSTs) | FL Studio | Beginner Tutorial](https://youtu.be/TLKTHVtxEqw) — 4,164 views, 651d old
-  - [FL Studio Create an Automation Clip Fast #shorts #producer #flstudio](https://youtu.be/0BQrX5tXwd8) — 242,613 views, 1523d old
+  - [Your Automated Job Search & Application AI Agent [No-code with n8n, LinkedIn, Deepseek & Perplexity]](https://youtu.be/coFz9CvKnZE) — 236,347 views, 660d old
+  - [How to Automate LinkedIn Job Applications with Claude](https://youtu.be/6wUas5jA9GY) — 18,347 views, 139d old
+  - [How to automate linkedin job applications (n8n Workflow)](https://youtu.be/EdMv4nNrL7g) — 7,285 views, 326d old
 
 ---
 
-## #3: How To Use Ai For Notes
+## #5: How To Use Ai To Help You Write A Book
 
-**Target Search Query**: `how to use ai for notes`
+**Target Search Query**: `how to use ai to help you write a book`
 
-**Competition Score**: 0.60/1.00 *(Lower is better)*
-
-**Current Top Ranking Videos**:
-  - [Ultimate NotebookLM Guide (Google's AI Note-Taking App)](https://youtu.be/8ir1Lrrxv5k) — 166,718 views, 668d old
-  - [How I Make Accurate Study Notes With ChatGPT & Claude in 2 mins](https://youtu.be/GLNl-NmeRJg) — 167,122 views, 86d old
-  - [Top AI Note-Taking Apps and How They Work, 2025 [October]](https://youtu.be/YZAX6NTvaR0) — 67,736 views, 384d old
-
----
-
-## #4: Best Ai Tools For Youtube Video Editing
-
-**Target Search Query**: `best ai tools for youtube video editing`
-
-**Competition Score**: 0.60/1.00 *(Lower is better)*
+**Competition Score**: 0.61/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [The Best AI Tool for Making YouTube Videos (2026)](https://youtu.be/x7ne4LqKCl0) — 86,036 views, 126d old
-  - [Top 8 AI Tools To Create KILLER YouTube Videos](https://youtu.be/hUoYR9b3lzA) — 183,666 views, 896d old
-  - [Best AI Video Editing Software: Edit Video in a Minute (Beginners Guide)](https://youtu.be/H60LeM4vTAg) — 135,827 views, 363d old
-
----
-
-## #5: Best Ai Tool For Coding Questions
-
-**Target Search Query**: `best ai tool for coding questions`
-
-**Competition Score**: 0.60/1.00 *(Lower is better)*
-
-**Current Top Ranking Videos**:
-  - [Best Ai For Coding?](https://youtu.be/BE8i1rws-A0) — 72,491 views, 484d old
-  - [Top 10 AI-Coding Interview Questions (for Software Engineers)](https://youtu.be/zriNl2Syw1s) — 9,960 views, 160d old
-  - [3 AI tools for programmers](https://youtu.be/zmuVrC3tgmQ) — 331,477 views, 789d old
+  - [Writing a Book is Hard Until You Learn How to Use AI](https://youtu.be/XhEFOvLeH-Q) — 38,071 views, 160d old
+  - [Writing a Book With AI? Read This Before You Publish!](https://youtu.be/eMyLFDTuVZQ) — 21,051 views, 284d old
+  - [How to Write a Book with AI in 2025 (Full Step-By-Step Tutorial)](https://youtu.be/VkU2NSLtz3A) — 446,208 views, 925d old
 
 ---
