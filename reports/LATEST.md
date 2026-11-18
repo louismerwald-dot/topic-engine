@@ -1,70 +1,70 @@
-# Search Opportunity Report — 2026-11-17
+# Search Opportunity Report — 2026-11-18
 
 These are highly searched YouTube queries with weak, old, or low-view competition.
 
 ---
 
-## #1: How To Use Ai For Hinge
+## #1: How To Automate Options Trading
 
-**Target Search Query**: `how to use ai for hinge`
-
-**Competition Score**: 0.41/1.00 *(Lower is better)*
-
-**Current Top Ranking Videos**:
-  - [How I Used AI to Improve My Hinge Profile – Before / After](https://youtu.be/nbxzu1Z8xss) — 2,614 views, 537d old
-  - [hinge hack: ai agent swiping and messaging](https://youtu.be/1zXnaLqWCLQ) — 3,691 views, 782d old
-  - [I made 6 AI dating photos (in 37 seconds) #onlinedating #hinge #tinder](https://youtu.be/fXtTthpES_w) — 3,331 views, 346d old
-
----
-
-## #2: How To Automate Repetitive Task Quanzhi
-
-**Target Search Query**: `how to automate repetitive task quanzhi`
+**Target Search Query**: `how to automate options trading`
 
 **Competition Score**: 0.49/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How to Automate Repetitive Tasks with Simple Tech Tools | quanzi](https://youtu.be/x6QSoXMo_0Y) — 9,206 views, 449d old
-  - [Automate Repetitive Tasks - Every PRODUCTIVITY HACK Explained in 8 minutes #explained #science](https://youtu.be/jIqfCO9rXIc) — 3,417 views, 875d old
-  - [Build AI Agents in Minutes (Automate Any Task)](https://youtu.be/nO3frWOMpok) — 35,176 views, 578d old
+  - [Turn ThinkorSwim Into an Options Trading Bot!](https://youtu.be/HLNtjJ_6nGc) — 19,700 views, 623d old
+  - [Automated Options Trading in ThinkorSwim](https://youtu.be/MaGOpcedmd4) — 9,747 views, 935d old
+  - [Fully AUTOMATE Your Options Trading With OPTION ALPHA BOTS! 💰🔥](https://youtu.be/URDOSBK_DbA) — 17,979 views, 1562d old
 
 ---
 
-## #3: Chatgpt For Visual Studio Code
+## #2: How To Automate Squeezer
 
-**Target Search Query**: `chatgpt for visual studio code`
+**Target Search Query**: `how to automate squeezer`
 
-**Competition Score**: 0.53/1.00 *(Lower is better)*
+**Competition Score**: 0.54/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How to use ChatGPT 5 inside VSCode in 1 Minute!](https://youtu.be/40vhhGRIAfA) — 47,832 views, 459d old
-  - [How to Use ChatGPT in VS Code (2026 Full Guide)](https://youtu.be/es1Ro1KoPRM) — 741 views, 267d old
-  - [How to Integrate ChatGPT in VS Code | Setup ChatGPT AI Assistant in Visual Studio Code (2026 Guide)](https://youtu.be/ZNbwtaS9pQQ) — 10,924 views, 269d old
+  - [Squeezer Automation! (ATM10 To The Sky) #moddedminecraft #ATM10TTS](https://youtu.be/9_VDL5O718s) — 109,120 views, 464d old
+  - [automating integrated dynamics squeezer #gaming #minecraft #minecrafttutorial](https://youtu.be/Q23CY_Gmhl8) — 14,899 views, 429d old
+  - [ATM10 To The Sky Ep2 – Ore Tripling & Early Automation! (Squeezer, Furnace, Foundry)](https://youtu.be/TYHm4jfbZGM) — 6,341 views, 456d old
 
 ---
 
-## #4: How To Automate Job Applications With Linkedin
+## #3: Best Ai Tool For Resume Writing
 
-**Target Search Query**: `how to automate job applications with linkedin`
+**Target Search Query**: `best ai tool for resume writing`
+
+**Competition Score**: 0.55/1.00 *(Lower is better)*
+
+**Current Top Ranking Videos**:
+  - [Which AI is Best at Resume Writing? (ChatGPT vs Claude vs Gemini vs CoPilot)](https://youtu.be/AQXv0WdH1fY) — 23,918 views, 184d old
+  - [Best FREE Resume Builder Websites in 2026 (Teal vs Rezi vs Canva vs Kickresume vs Resume Genius)](https://youtu.be/iBbOU5MQLHQ) — 62,667 views, 337d old
+  - [This AI Resume Builder will get you HIRED | Beat the ATS](https://youtu.be/qcL6ZCDhEN8) — 61,038 views, 786d old
+
+---
+
+## #4: Best Ai Tool For Medical Research
+
+**Target Search Query**: `best ai tool for medical research`
+
+**Competition Score**: 0.56/1.00 *(Lower is better)*
+
+**Current Top Ranking Videos**:
+  - [The Only 5 AI Tools You Actually Need For Research (2026)](https://youtu.be/6dGK8M7KNKg) — 86,071 views, 257d old
+  - [These AI Prompts Will Make Your Life SO EASY In Medical School](https://youtu.be/miDJLLlS_0s) — 91,133 views, 508d old
+  - [How to use Consensus | AI in medicine | How to do a literature review using an AI research tool](https://youtu.be/cV5xd4k8ywU) — 4,520 views, 317d old
+
+---
+
+## #5: How To Use Ai For Marketing
+
+**Target Search Query**: `how to use ai for marketing`
 
 **Competition Score**: 0.58/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [Your Automated Job Search & Application AI Agent [No-code with n8n, LinkedIn, Deepseek & Perplexity]](https://youtu.be/coFz9CvKnZE) — 236,347 views, 660d old
-  - [How to Automate LinkedIn Job Applications with Claude](https://youtu.be/6wUas5jA9GY) — 18,347 views, 139d old
-  - [How to automate linkedin job applications (n8n Workflow)](https://youtu.be/EdMv4nNrL7g) — 7,285 views, 326d old
-
----
-
-## #5: How To Use Ai To Help You Write A Book
-
-**Target Search Query**: `how to use ai to help you write a book`
-
-**Competition Score**: 0.61/1.00 *(Lower is better)*
-
-**Current Top Ranking Videos**:
-  - [Writing a Book is Hard Until You Learn How to Use AI](https://youtu.be/XhEFOvLeH-Q) — 38,071 views, 160d old
-  - [Writing a Book With AI? Read This Before You Publish!](https://youtu.be/eMyLFDTuVZQ) — 21,051 views, 284d old
-  - [How to Write a Book with AI in 2025 (Full Step-By-Step Tutorial)](https://youtu.be/VkU2NSLtz3A) — 446,208 views, 925d old
+  - [How I Use AI to Automate 80% of My Marketing | 13 Strategies for Success](https://youtu.be/XKqNdX0qNRI) — 35,353 views, 503d old
+  - [How To Use AI to Start, Build & Grow Your Small Business (20 AI Marketing Tools!)](https://youtu.be/nkuPUJVzB_E) — 199,977 views, 651d old
+  - [How the Best Marketers Actually Use AI (Hint: It's Not a Prompt)](https://youtu.be/YOcciB2u4UY) — 29,759 views, 222d old
 
 ---
