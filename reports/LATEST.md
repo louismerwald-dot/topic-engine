@@ -1,70 +1,70 @@
-# Search Opportunity Report — 2026-11-18
+# Search Opportunity Report — 2026-11-19
 
 These are highly searched YouTube queries with weak, old, or low-view competition.
 
 ---
 
-## #1: How To Automate Options Trading
+## #1: How To Use Ai For Restaurants
 
-**Target Search Query**: `how to automate options trading`
+**Target Search Query**: `how to use ai for restaurants`
 
-**Competition Score**: 0.49/1.00 *(Lower is better)*
+**Competition Score**: 0.45/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [Turn ThinkorSwim Into an Options Trading Bot!](https://youtu.be/HLNtjJ_6nGc) — 19,700 views, 623d old
-  - [Automated Options Trading in ThinkorSwim](https://youtu.be/MaGOpcedmd4) — 9,747 views, 935d old
-  - [Fully AUTOMATE Your Options Trading With OPTION ALPHA BOTS! 💰🔥](https://youtu.be/URDOSBK_DbA) — 17,979 views, 1562d old
+  - [How to Use AI to Grow Your Restaurant in 2026 (Easy & Affordable)](https://youtu.be/qB4QiE4plDE) — 6,968 views, 265d old
+  - [How to Use AI Automation for Restaurants](https://youtu.be/Zqey5gm95Bo) — 7,053 views, 758d old
+  - [5 AI Tools To Triple Your Restaurant Profits In 2026](https://youtu.be/K1BHISnsJe0) — 9,474 views, 266d old
 
 ---
 
-## #2: How To Automate Squeezer
+## #2: How To Use Ai For Online Shopping
 
-**Target Search Query**: `how to automate squeezer`
+**Target Search Query**: `how to use ai for online shopping`
 
-**Competition Score**: 0.54/1.00 *(Lower is better)*
+**Competition Score**: 0.46/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [Squeezer Automation! (ATM10 To The Sky) #moddedminecraft #ATM10TTS](https://youtu.be/9_VDL5O718s) — 109,120 views, 464d old
-  - [automating integrated dynamics squeezer #gaming #minecraft #minecrafttutorial](https://youtu.be/Q23CY_Gmhl8) — 14,899 views, 429d old
-  - [ATM10 To The Sky Ep2 – Ore Tripling & Early Automation! (Squeezer, Furnace, Foundry)](https://youtu.be/TYHm4jfbZGM) — 6,341 views, 456d old
+  - [How to use AI for Online Shopping](https://youtu.be/5JR0rz6pVqw) — 103 views, 1389d old
+  - [How to use AI to find the best deals online](https://youtu.be/mVS-3BHCu_g) — 1,376 views, 490d old
+  - [ChatGPT Just Added Shopping - How to Make AI Recommend YOUR Products](https://youtu.be/QSbZk04fRig) — 23,986 views, 380d old
 
 ---
 
-## #3: Best Ai Tool For Resume Writing
+## #3: How To Use Ai For Facebook Marketplace
 
-**Target Search Query**: `best ai tool for resume writing`
+**Target Search Query**: `how to use ai for facebook marketplace`
 
-**Competition Score**: 0.55/1.00 *(Lower is better)*
+**Competition Score**: 0.47/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [Which AI is Best at Resume Writing? (ChatGPT vs Claude vs Gemini vs CoPilot)](https://youtu.be/AQXv0WdH1fY) — 23,918 views, 184d old
-  - [Best FREE Resume Builder Websites in 2026 (Teal vs Rezi vs Canva vs Kickresume vs Resume Genius)](https://youtu.be/iBbOU5MQLHQ) — 62,667 views, 337d old
-  - [This AI Resume Builder will get you HIRED | Beat the ATS](https://youtu.be/qcL6ZCDhEN8) — 61,038 views, 786d old
+  - [How to Sell FAST on FaceBook Marketplace With ChatGPT](https://youtu.be/rqBorUK2TPs) — 5,162 views, 1347d old
+  - [I Used Zuck’s $250M AI To Flip on Facebook Marketplace](https://youtu.be/GRCrnXouCzE) — 19,623 views, 466d old
+  - [Facebook Marketplace Listing Content Prompt for ChatGPT](https://youtu.be/YRzlsVvk_nA) — 8,160 views, 602d old
 
 ---
 
-## #4: Best Ai Tool For Medical Research
+## #4: How To Use Ai For Landscaping
 
-**Target Search Query**: `best ai tool for medical research`
+**Target Search Query**: `how to use ai for landscaping`
 
-**Competition Score**: 0.56/1.00 *(Lower is better)*
+**Competition Score**: 0.53/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [The Only 5 AI Tools You Actually Need For Research (2026)](https://youtu.be/6dGK8M7KNKg) — 86,071 views, 257d old
-  - [These AI Prompts Will Make Your Life SO EASY In Medical School](https://youtu.be/miDJLLlS_0s) — 91,133 views, 508d old
-  - [How to use Consensus | AI in medicine | How to do a literature review using an AI research tool](https://youtu.be/cV5xd4k8ywU) — 4,520 views, 317d old
+  - [How To Use ChatGPT For Landscaping Ideas [2026 Full Guide]](https://youtu.be/0BnlDpJYnI8) — 1,999 views, 179d old
+  - [Using ChatGPT For FREE Landscape Design Made Easy! (Tutorial)](https://youtu.be/p-jeYr1GoaY) — 33,095 views, 593d old
+  - [How to Run a Landscaping Business with Jobber AI (2026 Guide)](https://youtu.be/hhz31zoLZXQ) — 3,135 views, 141d old
 
 ---
 
-## #5: How To Use Ai For Marketing
+## #5: How To Use Xiaomi Ai Glasses
 
-**Target Search Query**: `how to use ai for marketing`
+**Target Search Query**: `how to use xiaomi ai glasses`
 
 **Competition Score**: 0.58/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How I Use AI to Automate 80% of My Marketing | 13 Strategies for Success](https://youtu.be/XKqNdX0qNRI) — 35,353 views, 503d old
-  - [How To Use AI to Start, Build & Grow Your Small Business (20 AI Marketing Tools!)](https://youtu.be/nkuPUJVzB_E) — 199,977 views, 651d old
-  - [How the Best Marketers Actually Use AI (Hint: It's Not a Prompt)](https://youtu.be/YOcciB2u4UY) — 29,759 views, 222d old
+  - [Xiaomi AI Glasses Unboxing & Full Review  - Everything You Need to Know!](https://youtu.be/Fsi1z6m0pKc) — 23,254 views, 182d old
+  - [Xiaomi AI Glasses Unboxing In America | Setup and Review!](https://youtu.be/6w3h5eWas04) — 33,057 views, 470d old
+  - [Xiaomi’s New AI Glasses Are Here - Better Than META!](https://youtu.be/soqo3UPJMKE) — 3,454 views, 161d old
 
 ---
