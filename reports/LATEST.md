@@ -1,70 +1,70 @@
-# Search Opportunity Report — 2026-11-19
+# Search Opportunity Report — 2026-11-20
 
 These are highly searched YouTube queries with weak, old, or low-view competition.
 
 ---
 
-## #1: How To Use Ai For Restaurants
+## #1: How To Use Ai To Land A Job
 
-**Target Search Query**: `how to use ai for restaurants`
+**Target Search Query**: `how to use ai to land a job`
 
-**Competition Score**: 0.45/1.00 *(Lower is better)*
+**Competition Score**: 0.48/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How to Use AI to Grow Your Restaurant in 2026 (Easy & Affordable)](https://youtu.be/qB4QiE4plDE) — 6,968 views, 265d old
-  - [How to Use AI Automation for Restaurants](https://youtu.be/Zqey5gm95Bo) — 7,053 views, 758d old
-  - [5 AI Tools To Triple Your Restaurant Profits In 2026](https://youtu.be/K1BHISnsJe0) — 9,474 views, 266d old
+  - [The RIGHT Way To Use AI To Get A Job in 2026](https://youtu.be/UtbNQqHhnKY) — 23,570 views, 611d old
+  - [How to land a job using AI in 2026](https://youtu.be/Jm3j4FYINiQ) — 855 views, 232d old
+  - [Job Searching is on “AI Mode” in 2026 (Anyone Can Land their Dream Job)](https://youtu.be/h9l9NxbKt08) — 11,410 views, 328d old
 
 ---
 
-## #2: How To Use Ai For Online Shopping
+## #2: Chatgpt For Landscape Design
 
-**Target Search Query**: `how to use ai for online shopping`
+**Target Search Query**: `chatgpt for landscape design`
 
-**Competition Score**: 0.46/1.00 *(Lower is better)*
+**Competition Score**: 0.51/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How to use AI for Online Shopping](https://youtu.be/5JR0rz6pVqw) — 103 views, 1389d old
-  - [How to use AI to find the best deals online](https://youtu.be/mVS-3BHCu_g) — 1,376 views, 490d old
-  - [ChatGPT Just Added Shopping - How to Make AI Recommend YOUR Products](https://youtu.be/QSbZk04fRig) — 23,986 views, 380d old
+  - [How To Use ChatGPT For Landscaping Ideas [2026 Full Guide]](https://youtu.be/0BnlDpJYnI8) — 2,002 views, 180d old
+  - [Using ChatGPT For FREE Landscape Design Made Easy! (Tutorial)](https://youtu.be/p-jeYr1GoaY) — 33,121 views, 594d old
+  - [How To Design A Garden In ChatGPT [2026 Full Guide]](https://youtu.be/9kyLHE3zbUc) — 491 views, 185d old
 
 ---
 
-## #3: How To Use Ai For Facebook Marketplace
+## #3: How To Use Ai For Amazon Fba
 
-**Target Search Query**: `how to use ai for facebook marketplace`
+**Target Search Query**: `how to use ai for amazon fba`
 
-**Competition Score**: 0.47/1.00 *(Lower is better)*
+**Competition Score**: 0.54/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How to Sell FAST on FaceBook Marketplace With ChatGPT](https://youtu.be/rqBorUK2TPs) — 5,162 views, 1347d old
-  - [I Used Zuck’s $250M AI To Flip on Facebook Marketplace](https://youtu.be/GRCrnXouCzE) — 19,623 views, 466d old
-  - [Facebook Marketplace Listing Content Prompt for ChatGPT](https://youtu.be/YRzlsVvk_nA) — 8,160 views, 602d old
+  - [Claude for Amazon Sellers: Run Your Whole Account with AI (2026)](https://youtu.be/AYH7n_cRf3E) — 12,611 views, 120d old
+  - [Using AI to Build a $10,000/mo Side Hustle with Amazon FBA](https://youtu.be/jQdRimt7l3s) — 7,596 views, 424d old
+  - [New Ai Amazon FBA Sourcing Method (No Experience Needed)](https://youtu.be/CsvHI868N6o) — 5,915 views, 271d old
 
 ---
 
-## #4: How To Use Ai For Landscaping
+## #4: How To Automate Netherrack Create Mod
 
-**Target Search Query**: `how to use ai for landscaping`
+**Target Search Query**: `how to automate netherrack create mod`
 
-**Competition Score**: 0.53/1.00 *(Lower is better)*
+**Competition Score**: 0.54/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How To Use ChatGPT For Landscaping Ideas [2026 Full Guide]](https://youtu.be/0BnlDpJYnI8) — 1,999 views, 179d old
-  - [Using ChatGPT For FREE Landscape Design Made Easy! (Tutorial)](https://youtu.be/p-jeYr1GoaY) — 33,095 views, 593d old
-  - [How to Run a Landscaping Business with Jobber AI (2026 Guide)](https://youtu.be/hhz31zoLZXQ) — 3,135 views, 141d old
+  - [I Made the PERFECT NETHERRACK FACTORY in Minecraft Create](https://youtu.be/KcSEg-PZcUg) — 23,386 views, 898d old
+  - [Automate Netherrite Scrap in the #createmod for #minecraft With This Easy Setup!](https://youtu.be/y86ZMhsaiu8) — 96,789 views, 927d old
+  - [Skyfactory how to: Automate Netherrack](https://youtu.be/5LjW1xo7uDg) — 6,854 views, 3526d old
 
 ---
 
-## #5: How To Use Xiaomi Ai Glasses
+## #5: Ai Workflow For Seo
 
-**Target Search Query**: `how to use xiaomi ai glasses`
+**Target Search Query**: `ai workflow for seo`
 
-**Competition Score**: 0.58/1.00 *(Lower is better)*
+**Competition Score**: 0.57/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [Xiaomi AI Glasses Unboxing & Full Review  - Everything You Need to Know!](https://youtu.be/Fsi1z6m0pKc) — 23,254 views, 182d old
-  - [Xiaomi AI Glasses Unboxing In America | Setup and Review!](https://youtu.be/6w3h5eWas04) — 33,057 views, 470d old
-  - [Xiaomi’s New AI Glasses Are Here - Better Than META!](https://youtu.be/soqo3UPJMKE) — 3,454 views, 161d old
+  - [How to do SEO on autopilot with Ai! 🤯 #seo #ai #gohighlevel #webdesign](https://youtu.be/AS-5RMFh1Ns) — 109,861 views, 874d old
+  - [SEO in 2026: How I'd Rank in Google in the AI Era](https://youtu.be/tiW6xRYSXmM) — 108,968 views, 247d old
+  - [I Replaced My Entire SEO Workflow With One AI Operator (MuleRun Review)](https://youtu.be/TNDuuflhvQ8) — 29,917 views, 132d old
 
 ---
