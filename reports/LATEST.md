@@ -1,70 +1,70 @@
-# Search Opportunity Report — 2026-11-20
+# Search Opportunity Report — 2026-11-21
 
 These are highly searched YouTube queries with weak, old, or low-view competition.
 
 ---
 
-## #1: How To Use Ai To Land A Job
+## #1: How To Use Ai For Music Marketing
 
-**Target Search Query**: `how to use ai to land a job`
+**Target Search Query**: `how to use ai for music marketing`
 
-**Competition Score**: 0.48/1.00 *(Lower is better)*
+**Competition Score**: 0.46/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [The RIGHT Way To Use AI To Get A Job in 2026](https://youtu.be/UtbNQqHhnKY) — 23,570 views, 611d old
-  - [How to land a job using AI in 2026](https://youtu.be/Jm3j4FYINiQ) — 855 views, 232d old
-  - [Job Searching is on “AI Mode” in 2026 (Anyone Can Land their Dream Job)](https://youtu.be/h9l9NxbKt08) — 11,410 views, 328d old
+  - [How To Market Your Music With AI? | Music Marketing With AI](https://youtu.be/_zZjM57kLnU) — 8,150 views, 1142d old
+  - [How to Make Your AI Music Go Trending! (Viral Strategy)](https://youtu.be/yPreAwAskco) — 18,537 views, 563d old
+  - [HOW TO ACTUALLY USE AI TO MARKET YOUR MUSIC #musicmarketing](https://youtu.be/1DxgcBiicWI) — 1,639 views, 304d old
 
 ---
 
-## #2: Chatgpt For Landscape Design
+## #2: How To Automate Delay In Logic Pro X
 
-**Target Search Query**: `chatgpt for landscape design`
+**Target Search Query**: `how to automate delay in logic pro x`
+
+**Competition Score**: 0.50/1.00 *(Lower is better)*
+
+**Current Top Ranking Videos**:
+  - [How to create a vocal delay throw in Logic Pro using automation #musicproducer #logicprox](https://youtu.be/eQtiMP0VCi0) — 37,152 views, 478d old
+  - [How To Automate Delays And Reverbs In Logic Pro X](https://youtu.be/n445MTjEf98) — 24,966 views, 2640d old
+  - [How To Automate Your Delays On Logic Pro X](https://youtu.be/i0u-aHrFrUc) — 419 views, 667d old
+
+---
+
+## #3: How To Use Ai To Write A Story
+
+**Target Search Query**: `how to use ai to write a story`
 
 **Competition Score**: 0.51/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How To Use ChatGPT For Landscaping Ideas [2026 Full Guide]](https://youtu.be/0BnlDpJYnI8) — 2,002 views, 180d old
-  - [Using ChatGPT For FREE Landscape Design Made Easy! (Tutorial)](https://youtu.be/p-jeYr1GoaY) — 33,121 views, 594d old
-  - [How To Design A Garden In ChatGPT [2026 Full Guide]](https://youtu.be/9kyLHE3zbUc) — 491 views, 185d old
+  - [Writing a Book is Hard Until You Learn How to Use AI](https://youtu.be/XhEFOvLeH-Q) — 38,743 views, 164d old
+  - [How To Make ChatGPT Short Stories In 5 Minutes (Learning AI Series)](https://youtu.be/R0gAjiCtjiA) — 4,187 views, 741d old
+  - [The Key to Creating a Short Story with AI](https://youtu.be/35OrxRVaSSM) — 27,722 views, 593d old
 
 ---
 
-## #3: How To Use Ai For Amazon Fba
+## #4: How To Automate Netherite Atm10
 
-**Target Search Query**: `how to use ai for amazon fba`
+**Target Search Query**: `how to automate netherite atm10`
+
+**Competition Score**: 0.51/1.00 *(Lower is better)*
+
+**Current Top Ranking Videos**:
+  - [The Netherite Farm! - ATM10 Ep16](https://youtu.be/81oXyZw1vIA) — 9,175 views, 537d old
+  - [😳 3 Ways to Get Netherite In ATM 10 By TOUCHING & Walking 🧐](https://youtu.be/36H5aqDJeJ0) — 49,859 views, 687d old
+  - [All The Mods 10 (ATM10) | Episode 11 | TONS OF NETHERITE, the Digital Miner, and Mining Dimension!!!](https://youtu.be/xdRK4WypDeQ) — 15,916 views, 822d old
+
+---
+
+## #5: Chatgpt For Macbook Pro
+
+**Target Search Query**: `chatgpt for macbook pro`
 
 **Competition Score**: 0.54/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [Claude for Amazon Sellers: Run Your Whole Account with AI (2026)](https://youtu.be/AYH7n_cRf3E) — 12,611 views, 120d old
-  - [Using AI to Build a $10,000/mo Side Hustle with Amazon FBA](https://youtu.be/jQdRimt7l3s) — 7,596 views, 424d old
-  - [New Ai Amazon FBA Sourcing Method (No Experience Needed)](https://youtu.be/CsvHI868N6o) — 5,915 views, 271d old
-
----
-
-## #4: How To Automate Netherrack Create Mod
-
-**Target Search Query**: `how to automate netherrack create mod`
-
-**Competition Score**: 0.54/1.00 *(Lower is better)*
-
-**Current Top Ranking Videos**:
-  - [I Made the PERFECT NETHERRACK FACTORY in Minecraft Create](https://youtu.be/KcSEg-PZcUg) — 23,386 views, 898d old
-  - [Automate Netherrite Scrap in the #createmod for #minecraft With This Easy Setup!](https://youtu.be/y86ZMhsaiu8) — 96,789 views, 927d old
-  - [Skyfactory how to: Automate Netherrack](https://youtu.be/5LjW1xo7uDg) — 6,854 views, 3526d old
-
----
-
-## #5: Ai Workflow For Seo
-
-**Target Search Query**: `ai workflow for seo`
-
-**Competition Score**: 0.57/1.00 *(Lower is better)*
-
-**Current Top Ranking Videos**:
-  - [How to do SEO on autopilot with Ai! 🤯 #seo #ai #gohighlevel #webdesign](https://youtu.be/AS-5RMFh1Ns) — 109,861 views, 874d old
-  - [SEO in 2026: How I'd Rank in Google in the AI Era](https://youtu.be/tiW6xRYSXmM) — 108,968 views, 247d old
-  - [I Replaced My Entire SEO Workflow With One AI Operator (MuleRun Review)](https://youtu.be/TNDuuflhvQ8) — 29,917 views, 132d old
+  - [How To Use ChatGPT On Your Mac!](https://youtu.be/KJNQde8yY9E) — 64,061 views, 563d old
+  - [Get ChatGPT on MacOS in 5 steps! 🔥 ALT+Space to chat instantly! #ChatGPT #TechTip](https://youtu.be/gIob8PG3w8U) — 55,514 views, 740d old
+  - [How to Install ChatGPT on Mac? How to Download ChatGPT in MacBook](https://youtu.be/qYjjW2DgYkI) — 6,114 views, 211d old
 
 ---
