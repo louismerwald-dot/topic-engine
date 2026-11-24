@@ -1,70 +1,70 @@
-# Search Opportunity Report — 2026-11-23
+# Search Opportunity Report — 2026-11-24
 
 These are highly searched YouTube queries with weak, old, or low-view competition.
 
 ---
 
-## #1: How To Automate Homework
+## #1: How To Automate Zapier
 
-**Target Search Query**: `how to automate homework`
+**Target Search Query**: `how to automate zapier`
 
-**Competition Score**: 0.47/1.00 *(Lower is better)*
+**Competition Score**: 0.53/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How I AUTOMATED My Assignments With Python](https://youtu.be/UdRuFTYCUsk) — 295 views, 595d old
-  - [This AI Website Does Your Homework in 10 Seconds 😳 (and it’s free)](https://youtu.be/sEPDB1bsNpE) — 28,379 views, 413d old
-  - [How to Automate Your Homework with AI – Full Guide | Socratic App by Google - AI for Students Part 2](https://youtu.be/heq1OAKBQkY) — 517 views, 777d old
+  - [How to Use Zapier AI Automation Like a PRO (Better Than 99% People)](https://youtu.be/Fe9tOOlAlOc) — 58,650 views, 432d old
+  - [Zapier For Beginners Tutorial](https://youtu.be/QufC08E_zjU) — 24,399 views, 264d old
+  - [Automated Content Repurposing using Zapier + AI | AI Automation Tutorial Tagalog](https://youtu.be/PeRgsTWTmBA) — 12,712 views, 531d old
 
 ---
 
-## #2: How To Automate Dye Skyfactory 5
+## #2: Chatgpt For Lead Generation
 
-**Target Search Query**: `how to automate dye skyfactory 5`
+**Target Search Query**: `chatgpt for lead generation`
 
-**Competition Score**: 0.49/1.00 *(Lower is better)*
+**Competition Score**: 0.59/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How To Automate Dye & Sand in Skyfactory 5 Ep4](https://youtu.be/CA10c0age0U) — 30,576 views, 665d old
-  - [Skyfactory 5 ulitimate dye machine](https://youtu.be/tbnmyEajhUc) — 15,134 views, 627d old
-  - [how to automate dyes in skyfactory 5](https://youtu.be/sexGBvAoWws) — 4,214 views, 350d old
+  - [Use ChatGPT To Generate Unlimited Leads in 2026](https://youtu.be/kqNoebuoIf0) — 2,112 views, 295d old
+  - [ChatGPT Just REPLACED Cold Calling for Local Lead Gen 💥 (No Ads, No SEO)](https://youtu.be/XzLlIPtXeWM) — 2,664 views, 192d old
+  - [How To Generate FREE Leads Using ChatGPT (2025)](https://youtu.be/HOyugMiVAPk) — 325,190 views, 854d old
 
 ---
 
-## #3: Best Ai Tool For Legal Research
+## #3: How To Use Ai For Stock Trading
 
-**Target Search Query**: `best ai tool for legal research`
+**Target Search Query**: `how to use ai for stock trading`
 
-**Competition Score**: 0.55/1.00 *(Lower is better)*
+**Competition Score**: 0.61/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [Legal Research with AI: Accelerate Legal Work with Agents](https://youtu.be/YS55zm_9kGY) — 861 views, 524d old
-  - [Best Free AI Tools for Lawyers (Save Time Without Paying)](https://youtu.be/0HCUZqK7Upg) — 1,917 views, 214d old
-  - [Top 3 Free AI Tools for Lawyers  #indianlaw #legaleducation #exam #law #ielts](https://youtu.be/eFENFKm66fo) — 159,272 views, 778d old
+  - [How to Use AI to Analyze & Trade Stocks in 2026 (New & Best Method)](https://youtu.be/gEqU037Ac6Q) — 50,679 views, 380d old
+  - [The ULTIMATE AI Trading Tool - Beat 99% of Investors with THIS](https://youtu.be/vPqQh1vtueQ) — 352,590 views, 441d old
+  - [The ChatGPT Trading Masterclass You Won't Find Anywhere Else (News | Options | Psychology)](https://youtu.be/PdLgzRipSD8) — 71,708 views, 381d old
 
 ---
 
-## #4: How To Use Ai To Produce Music
+## #4: How To Automate Coffee Plateup
 
-**Target Search Query**: `how to use ai to produce music`
+**Target Search Query**: `how to automate coffee plateup`
 
-**Competition Score**: 0.58/1.00 *(Lower is better)*
+**Competition Score**: 0.62/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [5 Ways to Get Started With AI Music (Beginner Friendly Methods)](https://youtu.be/UQDdI7LZOsc) — 145,874 views, 393d old
-  - [Making Music with AI Got SCARY Easy](https://youtu.be/pX10u2JXNCA) — 89,644 views, 444d old
-  - [How AI Is Changing Music Production (3 Tools I Actually Use)](https://youtu.be/5V0wAcxrUOo) — 37,827 views, 263d old
+  - [Coffee Automation (Single Machine Output) Designs #PlateUp](https://youtu.be/zSXSmXzN5Pw) — 147,730 views, 902d old
+  - [[PlateUp!] Black Coffee Automation Guide](https://youtu.be/cSVOe-tDenE) — 39,446 views, 806d old
+  - [Fully Automating a Coffee Shop from Scratch (PlateUp!)](https://youtu.be/pmr6_FFRGfw) — 401,902 views, 512d old
 
 ---
 
-## #5: Best Ai Tool For Podcast
+## #5: Best Ai Tool For Prompt Generation
 
-**Target Search Query**: `best ai tool for podcast`
+**Target Search Query**: `best ai tool for prompt generation`
 
-**Competition Score**: 0.58/1.00 *(Lower is better)*
+**Competition Score**: 0.63/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [BEST AI Tool for Editing Podcast!](https://youtu.be/S4XmyO_n-DA) — 252,929 views, 436d old
-  - [How To Create Podcasts With AI — Full Guide For Beginners 2025](https://youtu.be/FHGFb6c8W2w) — 24,530 views, 490d old
-  - [This AI Tool Just Changed Podcast Editing](https://youtu.be/0v4oy1rbn5c) — 2,530 views, 180d old
+  - [Best AI Video Prompt Generator 2026 (FREE)](https://youtu.be/oT-2VO8Jzpk) — 143,468 views, 175d old
+  - [Find the Perfect AI Prompts Instantly | Best Free Prompt Tools #ai #aitools #aiprompts #prompt](https://youtu.be/7eocIacA0n0) — 146,166 views, 585d old
+  - [How to get the best AI Prompts](https://youtu.be/c9_3XPww484) — 397,533 views, 537d old
 
 ---
