@@ -1,70 +1,70 @@
-# Search Opportunity Report — 2026-11-26
+# Search Opportunity Report — 2026-11-27
 
 These are highly searched YouTube queries with weak, old, or low-view competition.
 
 ---
 
-## #1: How To Use Ai To Find Products To Sell On Amazon
+## #1: How To Automate Reverb In Pro Tools
 
-**Target Search Query**: `how to use ai to find products to sell on amazon`
+**Target Search Query**: `how to automate reverb in pro tools`
 
-**Competition Score**: 0.44/1.00 *(Lower is better)*
+**Competition Score**: 0.42/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [Using AI To Find Winning AUTO-UNGATE Products To Sell On Amazon](https://youtu.be/4A2q7TvJNZk) — 4,622 views, 493d old
-  - [Using AI to Build a $10,000/mo Side Hustle with Amazon FBA](https://youtu.be/jQdRimt7l3s) — 7,832 views, 430d old
-  - [How To Find Winning Amazon FBA Products Using AI](https://youtu.be/zvXvMEBAAOY) — 4,043 views, 566d old
+  - [Pro Tools Tutorial: Reverb Automation](https://youtu.be/HbMp_cj31MY) — 6,924 views, 1781d old
+  - [S18 // In the Mix: How To Automate Reverb In ProTools](https://youtu.be/Qk0_XT_KxaY) — 1,173 views, 1746d old
+  - [Pro Tools Tips: Vocal Delay-Throws - Method 1](https://youtu.be/Z5rkE786iAY) — 4,820 views, 732d old
 
 ---
 
-## #2: Best Ai Tool For Electrical Engineering
+## #2: How To Automatically Join Zoom Meeting
 
-**Target Search Query**: `best ai tool for electrical engineering`
+**Target Search Query**: `how to automatically join zoom meeting`
 
-**Competition Score**: 0.52/1.00 *(Lower is better)*
+**Competition Score**: 0.50/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [🥇 TOP 5 Best AI Tools for Electrical Engineering 2026 | Artificial Intelligence Tools for Engineers](https://youtu.be/OtvetsN8n8w) — 12,709 views, 321d old
-  - [Top 10 AI Tools for Electrical Engineering | Transforming the Field](https://youtu.be/Z3l-MHpFciw) — 71,484 views, 1055d old
-  - [5 Best AI Tools for Electrical Engineering (Full Guide)](https://youtu.be/A7jHl-453MI) — 699 views, 86d old
+  - [How to automatically join ZOOM meetings!](https://youtu.be/gqk7PWfCAAs) — 12,148 views, 2139d old
+  - [How to Automatically join Zoom Meetings (Windows 10)](https://youtu.be/H1gssJgUsis) — 22,828 views, 2292d old
+  - [How set auto join in zoom meeting](https://youtu.be/jOiWknXYCWo) — 25,108 views, 2390d old
 
 ---
 
-## #3: How To Automate Eq In Fl Studio
+## #3: How To Automate Discord Messages
 
-**Target Search Query**: `how to automate eq in fl studio`
+**Target Search Query**: `how to automate discord messages`
 
-**Competition Score**: 0.52/1.00 *(Lower is better)*
+**Competition Score**: 0.54/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How to Automate EQ](https://youtu.be/-nBW59eF6eU) — 17,165 views, 796d old
-  - [How to AUTOMATE EQ tutorial #shorts](https://youtu.be/4ibTwA3dfAw) — 9,186 views, 795d old
-  - [Simple Filter Sweep Trick In FL Studio](https://youtu.be/pqca_sfNGiU) — 66,544 views, 1394d old
+  - [Easily Schedule Messages In Discord For FREE](https://youtu.be/8XMoRoepm6U) — 95,788 views, 1069d old
+  - [How to automatically send Discord messages | Autosender.lol](https://youtu.be/IOPRI4iqMNw) — 23,250 views, 371d old
+  - [How to Automate Discord Messages with Exact Agent – No Coding Required!](https://youtu.be/bJCESheqW_Q) — 323 views, 587d old
 
 ---
 
-## #4: How To Use Ai To Search For Jobs
+## #4: How To Automate Fluix Crystals Atm10
 
-**Target Search Query**: `how to use ai to search for jobs`
+**Target Search Query**: `how to automate fluix crystals atm10`
 
-**Competition Score**: 0.53/1.00 *(Lower is better)*
+**Competition Score**: 0.55/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [The RIGHT Way To Use AI To Get A Job in 2026](https://youtu.be/UtbNQqHhnKY) — 23,881 views, 617d old
-  - [How to Find Your Dream Job Using ChatGPT](https://youtu.be/jqruk2Iu5ds) — 30,721 views, 157d old
-  - [Using A.I. for Your Job Search in 2026](https://youtu.be/7SbGce4ZHq8) — 13,947 views, 260d old
+  - [Infinite Certus Quartz Dust, Charged Certus Quartz, and Fluix Crystal farm! [All the Mods 10]](https://youtu.be/YAXLc-5KLvE) — 104,914 views, 503d old
+  - [Autocrafting Charged Certus Quartz and Fluix Crystal in AE2 - Minecraft 1.20.1 tutorial](https://youtu.be/Qw9fFoVxzSQ) — 59,245 views, 995d old
+  - [Unlimited Certus Quartz & Automated Fluix Crystals! | AE2 ATM10 Guide](https://youtu.be/JE4g0z2ZOLU) — 2,863 views, 129d old
 
 ---
 
-## #5: Chatgpt For Facebook Posts
+## #5: How To Use Ai To Organize Your Files
 
-**Target Search Query**: `chatgpt for facebook posts`
+**Target Search Query**: `how to use ai to organize your files`
 
-**Competition Score**: 0.56/1.00 *(Lower is better)*
+**Competition Score**: 0.59/1.00 *(Lower is better)*
 
 **Current Top Ranking Videos**:
-  - [How to Use ChatGPT for Facebook Posts](https://youtu.be/zx9pbSCXcDc) — 830 views, 62d old
-  - [How To Use ChatGPT For Facebook Marketing](https://youtu.be/k2WPpvgBLm8) — 545 views, 59d old
-  - [How To Use ChatGPT For Facebook Posts (2026 Step-by-Step Guide)](https://youtu.be/zNnZLdX2oEc) — 997 views, 174d old
+  - [Stop Organizing Files Yourself.](https://youtu.be/peP_o66u-vM) — 216,291 views, 59d old
+  - [Automatically Organize Your Files With GPT-4 #ai #chatgpt #adhd](https://youtu.be/-vMSStVNtYQ) — 38,691 views, 1078d old
+  - [FINALLY! AI-assisted Document Organization with Claude Cowork](https://youtu.be/6A7d6Am5mck) — 68,254 views, 312d old
 
 ---
